@@ -119,7 +119,7 @@ FPA
 
 .. |STYLE0| replace:: **Libro bianco sull'innovazione della Pubblica Amministrazione**
 
-.. |STYLE1| replace:: **Raccolta dei contenuti, editing dei testi, architettura del documento:**
+.. |STYLE1| replace:: **Raccolta dei contenuti, dei commenti, editing dei testi, architettura del documento:**
 
 .. |STYLE2| replace:: **Elaborazione per la visualizzazione dei testi su**
 
