@@ -67,7 +67,7 @@ Il \ |LINK2|\ , nella sua prima stesura, è stato in consultazione dal 28 giugno
 
 
 
-.. admonition:: Team per la redazione del Libro Bianco 2018 su ``Read the Docs``
+.. admonition:: Team per la redazione del Libro Bianco partecipato 2018
 
     \ |STYLE1|\ 
     
