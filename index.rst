@@ -13,7 +13,7 @@ Libro bianco sull’innovazione della PA
 
 Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da \ |LINK1|\  con l’obiettivo di costruire un’agenda dell’innovazione per la nuova legislatura. 
 
-La stesura iniziale del \ |LINK2|\  è stata in consultazione dal 28 giugno al 15 settembre 2018 e sono stati registrati oltre 200 commenti.
+Il \ |LINK2|\ , nella sua prima stesura, è stato in consultazione dal 28 giugno al 15 settembre 2018 e sono stati registrati oltre 200 commenti.
 
 
 |REPLACE2|
