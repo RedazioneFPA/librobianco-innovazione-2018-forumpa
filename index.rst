@@ -13,7 +13,7 @@ Libro bianco sull’innovazione della PA
 
 Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con l’obiettivo di costruire un’agenda dell’innovazione per la nuova legislatura. 
 
-Il \ |LINK1|\  è stato in consultazione dall'inizio di luglio al 15 settembre 2018 e sono stati registrati oltre 200 commenti.
+Il \ |LINK1|\  è stato in consultazione dal 28 giugno al 15 settembre 2018 e sono stati registrati oltre 200 commenti.
 
 
 |REPLACE2|
