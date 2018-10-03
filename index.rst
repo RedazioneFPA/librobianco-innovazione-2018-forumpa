@@ -8,7 +8,7 @@ Libro bianco sull’innovazione della PA
 
 Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con l’obiettivo di costruire un’agenda dell’innovazione per la nuova legislatura. 
 
-Il \ |LINK1|\  è stato in consultazione dal ….. al 15 settembre 2018 e sono stati registrati oltre 200 commenti.
+Il \ |LINK1|\  è stato in consultazione dall'inizio di luglio al 15 settembre 2018 e sono stati registrati oltre 200 commenti.
 
 
 |REPLACE2|
@@ -54,13 +54,60 @@ Il \ |LINK1|\  è stato in consultazione dal ….. al 15 settembre 2018 e sono s
 
 ..  Important:: 
 
-    I contenuti del Libro bianco sono rilasciati da FPA con licenza Creative Commons \ |LINK2|\ 
+    I contenuti del Libro bianco sono rilasciati da \ |LINK2|\  con licenza Creative Commons \ |LINK3|\ 
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+
+.. admonition:: Team per la redazione del Libro Bianco 2018 su ``Read the Docs``
+
+    \ |STYLE1|\ 
+    
+    * Carlo Mochi Sismondi (FPA)
+    
+    * Gianni Dominici (FPA)
+    
+    * Andrea Ivan Baldassarre (FPA)
+    
+    * Marina Bassi (FPA)
+    
+    * Eleonora Bove (FPA)
+    
+    * Patrizia Fortunato (FPA)
+    
+    * Paola Musollino (FPA)
+    
+    * Massimiliano Roma (FPA)
+    
+    * Luigi Rosati (FPA)
+    
+    * Giovanna Stagno (FPA)
+    
+    * Michela Stentella (FPA)
+    
+    * Antonio Veraldi (FPA)
+    \ |STYLE2|\  ``Read the Docs``,  \ |STYLE3|\  \ |STYLE4|\  ``Github``\ |STYLE5|\ 
+    
+    * \ |LINK4|\  (Comune di Palermo, OpendataSicilia)
 
 
 .. bottom of content
 
 
 .. |STYLE0| replace:: **Libro bianco sull'innovazione della Pubblica Amministrazione**
+
+.. |STYLE1| replace:: **Raccolta dei contenuti, editing dei testi, architettura del documento:**
+
+.. |STYLE2| replace:: **Elaborazione per la visualizzazione dei testi su**
+
+.. |STYLE3| replace:: **e**
+
+.. |STYLE4| replace:: **gestione del progetto su**
+
+.. |STYLE5| replace:: **:**
 
 
 .. |REPLACE1| raw:: html
@@ -76,5 +123,13 @@ Il \ |LINK1|\  è stato in consultazione dal ….. al 15 settembre 2018 e sono s
 
 .. |LINK2| raw:: html
 
+    <a href="http://www.forumpa.it/" target="_blank">FPA</a>
+
+.. |LINK3| raw:: html
+
     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">CC BY NC SA</a>
+
+.. |LINK4| raw:: html
+
+    <a href="http://cirospat.readthedocs.io" target="_blank">Ciro Spataro</a>
 
