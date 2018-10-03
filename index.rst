@@ -11,6 +11,9 @@ Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da FPA con
 Il \ |LINK1|\  è stato in consultazione dal ….. al 15 settembre 2018 e sono stati registrati oltre 200 commenti.
 
 
+|REPLACE2|
+
+
 .. toctree::  
     :maxdepth: 2
     :caption: Introduzione
@@ -58,6 +61,9 @@ Il \ |LINK1|\  è stato in consultazione dal ….. al 15 settembre 2018 e sono s
 .. |REPLACE1| raw:: html
 
     <a href="https://twitter.com/FPA_net?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @FPA_net</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+.. |REPLACE2| raw:: html
+
+    <strong><span style="background-color: #243d7a; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Questa è la versione finale partecipata del Libro bianco, edizione 2018</span></strong>
 
 .. |LINK1| raw:: html
 
