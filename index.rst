@@ -16,14 +16,6 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
 
   Home <\ |LINK3|\ >
 
-  <a href="https://twitter.com/FPA_net?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @FPA_net</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-+---+---+
-|   |   |
-+---+---+
-|   |   |
-+---+---+
-
 
 .. toctree::  
     :maxdepth: 2
