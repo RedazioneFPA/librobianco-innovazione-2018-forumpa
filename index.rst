@@ -62,7 +62,7 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
 
 
 
-.. admonition:: Team per la redazione del libro Bianco partecipato 2018
+.. admonition:: Team per la redazione del libro bianco partecipato 2018
 
     \ |STYLE1|\ 
     
