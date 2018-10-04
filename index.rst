@@ -93,12 +93,15 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
 
 --------
 
-.. _h1d445122d6a85e43702145916035:
+.. _h5f69794bf281257387f147e1e424a2c:
 
-FPA
-***
+FPA 
+****
 
-\ |LINK6|\  è la società del Gruppo Digital 360, che da 29 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile. \ |STYLE6|\ : 
+
+|REPLACE2|
+
+\ |LINK6|\  è la società del Gruppo Digital 360, che da 29 anni favorisce l’incontro e la collaborazione tra Pubblica Amministrazione, Imprese, mondo della Ricerca e Società civile. \ |STYLE6|\ : 
 
 * \ |STYLE7|\ , per favorire relazioni e partnership tra amministratori, referenti politici, aziende, cittadinanza organizzata;
 
@@ -138,6 +141,9 @@ FPA
 .. |REPLACE1| raw:: html
 
     <strong><span style="background-color: #243d7a; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Questa è la versione finale partecipata del libro bianco, edizione 2018</span></strong>
+.. |REPLACE2| raw:: html
+
+    <img src="http://www.forumpa.it/assets/site/brand-forum-pa.jpg"/>
 
 .. |LINK1| raw:: html
 
