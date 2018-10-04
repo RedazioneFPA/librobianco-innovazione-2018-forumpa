@@ -38,16 +38,9 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
 
 .. toctree::  
     :maxdepth: 2
-    :caption: Contributi
-
-    partecipazione-libro-bianco
-
-
-.. toctree::  
-    :maxdepth: 2
     :caption: Team
 
-    chi-siamo
+    chi-ha-contribuito
 
 
 .. admonition:: Licenza
