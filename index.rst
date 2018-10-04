@@ -14,7 +14,7 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
 .. toctree::
   :maxdepth: 2
 
-  Home <\ |LINK3|\ >
+  Home <https://librobianco-innovazione-pa2018-final.readthedocs.io>
 
 
 .. toctree::  
@@ -52,7 +52,7 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
 
 .. admonition:: Licenza
 
-    I contenuti del libro bianco sono rilasciati da \ |LINK4|\  con licenza Creative Commons \ |LINK5|\ 
+    I contenuti del libro bianco sono rilasciati da \ |LINK3|\  con licenza Creative Commons \ |LINK4|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -89,7 +89,7 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
     * Antonio Veraldi (FPA)
     \ |STYLE2|\  ``Read the Docs``  \ |STYLE3|\  \ |STYLE4|\  ``Github``\ |STYLE5|\ 
     
-    * \ |LINK6|\  (Comune di Palermo, OpendataSicilia)
+    * \ |LINK5|\  (Comune di Palermo, OpendataSicilia)
 
 --------
 
@@ -98,7 +98,7 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
 FPA
 ***
 
-\ |LINK7|\  è la società del Gruppo Digital 360, che da 29 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile. \ |STYLE6|\ : 
+\ |LINK6|\  è la società del Gruppo Digital 360, che da 29 anni favorisce l’incontro e la collaborazione tra pubblica amministrazione, imprese, mondo della ricerca e società civile. \ |STYLE6|\ : 
 
 * \ |STYLE7|\ , per favorire relazioni e partnership tra amministratori, referenti politici, aziende, cittadinanza organizzata;
 
@@ -149,21 +149,17 @@ FPA
 
 .. |LINK3| raw:: html
 
-    <a href="https://librobianco-innovazione-pa2018-final.readthedocs.io" target="_blank">https://librobianco-innovazione-pa2018-final.readthedocs.io</a>
+    <a href="http://www.forumpa.it/" target="_blank">FPA</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://www.forumpa.it/" target="_blank">FPA</a>
+    <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">CC BY NC SA</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">CC BY NC SA</a>
-
-.. |LINK6| raw:: html
-
     <a href="http://cirospat.readthedocs.io" target="_blank">Ciro Spataro</a>
 
-.. |LINK7| raw:: html
+.. |LINK6| raw:: html
 
     <a href="http://www.forumpa.it/" target="_blank">FPA</a>
 
