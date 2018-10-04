@@ -53,6 +53,7 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
 .. admonition:: Licenza
 
     I contenuti del libro bianco sono rilasciati da \ |LINK3|\  con licenza Creative Commons \ |LINK4|\ 
+    (attribuzione all'autore dei contenuti - contenuti non riusabili per scopi commerciali - se riusi i contenuti devi utilizzare la stessa licenza del materiale originario)
 
 .. _h2c1d74277104e41780968148427e:
 
