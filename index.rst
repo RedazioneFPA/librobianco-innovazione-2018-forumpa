@@ -1,11 +1,4 @@
 
-|REPLACE1|
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h4c627b4b7731570491e1ae1dc5b5d:
 
 Libro bianco sull’innovazione della PA
@@ -13,10 +6,10 @@ Libro bianco sull’innovazione della PA
 
 Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da \ |LINK1|\  con l’obiettivo di costruire un’agenda dell’innovazione per la nuova legislatura. 
 
-Il \ |LINK2|\ , nella sua prima stesura, è stato in consultazione dal 28 giugno al 15 settembre 2018 e sono stati registrati oltre 200 commenti.
+Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e sono stati registrati oltre 200 commenti.
 
 
-|REPLACE2|
+|REPLACE1|
 
 .. toctree::
   :maxdepth: 2
@@ -57,9 +50,9 @@ Il \ |LINK2|\ , nella sua prima stesura, è stato in consultazione dal 28 giugno
     chi-siamo
 
 
-..  Important:: 
+.. admonition:: Licenza
 
-    I contenuti del Libro bianco sono rilasciati da \ |LINK3|\  con licenza Creative Commons \ |LINK4|\ 
+    I contenuti del libro bianco sono rilasciati da \ |LINK3|\  con licenza Creative Commons \ |LINK4|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -67,7 +60,7 @@ Il \ |LINK2|\ , nella sua prima stesura, è stato in consultazione dal 28 giugno
 
 
 
-.. admonition:: Team per la redazione del Libro Bianco partecipato 2018
+.. admonition:: Team per la redazione del libro Bianco partecipato 2018
 
     \ |STYLE1|\ 
     
@@ -94,9 +87,11 @@ Il \ |LINK2|\ , nella sua prima stesura, è stato in consultazione dal 28 giugno
     * Michela Stentella (FPA)
     
     * Antonio Veraldi (FPA)
-    \ |STYLE2|\  ``Read the Docs``,  \ |STYLE3|\  \ |STYLE4|\  ``Github``\ |STYLE5|\ 
+    \ |STYLE2|\  ``Read the Docs``  \ |STYLE3|\  \ |STYLE4|\  ``Github``\ |STYLE5|\ 
     
     * \ |LINK5|\  (Comune di Palermo, OpendataSicilia)
+
+--------
 
 .. _h1d445122d6a85e43702145916035:
 
@@ -117,7 +112,7 @@ FPA
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Libro bianco sull'innovazione della Pubblica Amministrazione**
+.. |STYLE0| replace:: **libro bianco sull'innovazione della Pubblica Amministrazione**
 
 .. |STYLE1| replace:: **Raccolta dei contenuti, dei commenti, editing dei testi, architettura del documento:**
 
@@ -142,10 +137,7 @@ FPA
 
 .. |REPLACE1| raw:: html
 
-    <a href="https://twitter.com/FPA_net?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @FPA_net</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-.. |REPLACE2| raw:: html
-
-    <strong><span style="background-color: #243d7a; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Questa è la versione finale partecipata del Libro bianco, edizione 2018</span></strong>
+    <strong><span style="background-color: #243d7a; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Questa è la versione finale partecipata del libro bianco, edizione 2018</span></strong>
 
 .. |LINK1| raw:: html
 
@@ -153,7 +145,7 @@ FPA
 
 .. |LINK2| raw:: html
 
-    <a href="https://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">libro bianco</a>
+    <a href="https://forumpa-librobianco-innovazione-2018.readthedocs.io/" target="_blank">libro bianco, nella sua prima stesura</a>
 
 .. |LINK3| raw:: html
 
