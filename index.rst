@@ -93,11 +93,6 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
 
 --------
 
-.. _h5f69794bf281257387f147e1e424a2c:
-
-FPA 
-****
-
 
 |REPLACE2|
 
