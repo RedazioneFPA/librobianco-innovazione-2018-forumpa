@@ -165,7 +165,7 @@ Le riforme degli ultimi anni hanno permesso di fare passi in avanti, anche se pe
 
 In un processo mondiale di crescente competitività del sistema, si gioca sempre di più, oltre che su fattori interni all’economia su condizioni esterne, sia in termini di dotazioni infrastrutturali/materiali che immateriali/di sistema. Una pubblica amministrazione che funziona è una pubblica amministrazione che sa valutare e scegliere dove andare.
 
-La valutazione delle performance correttamente intesa, ossia non come "ulteriore adempimeto", ma come processo realmente volto al riconoscimento dei meriti e al miglioramento continuo sia del singolo che dell'organizzazione nel suo complesso, può rappresentare un fondamentale driver di sviluppo e innovazione.
+La valutazione delle performance correttamente intesa, ossia non come "ulteriore adempimento", ma come processo realmente volto al riconoscimento dei meriti e al miglioramento continuo sia del singolo che dell'organizzazione nel suo complesso, può rappresentare un fondamentale driver di sviluppo e innovazione.
 
 Di questa necessità macro dovrà tener conto subito il nuovo Governo.
 
@@ -256,6 +256,8 @@ Il progresso amministrativo non potrà che allontanarsi sempre di più dal mero 
 #. Favorire i meccanismi di lavoro flessibile orientato al risultato;
 
 #. Completare il processo di crescita digitale dei dipendenti pubblici.
+
+|
 
 .. _h477b67686c326452282115c4153483c:
 
@@ -364,7 +366,7 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
 
     Lo smart working agisce sulle persone, su tutte le persone dell’organizzazione, dal funzionario al dirigente. È importante formare adeguatamente i Dirigenti affinché diventino parte integrante del processo e dei cambiamenti che portà con sé in termini di pianificazione e valutazione dei risultati, coordinamento dei gruppi di lavoro, flussi e dinamiche attivate. Solo così si potrà puntare su una vera valorizzazione delle competenze e sul riorientamento della mission del lavoro pubblico -  dall’adempimento al servizio – che lo smart working è in grado di abilitare.
 
-    .
+    |.
 
 .. _h4c167f32a141a761c12e338354e72:
 
@@ -503,9 +505,7 @@ Sul lato della quantità e della presenza delle PA sulle nuove piattaforme di co
 
 Passando per un riconoscimento formale di molte di queste professioni, è importante che il Ministro per la Pubblica Amministrazione sostenga il processo verso la definizione di un nuovo Ufficio unitario che comprenda: informazione, tradizionale e social; trasparenza totale e rapporti con il cittadino; gestione eventi; consultazioni pubbliche e citizen satisfaction; comunicazione interna.
 
-
-
- In conformità ai principi della normativa “FOIA” (D. Lgs. 97/2016), che conferma molte delle norme del D Lgs. 33/2013, è suggeribile l’uso sistematico e professionale dei \ |STYLE45|\  con conoscenza specifica di meccanismi e linguaggi, nonché sempre previa predisposizione di policy e procedure. In tal modo, i professionisti possono proficuamente contribuire al dibattito pubblico, necessario presupposto dell'esercizio dei diritti di cittadinanza. Assicurare l’accesso a internet per i pubblici dipendenti e utilizzare i \ |STYLE46|\  per la trasparenza sono indicazioni entrate anche a far parte di documenti strategici quali il \ |LINK13|\  e il Piano triennale per l’Informatizzazione delle PA. 
+In conformità ai principi della normativa “FOIA” (D. Lgs. 97/2016), che conferma molte delle norme del D Lgs. 33/2013, è suggeribile l’uso sistematico e professionale dei \ |STYLE45|\  con conoscenza specifica di meccanismi e linguaggi, nonché sempre previa predisposizione di policy e procedure. In tal modo, i professionisti possono proficuamente contribuire al dibattito pubblico, necessario presupposto dell'esercizio dei diritti di cittadinanza. Assicurare l’accesso a internet per i pubblici dipendenti e utilizzare i \ |STYLE46|\  per la trasparenza sono indicazioni entrate anche a far parte di documenti strategici quali il \ |LINK13|\  e il Piano triennale per l’Informatizzazione delle PA. 
 
 Diverse sono le iniziative recenti, come quella della Federazione nazionale della Stampa italiana e dell’Ordine dei Giornalisti che hanno rilanciato le attività e le professionalità comunicative nei quattro contratti del pubblico impiego, firmati tra dicembre e febbraio scorsi: funzioni centrali, funzioni locali, sanità e istruzione e ricerca. Sono stati inseriti in appositi articoli i nuovi profili della comunicazione e dell'informazione. È stata introdotta per la prima volta la dimensione professionale del giornalismo pubblico che dovrà, naturalmente, diventare unificante delle funzioni comunicative all'interno di un ufficio unico. 
 
@@ -517,9 +517,8 @@ Costituisce un ottimo supporto per tutti i professionisti della comunicazione, c
 
 .. admonition:: Raccomandazione 2.4a - Promuovere un modello organizzativo unico
 
-    I cambiamenti in atto impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso, nel quale far confluire sia le funzioni tradizionali sia le nuove (come consultazioni pubbliche, trasparenza, valutazione, \ |STYLE48|\ ), il riconoscimento di un profilo unitario, quello del giornalismo pubblico che ricomprenda tutte le figure tradizionali quanto le nuove (addetto stampa, s\ |STYLE49|\ ). Occorrono anche approcci nuovi per la comunicazione interna, nuovi modelli di lavoro agile, nuove competenze.
+    I cambiamenti in atto impongono il superamento delle vecchie divisioni, la proposta di un modello organizzativo unico e diffuso, nel quale far confluire sia le funzioni tradizionali sia le nuove (come consultazioni pubbliche, trasparenza, valutazione, \ |STYLE48|\ ), il riconoscimento di un profilo unitario, quello del giornalismo pubblico che ricomprenda tutte le figure tradizionali quanto le nuove (addetto stampa, s\ |STYLE49|\ ). Occorrono anche approcci nuovi per la comunicazione interna, nuovi modelli di lavoro agile, nuove competenze\ [#F3]_\ .
 
-\ [#F3]_\ 
 
 .. admonition:: Raccomandazione 2.4b - Inserire la comunicazione nel sistema pianificatorio delle PA
 
@@ -562,6 +561,8 @@ La conservazione digitale è stata in questi anni al centro di molte iniziative 
 .. admonition:: Raccomandazione 2.5a - Definire con maggior chiarezza i modelli organizzativi dell’archiviazione
 
     In particolare va definito il modello organizzativo che riguarda l’archiviazione e la conservazione a norma, su cui il Piano Triennale è intervenuto riconoscendo il ruolo dell’Archivio centrale dello Stato, ma lasciando parzialmente irrisolto il sistema delle responsabilità istituzionali in tema di vigilanza e la complessità di gestione degli archivi ibridi.
+
+|
 
 .. _h847175f3ab4b793b4368515b35b70:
 
@@ -620,17 +621,17 @@ Uno dei pilastri del Nuovo Codice, forse il più importante, è costituito dalla
 
     La qualificazione delle stazioni appaltanti avrebbe dovuto rappresentare la vera chiave di volta del sistema, ma che è ancora di là da venire e, comunque, difficilmente potrà essere efficacemente realizzata, in carenza di adeguati investimenti, che non sembrano essere stati previsti. 
 
-|
 
 .. admonition:: Raccomandazione 2.6b - Definizione di protocolli e processi standard
 
     Sarebbe consigliabile che l'ANAC proponesse il disegno e la descrizione di un processo standard, che definisca attori - interni ed esterni -, procedure generali, responsabilità - la c.d. RACI -, ecc., integrato con riferimenti ai singoli precetti normativi e/o alle linee guida. Ciascuna stazione appaltante potrà ritagliare e adeguare il processo in base alla propria realtà in termini di dimensione, volumi e tipologie di acquisti effettuati.
 
-|
 
 .. admonition:: Raccomandazione 2.6c - Assunzione di figure multidisciplinari negli uffici gare delle stazioni appaltanti
 
     Come ci dimostrano alcune buone pratiche, la presenza di figure esperte di project management consentirebbe di svolgere le attività di procurement delle forniture in modo: efficiente (p.e. tempi ragionevolmente contenuti per giungere all’affidamento del contratto, magari senza proroghe); efficace (p.e. scelta del fornitore più adeguato in termini di qualità/prezzo); trasparente (p.e. chiarezza verso gli stakeholder delle decisioni prese). Così hanno fatto gli USA con il “Program Management Improvement and Accountability Act” (PMIAA), che nel 2016 ha introdotto nel codice federale due importanti innovazioni: l’attribuzione di specifiche competenze in materia di program/project management al “Deputy Director per il management” dell’Office of Management and Budget (OMB) e l’istituzione di figure di program manager nella stessa organizzazione, oltre che l’istituzione di un Policy Council di program management. Meglio ancora in UK, dove una delle più diffuse metodologie di project (e portfolio/program) management contenente analoghi principi sia stata sviluppata dalla stessa PA britannica e sin dall’inizio imposta ai propri fornitori, oltre che a se stessa. 
+
+|
 
 .. _h156876146c216d117b56377de57c5f:
 
@@ -649,6 +650,8 @@ Lo spostamento netto dell’ago della bilancia verso la valorizzazione degli asp
 
     Tale processo dovrebbe essere pubblico in tutti i suoi aspetti, al limite anonimizzando i dati riservati, per permettere la valutazione della correttezza di tale processo. Sarebbe anche utile avere dei sistemi di supporto alle decisioni che si stanno sempre più affinando con le tecniche di intelligenza artificiale.
 
+|
+
 .. _h3d2231792332f56687a7544693a25:
 
 Analisi della spesa
@@ -665,6 +668,8 @@ Si è fatta forte l’esigenza di un monitoraggio costante dell’andamento  del
 .. admonition:: Raccomandazione 2.6g - Introduzione di attività di internal audit per lotta alla corruzione
 
     L’introduzione di audit interni permetterebbe di: rivitalizzare i controlli di legalità nell’ambito di un’attività di prevenzione di impronta collaborativa e consulenziale, volta a fronteggiare i rischi di illegalità e cattivo uso di risorse; stimolare i dirigenti a prevenire violazioni e sprechi; dare l’allarme laddove si registrino i rischi maggiori, di cattiva gestione o fatti illeciti; A chi svolge questa attività va garantita l’autonomia necessaria a conservare neutralità. Le norme anticorruzione introdotte negli ultimi anni contengono elementi che vanno nella giusta direzione (analisi dei rischi e piani di prevenzione della corruzione), ma in modo generico e globalmente parziale. E’ inoltre illusorio confidare nell’efficacia della sanzione, o repressione penale, per contrastare efficacemente comportamenti illeciti nella pubblica amministrazione.
+
+|
 
 .. _h244d3d595f6d461c761b507f157f551e:
 
