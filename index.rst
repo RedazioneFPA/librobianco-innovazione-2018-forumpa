@@ -91,8 +91,6 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
     
     * \ |LINK5|\  (Comune di Palermo, OpendataSicilia)
 
---------
-
 
 |REPLACE2|
 
