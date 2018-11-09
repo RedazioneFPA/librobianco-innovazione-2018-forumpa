@@ -26,7 +26,7 @@ In questo paragrafo vengono trattati alcuni punti relativi alla governance della
 .. _h5015697e36860cfc77411c36584b:
 
 Strutture di governance 
-------------------------
+========================
 
 L’innovazione della PA necessita sempre più di una chiara governance, che consenta di coordinare la transizione al digitale dei tanti Enti che erogano servizi pubblici, attraverso la razionalizzazione delle soluzioni e la condivisione delle competenze e delle risorse. In questo senso, è fondamentale organizzare una guida forte, capace di dare ascolto ai bisogni dei diversi territori e degli svariati stakeholder (pubblici e privati) che devono essere coinvolti nel processo di trasformazione digitale della PA. 
 
@@ -47,7 +47,10 @@ Eppure, AgID trova ancora oggi difficoltà a garantire l’attuazione di regole 
 
 | 
 
+.. _h6e31755234142f6e3a38174377526215:
+
 L’esperienza del Team digitale  
+--------------------------------
 
 Esiste una sostanziale convergenza degli addetti ai lavori nel ritenere come positiva l’esperienza del Team per la trasformazione digitale. In particolare, vengono messi in evidenza alcuni fattori di successo, riconducibili principalmente a composizione del Team e approccio adottato.  
 
@@ -62,7 +65,10 @@ Per quanto attiene al primo aspetto, è innegabile che l’apertura a persone es
 
 | 
 
+.. _hf454472271d75192a57542815d4a78:
+
 Rapporto centro-territorio 
+===========================
 
 L’attuazione delle varie linee d’azione previste dal Piano triennale passa necessariamente da un migliore coordinamento tra livello centrale ed enti del territorio. In questo senso, Regioni ed enti di area vasta svolgono un ruolo fondamentale nell’assorbire la tensione tra il pressing di norme e framework definiti a livello nazionale e le istanze meno organizzate del territorio, supportando gli enti del proprio territorio a dare seguito ai programmi definiti all’interno del Piano e a convergere su standard tecnologici e politiche d’innovazione comuni.   
 
@@ -75,7 +81,10 @@ L’attuazione delle varie linee d’azione previste dal Piano triennale passa n
 
 | 
 
+.. _h7b11182a6304757691f662f427d25:
+
 Digitale e normativa 
+=====================
 
 L’esigenza di adeguare la normativa di riferimento alle priorità dell’Agenda Digitale e al mutato contesto tecnologico ha portato a ben due interventi di revisione del \ |STYLE8|\ , emanati in attuazione della delega prevista dall’art. 1 della legge delega di riforma della pubblica amministrazione (c.d. riforma Madia): 
 
@@ -95,7 +104,10 @@ Si tratta, rispettivamente, della quinta e sesta revisione del Codice in 13 anni
 
 | 
 
+.. _h4f483231476d2b318676643287222:
+
 3.2 Servizi e piattaforme per la cittadinanza digitale 
+*******************************************************
 
 Secondo i dati del DESI 2018, l’Italia continua a far registrare prestazioni altalenanti in tema di eGovernment, posizionandosi al \ |STYLE10|\  nella dimensione \ |STYLE11|\ , seppur con un incremento di oltre 5 punti percentuali (da 47% a 52,5%), dovuto principalmente all’introduzione dell’indicatore relativo alla sanità digitale.  
 
@@ -107,7 +119,10 @@ L’Italia conferma i risultati discreti per livello di disponibilità di serviz
 
 | 
 
+.. _h433c361a6b5621e3b166324a7b5139:
+
 Design dei servizi online  
+===========================
 
 L’edizione 2018 del DESI attribuisce la causa di tali performance a “problemi di utilizzabilità” dei servizi pubblici, traducibili nel dettaglio in scarsa usabilità, poca chiarezza percepita dall’utente ed eccessiva rigidità delle soluzioni adottate. 
 
@@ -142,7 +157,10 @@ Le azioni avviate promettono quindi di apportare un beneficio concreto in termin
 
 | 
 
+.. _h4ef70621e5180783c1536622975272f:
+
 Promozione dei servizi 
+=======================
 
  
 
@@ -174,13 +192,19 @@ Assumono quindi grande importanza sia le azioni di comunicazione quanto le inizi
 
 | 
 
+.. _h472e6b2a2c4b436d1b5215301f62193b:
+
 Piattaforme abilitanti 
+=======================
 
 Il completo dispiegamento delle principali piattaforme nazionali per la cittadinanza digitale (\ |STYLE29|\ ) consentirebbe a tutte le amministrazioni di usufruire di funzionalità trasversali e riusabili nei singoli progetti, accelerando e uniformando lo sviluppo di servizi digitali per il cittadino e l’impresa. 
 
 Per far fronte alle difficoltà riscontrate nell’adesione delle amministrazioni alle piattaforme, AgID e Team Digitale hanno messo in campo una serie di azioni volte a garantire la loro piena diffusione, concentrandosi in particolare sull’evoluzione di quelle già operative ma non ancora utilizzate da tutte le PA (SPID e PagoPA), sul completamento di quelle maggiormente in ritardo (ANPR) e sulla messa in esercizio di quelle nuove (ComproPA, Siope+, ecc.). Tali sforzi vanno ora rilanciati, al fine di dare piena attuazione a una delle componenti principali del nuovo sistema operativo del Paese. 
 
+.. _h56304f7665c137d2c103f7e7b7f3d38:
+
 SPID 
+-----
 
 \ |STYLE30|\  conta oggi più di 4.000 amministrazioni attive (già superato il target di 3.000 per il 2018) e circa 400 tipologie di servizi abilitati. Sin dal momento del suo avvio il sistema ha però sofferto della scarsa diffusione tra i cittadini italiani. A fine 2017 le identità digitali rilasciate erano circa 2 milioni, lontanissime dall’obiettivo originario di 10 milioni8. Eppure, proprio a partire dalla seconda metà del 2017 le identità rilasciate hanno iniziato a crescere in maniera significativa, attestandosi oggi a più di 2,7 milioni. 
 
@@ -201,7 +225,11 @@ SPID rappresenta senza alcun dubbio l’architrave su cui si fondare la cittadin
 
     Per diffondere l’utilizzo di SPID, si potrebbe partire proprio dalla PA abilitando e dotando di SPID tutti i propri dipendenti, sia della PA centrale che di quella locale. A loro volta i dipendenti PA si faranno promotori per dotare di SPID i propri famigliari. Per ridurre le resistenze si potrebbe utilizzare SPID anche per accedere ai sistemi informativi delle singole PA. 
 
+.. _h3216251e35f235283f27846594944:
+
 ANPR 
+-----
+
 
 .. admonition:: Raccomandazione 3.2i - Accelerare l’avvio del domicilio digitale attraverso il completamento dell’infrastruttura nazionale per gli avvisi e le notifiche di cortesia
 
@@ -211,7 +239,10 @@ ANPR
 
 | 
 
+.. _h5370a7c1e76582b49d4712fa6379:
+
 3.3 Interoperabilità e principio once only 
+*******************************************
 
 Una delle principali barriere allo sviluppo di servizi di qualità al cittadino è ancora oggi la mancanza di integrazione tra dati e servizi delle diverse amministrazioni. Il nostro ordinamento prevede già dagli anni 90 il divieto per le amministrazioni di chiedere all’utente dati e informazioni personali già fornite ad altri enti. Un obbligo ormai formalizzato \ |LINK14|\ , con il nome di \ |STYLE38|\ , ma ancora disatteso nei fatti, a causa della scarsa \ |STYLE39|\  dei diversi sistemi informativi della PA. 
 
@@ -262,7 +293,10 @@ Per garantire il successo del nuovo modello sarà tuttavia necessario intraprend
 
 | 
 
+.. _h654754957622ac5c1c3d2e7512a7b:
+
 3.4 Infrastruttura e Cloud 
+***************************
 
 Il Piano triennale di AgID ha delineato un percorso volto al consolidamento delle infrastrutture digitali delle PA. La razionalizzazione delle infrastrutture IT rappresenta infatti un elemento cardine della complessiva strategia italiana per la crescita digitale, passaggio necessario per garantire maggiori livelli di efficienza, sicurezza e rapidità nell’erogazione dei servizi a cittadini e imprese. 
 
@@ -274,7 +308,10 @@ Alcuni importanti passi sono già stati compiuti: è il caso delle circolari sui
 
 Sebbene la strada sia ormai tracciata, il percorso di attuazione dovrà tener conto di alcune criticità da affrontare in maniera prioritaria. 
 
+.. _h71717f81225c2e397849644545f6d:
+
 Migrazione delle applicazioni in cloud 
+=======================================
 
 Il consolidamento dei data center senza il quello delle applicazioni genera scarso valore e, in certi casi, rischia di avere un effetto netto di crescita dei costi (anche assumendo l’adozione di ambienti fortemente virtualizzati). 
 
@@ -290,7 +327,11 @@ Il percorso attuativo del processo di razionalizzazione del patrimonio informati
 
     Il processo di migrazione può essere aiutato se si alza la prospettiva dal solo livello infrastrutturale a quello applicativo. Spesso le realtà locali, almeno su alcune tipologie di software, hanno esigenze del tutto simili portate però a termine con applicativi diversi. Incentivare le iniziative di aggregazione tra questi enti limitrofi a livello territoriale e valorizzare quelle già esistenti può essere un primo passo per rendere possibile il processo di migrazione e accorciare i tempi di attuazione del piano su tutto il territorio. Soprattutto alla luce di situazioni in cui è già presente un reparto IT ben strutturato e sono stati effettuati ingenti investimenti in tecnologia pregressi, che possono e devono essere valorizzati. Anche a livello di PSN, pensare alla creazione di un’offerta applicativa oltre che infrastrutturale può essere un elemento di spinta per gli enti verso la centralizzazione. 
 
+.. _h5e702f4c26254064411a22681e35c33:
+
 Ulteriori spunti 
+=================
+
 
 .. admonition:: Raccomandazione 3.4c - Garantire il maggior coinvolgimento possibile di tutti gli stakeholder nel percorso di transizione al modello basato su Cloud
 
@@ -313,7 +354,10 @@ Ulteriori spunti
 
 | 
 
+.. _h424742371133421c580633185550:
+
 3.5 Sicurezza informatica 
+**************************
 
 Il triennio 2016-2018 sarà probabilmente ricordato come quello della presa di coscienza del rischio \ |STYLE52|\  e della necessità di un deciso cambio di passo in tema di sicurezza informatica nella pubblica amministrazione. Non è infatti un caso che la legislatura appena conclusa sia stata caratterizzata da una produzione normativa e regolamentare senza precedenti che, anche per effetto dell’accelerazione impressa dall’adozione di importanti provvedimenti in ambito UE (\ |LINK23|\  e \ |LINK24|\  su tutti), ha portato non solo alla ridefinizione dell’architettura nazionale e della strategia italiana per la sicurezza, ma anche a una nuova centralità del tema nel percorso evolutivo dell’informatica pubblica. 
 
@@ -325,7 +369,10 @@ La strada da percorrere è però ancora lunga, sia in termini di completamento d
 
 | 
 
+.. _h625575c5824536fc4f4c742333541c:
+
 Sicurezza e normativa tecnica 
+==============================
 
 Un primo fondamentale passo sarà costituito dal completamento delle azioni previste dal Piano, in particolare l'approvazione delle \ |STYLE54|\  e le \ |STYLE55|\ , due importanti documenti tecnici originariamente attesi per l'autunno dello scorso anno. 
 
@@ -339,9 +386,10 @@ Tuttavia, l'esperienza maturata negli ultimi anni suggerisce di adottare un dive
 
 | 
 
-Collaborazione tra pubblico e privato 
+.. _h11756e3f38741955d3f6ff1c1a1b30:
 
- 
+Collaborazione tra pubblico e privato 
+======================================
 
 La sfida per l’Italia negli anni a venire è quella di approcciare al tema della sicurezza come sistema Paese. Per far ciò è essenziale che organizzazioni pubbliche e private si rafforzino in maniera omogenea e reciproca, evitando così che un anello debole della catena possa inficiare la sicurezza del sistema nella sua interezza.  
 
@@ -356,7 +404,10 @@ In questo senso anche esperienze negative o non perfettamente riuscite devono se
 
 | 
 
+.. _h6913b74676536e2d77446f12b187b:
+
 Cultura e fattore umano 
+========================
 
 Il miglioramento della sicurezza informatica passa dalla migliore comprensione dei comportamenti degli operatori di un’organizzazione e delle diverse modalità con cui le persone interagiscono con i dati critici e la proprietà intellettuale. Oggi non esistono più utenti “neutri” da un punto di vista della sicurezza: o l’utente è perfettamente consapevole di cosa sta facendo, e pone massima attenzione a ciò che fa, oppure rappresenta un rischio per la sicurezza dell’organizzazione. 
 
@@ -385,7 +436,10 @@ Il mantenimento nel tempo di livelli adeguati di \ |STYLE59|\  alla normativa di
 
 | 
 
+.. _h5f3ae4922552cc97512f283d5f1a:
+
 Sicurezza applicativa e filiera del software 
+=============================================
 
 Storicamente sottovalutata come area su cui operare, la sicurezza applicativa rappresenta un aspetto critico su cui concentrarsi anche in ambito pubblico. Un primo passo in tal senso è stato fatto con l’approvazione da parte di AgID delle \ |LINK28|\ . Tuttavia, molto c’è ancora da fare per abilitare processi di gestione dei fornitori da un punto di vista \ |STYLE64|\ , acquisizione e sviluppo dei prodotti che possano misurare anticipatamente la sicurezza del proprio portafoglio applicativo. 
 
@@ -413,7 +467,10 @@ La sicurezza applicativa passa necessariamente da una migliore politica di vendo
 
 | 
 
+.. _h2e6f3528f4011231e35803e5305fd:
+
 3.6 Dati pubblici 
+******************
 
 I dati rappresentano la materia prima dell’economia digitale. La pubblica amministrazione è il soggetto che produce e utilizza la più grande quantità di dati, dati che se aperti alla collettività svelano tutto il loro potenziale di acceleratori di sviluppo e di crescita. La liberazione e valorizzazione dei dati pubblici rappresenta inoltre uno strumento chiave attraverso cui attuare in pieno l’approccio dell’\ |STYLE69|\  e mettere in pratica i principi di trasparenza, \ |STYLE70|\ , partecipazione e collaborazione. 
 
@@ -421,7 +478,10 @@ I dati rappresentano la materia prima dell’economia digitale. La pubblica ammi
 
 | 
 
+.. _h5f6c6c6a776a2e3b3020203558197c64:
+
 Open Data 
+==========
 
 Il DESI 2018 registra un avanzamento strutturale dell’Italia in tema di dati aperti, passando \ |LINK29|\ , portandosi così sopra la media UE. Ciò conferma quanto espresso dal rapporto \ |LINK30|\ : l’Italia si posiziona tra i \ |STYLE71|\ , ossia i Paesi più avanti rispetto a \ |STYLE72|\ , (la capacità di implementare una politica di Open Data a livello nazionale), e \ |STYLE73|\  (la disponibilità di un portale nazionale di dati aperti usabile e con funzionalità avanzate per il riuso dei dati).  
 
@@ -510,7 +570,10 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 
  
 
+.. _h747c2c4262474c48196c371e275636:
+
 Data & Analytics Framework 
+===========================
 
 Il \ |LINK38|\  \ |STYLE88|\  è il grande progetto di coordinamento a livello nazionale della gestione dei dati delle pubbliche amministrazioni. Il DAF disegna una strada comune per le amministrazioni e vuole essere la strumento per tradurre concretamente la strategia di valorizzazione del patrimonio dati del nostro Paese.
 
@@ -579,7 +642,10 @@ Il DAF è in primis una piattaforma tecnologica con un grande \ |STYLE90|\  e un
 
 | 
 
+.. _h16755d626d7e616d72125e70784a3b53:
+
 3.7 Tecnologie emergenti 
+*************************
 
 Gli ultimi anni hanno visto l’affermazione di nuovi trend nel panorama tecnologico nazionale e internazionale. Trend che sono andati a consolidarsi soprattutto nel mondo privato, ma che recentemente hanno iniziato a fare capolino anche nel panorama della pubblica amministrazione.  
 
@@ -589,7 +655,10 @@ Queste tecnologie rappresentano oggi una nuova frontiera per la PA, che offre gr
 
 | 
 
+.. _h2d3b553844474a1d3925634a81b487:
+
 Blockchain 
+===========
 
 Quando se ne iniziò a parlare su scala globale e l’argomento iniziò a suscitare un certo interesse in ambito business - circa 10 anni fa - blockchain era sinonimo di Bitcoin e cryptovalute. Nel tempo la tecnologia si è sviluppata, soprattutto in ambito finanziario, e oggi che è in una fase di sviluppo più maturo, la blockchain è una tecnologia che può trovare applicazione nei più diversi ambiti dell’economia digitale. I punti di forza risiedono nella decentralizzazione, che contribuisce a garantire la sicurezza tramite la distribuzione delle informazioni e dei ruoli tra più attori, e nell’uso estensivo della crittografia, che garantisce la riservatezza dello scambio di informazioni, oltre all’inalterabilità delle stesse. La debolezza è nel fatto che non esistono ancora standard condivisi su scala internazionale e che si sconta una certa “diffidenza” naturale, tipica delle nuove soluzioni che si affacciano in campi già solidamente strutturati. Ulteriori limiti sono rappresentati dalla mancanza di competenza e da una certa confusione riguardo i suoi possibili utilizzi. 
 
@@ -627,7 +696,10 @@ Tra i possibili ambiti di applicazione della blockchain è emerso in tempi più 
 
 | 
 
+.. _h4a1742263b124142d4654a1635501b:
+
 Intelligenza Artificiale 
+=========================
 
 L’Intelligenza Artificiale (IA) è un paradigma che va sempre più diffondendosi dentro le aziende in quanto fattore tecnologico incredibilmente abilitante, in grado di sollevare le persone dai compiti più semplici per ricollocarle su task dal valore più alto. Oltre che all’interno delle aziende, esistono già diverse applicazioni di questa tecnologia nei sistemi pubblici, come quello scolastico o giudiziario, ma anche nel pubblico impiego o nel sistema sanitario, nella sicurezza o nella gestione delle relazioni coi cittadini. Gli ambiti sono dunque molteplici anche all’interno della PA, che tuttavia non può non tener conto di vizi e criticità portate da una tecnologia così complessa. Su questa consapevolezza si sta muovendo anche l’Agid, che lo scorso settembre ha lanciato una \ |LINK41|\ , che a sua volta ha dato vita a un \ |LINK42|\ , un documento finalizzato a stimolare una riflessione condivisa con gli enti che porti poi alla realizzazione di una vera strategia italiana. 
 
