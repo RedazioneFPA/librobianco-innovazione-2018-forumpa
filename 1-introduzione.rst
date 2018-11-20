@@ -20,17 +20,9 @@ Infine, c’è la \ |STYLE3|\ , l'innovazione viene considerata funzione di un n
 
 Purtroppo, e questo denota l’approccio verticistico e quindi mistificante al tema, oramai la terza gamba dei tre principi dell’open government, quella della \ |STYLE4|\ , è scomparsa dai documenti ufficiali dove invece si parla di trasparenza, partecipazione e cittadinanza digitale tradendo un approccio vecchio e insostenibile di una PA bipolare, magari per alcuni versi illuminata, ma sempre come cosa “altra” rispetto alla molteplicità degli attori sociali.  
 
-Al contrario, una PA abilitante non può che scaturire dalla collaborazione dei diversi attori coinvolti. È la precondizione per quelle che Goldsmith, nel suo ultimo libro\ |STYLE5|\ , chiama \ |STYLE6|\  e dove funzionari, cittadini e partner esterni lavorano insieme per ottenere migliori risultati per la comunità. Riprendendo i temi sviluppati precedentemente nel suo \ |STYLE7|\  
+Al contrario, una PA abilitante non può che scaturire dalla collaborazione dei diversi attori coinvolti. È la precondizione per quelle che Goldsmith, nel suo ultimo libro \ [#F1]_\ , chiama \ |STYLE5|\  e dove funzionari, cittadini e partner esterni lavorano insieme per ottenere migliori risultati per la comunità. Riprendendo i temi sviluppati precedentemente nel suo \ |STYLE6|\  
 
- \ |STYLE8|\ , Goldsmith evidenzia che per favorire il cambiamento e combattere la burocrazia è indispensabile il lavoro comune di tutti gli attori locali dell'innovazione. La PA deve fare riferimento a un modello organizzativo che abbandoni la logica verticale a favore di una orizzontale, in grado di coinvolgere i diversi attori pubblici, privati e del non profit, nella progettazione e gestione dei servizi avanzati. Tale obiettivo può essere perseguito attraverso il riconoscimento e la promozione delle reti e delle connessioni sociali, il governo di processi decisionali inclusivi e di progettazione partecipata e l’uso sapiente delle tecnologie andando a configurare una piattaforma, un sistema sociotecnico in grado di abilitare e sostenere lo sviluppo. Da questa prospettiva la PA abilitante diventa una casa aperta di processi, di informazioni, di dati prodotti dai diversi attori e frutto della collaborazione fra questi.  
-
-Dobbiamo passare dalla metafora della macchinetta automatica a quella del bazar. Nel primo caso, la PA viene descritta come un distributore in cui, inserendo le monete (le nostre tasse) riceviamo un prodotto o un servizio. Per quanto moderna ed evoluta (magari in grado di ricevere un feedback del servizio offerto) rimane un servizio esterno, dove solo pochi fornitori sono ammessi a vendere i propri servizi e, spesso, l’unico modo che ci rimane, a fronte di un problema della macchina nell’erogazione, è di scuoterla violentemente. Nella metafora\ |STYLE9|\  del bazar, al contrario, la comunità dei venditori si scambia beni e servizi 
-
-\ |STYLE10|\  in una logica di collaborazione e competizione nell’ambito di uno spazio comune che è il mercato. Le dimensioni moderne del mercato sono le piattaforme come Amazon e Airbnb che hanno rivoluzionato l’economia di questo secolo favorendo l’incontro tra i diversi attori in uno scenario mondiale 
-
-\ |STYLE11|\ . Piattaforme abilitanti che, come scrisse Francesco Profumo, devono essere pensate per "la costruzione di un nuovo genere di bene comune, una grande infrastruttura tecnologica e immateriale che faccia dialogare persone e oggetti, integrando informazioni e generando intelligenza, producendo inclusione e migliorando il nostro vivere quotidiano" 
-
-\ |STYLE12|\ . 
+Dobbiamo passare dalla metafora della macchinetta automatica a quella del bazar. Nel primo caso, la PA viene descritta come un distributore in cui, inserendo le monete (le nostre tasse) riceviamo un prodotto o un servizio. Per quanto moderna ed evoluta (magari in grado di ricevere un feedback del servizio offerto) rimane un servizio esterno, dove solo pochi fornitori sono ammessi a vendere i propri servizi e, spesso, l’unico modo che ci rimane, a fronte di un problema della macchina nell’erogazione, è di scuoterla violentemente. Nella metafora \ [#F3]_\  del bazar, al contrario, la comunità dei venditori si scambia beni e servizi 
 
 Se caliamo queste considerazioni nelle dinamiche attuali ci rendiamo conto che ci troviamo davanti ad un paradosso, evidente soprattutto a chi ha seguito i lavori di FORUMPA 2018. 
 
@@ -64,18 +56,16 @@ Questo Libro bianco è una tappa importante di questo percorso che ci auguriamo 
 
 .. |STYLE4| replace:: **collaborazione**
 
-.. |STYLE5| replace:: :sup:`1`
+.. |STYLE5| replace:: *governance distribuita*
 
-.. |STYLE6| replace:: *governance distribuita*
+.. |STYLE6| replace:: *Governare con la rete*
 
-.. |STYLE7| replace:: *Governare con la rete*
 
-.. |STYLE8| replace:: :sup:`2`
+.. rubric:: Footnotes
 
-.. |STYLE9| replace:: :sup:`3`
-
-.. |STYLE10| replace:: :sup:`4`
-
-.. |STYLE11| replace:: :sup:`5`
-
-.. |STYLE12| replace:: :sup:`6`
+.. [#f1]  A New City O/S. The Power of Open, Collaborative, and Distributed Governance
+.. [#f2]  Governare con la rete. Per un nuovo modello di Pubblica amministrazione, IBS, 2010
+.. [#f3]  Questa metafora venne per prima introdotta da Donald F. Kettle nel suo The Next Government of the United States: Why Our Institutions Fail Us and How to Fix Them, WW Norton & Co, 2008
+.. [#f4]  Eric Raymond, The cathedral & Bazar, O’Really, 1999
+.. [#f5]  Geoffrey G. Parker,‎ Marshall W. Van Alstyne,‎ Sangeet Paul Choudary, Platform Revolution: How Networked Markets Are Transforming the Economy and How to Make Them Work for You, W: W. Norton Company, 2016
+.. [#f6]  Francesco Profumo nella prefazione al libro di Andrea Granelli Città intelligenti? Per una via italiana alle Smart Cities, LibreriaUniversitaria, 2012
