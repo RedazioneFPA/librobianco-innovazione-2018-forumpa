@@ -202,6 +202,8 @@ Il completo dispiegamento delle principali piattaforme nazionali per la cittadin
 
 Per far fronte alle difficoltà riscontrate nell’adesione delle amministrazioni alle piattaforme, AgID e Team Digitale hanno messo in campo una serie di azioni volte a garantire la loro piena diffusione, concentrandosi in particolare sull’evoluzione di quelle già operative ma non ancora utilizzate da tutte le PA (SPID e PagoPA), sul completamento di quelle maggiormente in ritardo (ANPR) e sulla messa in esercizio di quelle nuove (ComproPA, Siope+, ecc.). Tali sforzi vanno ora rilanciati, al fine di dare piena attuazione a una delle componenti principali del nuovo sistema operativo del Paese. 
 
+|
+
 .. _h56304f7665c137d2c103f7e7b7f3d38:
 
 SPID 
@@ -225,6 +227,8 @@ SPID rappresenta senza alcun dubbio l’architrave su cui si fondare la cittadin
 .. admonition:: Raccomandazione 3.2h - Dotare i dipendenti pubblici di identità digitali SPID
 
     Per diffondere l’utilizzo di SPID, si potrebbe partire proprio dalla PA abilitando e dotando di SPID tutti i propri dipendenti, sia della PA centrale che di quella locale. A loro volta i dipendenti PA si faranno promotori per dotare di SPID i propri famigliari. Per ridurre le resistenze si potrebbe utilizzare SPID anche per accedere ai sistemi informativi delle singole PA. 
+
+|
 
 .. _h3216251e35f235283f27846594944:
 
@@ -309,6 +313,8 @@ Alcuni importanti passi sono già stati compiuti: è il caso delle circolari sui
 
 Sebbene la strada sia ormai tracciata, il percorso di attuazione dovrà tener conto di alcune criticità da affrontare in maniera prioritaria. 
 
+|
+
 .. _h71717f81225c2e397849644545f6d:
 
 Migrazione delle applicazioni in cloud 
@@ -327,6 +333,8 @@ Il percorso attuativo del processo di razionalizzazione del patrimonio informati
 .. admonition:: Raccomandazione 3.4b - Incentivare l’aggregazione tra soluzioni territoriali e valorizzare quelle già esistenti
 
     Il processo di migrazione può essere aiutato se si alza la prospettiva dal solo livello infrastrutturale a quello applicativo. Spesso le realtà locali, almeno su alcune tipologie di software, hanno esigenze del tutto simili portate però a termine con applicativi diversi. Incentivare le iniziative di aggregazione tra questi enti limitrofi a livello territoriale e valorizzare quelle già esistenti può essere un primo passo per rendere possibile il processo di migrazione e accorciare i tempi di attuazione del piano su tutto il territorio. Soprattutto alla luce di situazioni in cui è già presente un reparto IT ben strutturato e sono stati effettuati ingenti investimenti in tecnologia pregressi, che possono e devono essere valorizzati. Anche a livello di PSN, pensare alla creazione di un’offerta applicativa oltre che infrastrutturale può essere un elemento di spinta per gli enti verso la centralizzazione. 
+
+|
 
 .. _h5e702f4c26254064411a22681e35c33:
 
