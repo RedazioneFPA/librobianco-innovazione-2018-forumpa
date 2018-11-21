@@ -389,10 +389,7 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
  
 #
 
-.. _hc2d16464a7351292d703b112c5e204b:
-
 | 
-##
 
 .. _h591671c387a2a653d4ca104256396d:
 
@@ -493,10 +490,7 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
 
 
 
-.. _h476834441945532458b3a21604f4747:
-
 |
-#
 
 .. _h584c28440a7a94f707f726f495a:
 
@@ -549,10 +543,7 @@ Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |ST
  
 #
 
-.. _hc2d16464a7351292d703b112c5e204b:
-
 | 
-##
 
 .. _h4270265d525e77612c554e55475a36:
 
@@ -582,10 +573,7 @@ Sul fronte dell’attivismo civico, fa fede il concetto di Onlife, \ |STYLE34|\ 
 
 
 
-.. _hc2d16464a7351292d703b112c5e204b:
-
 | 
-##
 
 .. _h2b2c3457647d4316636b179a167533:
 
@@ -632,10 +620,7 @@ Il concetto di cittadinanza è mutato sia da un punto di vista strumentale (ades
  
 #
 
-.. _hc2d16464a7351292d703b112c5e204b:
-
 | 
-##
 
 .. _h3973286e7a2b536443e46303c445b18:
 
@@ -664,10 +649,7 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
  
 #
 
-.. _hc2d16464a7351292d703b112c5e204b:
-
 | 
-##
 
 .. _h7f7f2b434980221d791a233b3567657c:
 
@@ -818,10 +800,7 @@ I ritardi nel raggiungimento di obiettivi strategici sono riconducibili anche al
  
 #
 
-.. _hc2d16464a7351292d703b112c5e204b:
-
 | 
-##
 
 .. _h7d7b538281951787a6636338595474:
 
@@ -835,10 +814,7 @@ Circa il 14% del PIL dell’Unione Europea passa per il procurement pubblico (cf
 
 
 
-.. _hc2d16464a7351292d703b112c5e204b:
-
 | 
-##
 
 .. _hc59101486a11283d55681e20733324:
 
@@ -904,10 +880,7 @@ Lo spostamento netto dell’ago della bilancia verso la valorizzazione degli asp
 
 
 
-.. _h476834441945532458b3a21604f4747:
-
 |
-#
 
 .. _h721512647d633e292e6e1a401867145f:
 
