@@ -1,8 +1,15 @@
+
+.. _h685a187f59142f205b35575962684558:
+
 4. Politiche verticali per la sostenibilità 
+############################################
 
  
 
+.. _h315152633d136a49434620d35513e3a:
+
 4.1 Sanità 
+***********
 
 La sostenibilità del nostro Sistema Sanitario e, soprattutto, il suo carattere universalistico sono messe alla prova dalla divaricazione tra risorse disponibili e bisogni dei cittadini.  
 
@@ -20,7 +27,10 @@ Questi interventi normativi, da soli, non servono a ridurre il forte divario tra
 
 | 
 
+.. _h1f6b4db4b78746b3e8068553c2c7238:
+
 Rinnovamento organizzativo e tecnologico del SS 
+================================================
 
 Enti centrali, regioni, Aziende sanitarie sono attori chiave nel determinare le scelte di rinnovamento del SSN. Dopo anni di spinte innovatrici isolate e legate a singole personalità, produttrici di eccellenze ma non di pratiche diffuse, dobbiamo registrare un aumento della consapevolezza tra i decisori pubblici (a livello centrale e territoriale) circa la necessità e l’urgenza di una risposta in termini di sistema. Per l’efficacia di questa risposta è necessario chiarire bene ruoli di Ministero, regioni e Aziende sanitarie in una governance con livelli diversi, irrinunciabili, cooperativi nella costruzione di sistemi sanitari regionali orientati all’efficienza, alla qualità dell’assistenza sanitaria e all’innovazione come volano di sviluppo economico. Governo e regioni devono provare a raccordare le politiche, condividere obiettivi, linee guida da trasferire alle Aziende sanitarie. Esse devono essere il vero motore del cambiamento, in funzione della prossimità con i bisogni dei cittadini e degli operatori sanitari. Legittimando e valorizzando (un primo passo è stato fatto con l’Albo dei DG) una classe dirigente, che ha garantito flessibilità e capacità di gestione negli anni più duri del SSN (2010-2015); che sarà essenziale per gestire aziende che diventano sempre più grandi e complesse. 
 
@@ -137,7 +147,10 @@ Sussiste la necessità di definire criteri, standard, indicatori che assicurino 
 
 | 
 
+.. _h6e6c6a5d7a61c6a127701957787b7:
+
 4.2 Lavoro e occupazione 
+*************************
 
 I dati ISTAT mostrano che un tasso di occupazione al 58%, il livello più alto dal 2009, pur "rimanendo 0,7 punti al di sotto del picco del 2008", il valore massimo pre-crisi. Lo stesso discorso vale per il numero di occupati, che sono risultati 23 milioni e 23 mila (con una crescita dell'1,2%, ovvero 265 mila persone in più al lavoro). L'aumento della presenza al lavoro "per il secondo anno consecutivo coinvolge anche i giovani di 15-34 anni, fascia di età in cui gli occupati sono saliti di 45mila unità (+0,9%). Aumentano soprattutto i posti di lavoro a tempo determinato e sono ancora grandi le distanze tra le aree del Paese: Nord, Centro e Sud mostrano infatti tutti un'occupazione in recupero, tuttavia mentre nel Centro-Nord il tasso di occupazione raggiunge livelli pressoché analoghi a quelli del 2008, arrivando al 66,7% nel Nord e 62,8% nel Centro, nel Mezzogiorno l'indicatore è ancora al di sotto del 2008 di 2,0 punti (44,0%). Il tasso di disoccupazione è sceso nel 2017 di 0,5 punti percentuali, dall'11,7% all'11,2% dell'anno precedente: si tratta del livello più basso dal 2013. Calano anche gli inattivi (coloro che non cercano né hanno occupazione). La discesa della disoccupazione "è più forte per i più giovani in confronto ai 35-49enni mentre per gli ultra 50enni aumenta sia il numero di disoccupati sia il tasso di disoccupazione". 
 
@@ -149,7 +162,10 @@ I dati ISTAT mostrano che un tasso di occupazione al 58%, il livello più alto d
 
 | 
 
+.. _h2161254f576355517d295d64918671:
+
 Occupazione giovanile 
+======================
 
 Secondo Eurostat, nel 2017 i NEET italiani (\ |STYLE14|\ ) sono il 25,7%, dieci punti sopra la media europea che è pari al 14,3%. Emergono differenze tra le diverse aree del Paese: secondo ISTAT, infatti, i NEET sono il 17% al Nord, il 20,4% al Centro e il 34,2% nel Mezzogiorno. La crisi ha profondamente cambiato anche l’incidenza dei NEET con riferimento al livello di istruzione: se, infatti, nel 2008 questi erano maggiormente diffusi fra i giovani con solo la licenza media, negli anni della crisi la crescita ha riguardato principalmente giovani con medio e alto titolo di studio. Oggi l’incidenza dei NEET è simile sia per i giovani con licenza media (22,7%) sia per quelli con diploma o laurea (22,9%), mentre è significativamente superiore per chi ha un diploma di scuola superiore (26,1%). 
 
@@ -171,7 +187,10 @@ Con il Decreto 21 novembre 2016, il Ministero del Lavoro e delle Politiche Socia
 
 | 
 
+.. _h6d1a703f2337155e1142b4b15593f3:
+
 4.3 Città e territori 
+**********************
 
 Con l’approvazione della \ |LINK1|\  presentata al Consiglio dei Ministri il 2 ottobre 2017 e approvata dal CIPE il 22 dicembre 2017, le politiche urbane sono tarate in chiave di innovazione e sostenibilità. L’ \ |LINK2|\  proposta da ASviS, Urban@it e ANCI collega i 17 SDGs alle attività delle amministrazioni locali e di governo. Il documento contiene gli obiettivi che le aree urbane devono raggiungere per attuare la Strategia Nazionale e le politiche necessarie, che dovranno diventare parte integrante dell’Agenda urbana nazionale. Al tema della sostenibilità si collega, quindi, la \ |STYLE16|\ . 
 
@@ -183,7 +202,10 @@ Sul tema delle risorse a disposizione delle città e del territorio, fa fede il 
 
 | 
 
+.. _h2e8029376a5f1c5546583b5635231:
+
 Coordinamento centro-periferia  
+================================
 
 Un passaggio necessario è quello di ripensare l’agenda delle priorità della politica pubblica nazionale, dedicando più attenzione al territorio, alle città, ai comuni e alle forme di collaborazione civica e pubblica. In particolare, è necessario che si sostengano i comuni sul piano della programmazione, della progettazione degli interventi e della previsione di politiche ideali di cambiamento, con particolare attenzione alle aree più degradate e alle periferie.  
 
@@ -232,7 +254,10 @@ Rendere i Comuni, in particolare quelli piccoli e medi, sempre più in grado di 
 
 |
 
+.. _h3f234d7f528d17753b782cc3c5c4b:
+
 Poteri locali e associazionismo comunale 
+=========================================
 
 La \ |LINK8|\  ha prorogato ancora una volta (fino al 31 dicembre 2018) i termini entro i quali i comuni con popolazione inferiore ai 5 mila abitanti (fino a 3 mila se appartenenti a comunità montane) avrebbero dovuto avviare l’esercizio obbligato in forma associata delle funzioni fondamentali, mediante unione o convenzione (come previsto dal decreto legge 78/2010). Questo carattere di obbligatorietà finora non ha dato frutti. In caso di inadempienza il decreto prevedeva l’avvio di una procedura sanzionatoria che avrebbe dovuto portare al commissariamento. Finora però, invece che sulle sanzioni, la scelta è caduta sulla ripetuta proroga dei termini previsti dalla legge. La situazione dell’associazionismo comunale è quindi ancora caotica e disomogenea come del resto il quadro di riferimento dei poteri locali in Italia, nonostante i tentativi di riordino, come quello della \ |LINK9|\ .  
 
@@ -248,7 +273,10 @@ La \ |LINK8|\  ha prorogato ancora una volta (fino al 31 dicembre 2018) i termin
 
 |
 
+.. _h281f36725a276d771e361576015224b:
+
 Piattaforme e servizi per la smart city 
+========================================
 
 Con il procedere della implementazione delle infrastrutture di comunicazione (banda larga e ultralarga, wifi pubblici, etc.), lo sviluppo tecnologico dei sensori (in grado di raccogliere e trasmettere informazioni), la definizione di modelli sempre più sofisticati e conseguenti applicazioni in grado di trattare quantità enormi di dati, va aprendosi una nuova fase nel percorso di digitalizzazione delle città. Le reti funzionali (energia, gas, acqua, trasporti pubblici, illuminazione pubblica) sono in condizione di divenire sempre più “intelligenti” e quindi più efficaci ed efficienti; l’ecosistema urbano può essere sempre più monitorato in tutti i suoi aspetti (produzione e raccolta di rifiuti, qualità dell’aria, sicurezza, traffico, condizione degli edifici e delle infrastrutture); le interazioni sociali (lavoro, consumi, accesso ai servizi, relazioni sociali, partecipazione civile) possono moltiplicarsi e raffinarsi. Si aprono nuove opportunità ma anche nuove criticità sui fronti dell’accesso e dell’utilizzo di queste informazioni sia in forma aggregata sia, potenzialmente, in forma singolare e individuabile. 
 
@@ -272,7 +300,10 @@ Con il procedere della implementazione delle infrastrutture di comunicazione (ba
 
 | 
 
+.. _h6a144e73122b403e188356143f1d:
+
 4.4 Energia e ambiente 
+***********************
 
 Negli ultimi anni è aumentato il livello di priorità attribuito alle politiche ambientali, si rilevano diverse iniziative intraprese a livello globale e nazionale per favorire politiche territoriali e inglobare azioni di mitigazione e di adattamento ai cambiamenti climatici nella pianificazione. Nel corso degli ultimi due anni, in Italia, sono state messe in campo una serie di iniziative che traducono in atti concreti l’Accordo di Parigi sui 
 
@@ -282,7 +313,10 @@ La priorità per il futuro è quindi l’attuazione dell’Accordo di Parigi nel
 
 | 
 
+.. _h7d255f7624a74603d553523508012:
+
 Strategia Nazionale Energetica (SEN) 
+=====================================
 
 La \ |STYLE19|\  rappresenta per l’Italia una decisa spinta verso la sostenibilità e, insieme al Piano Industria 4.0, uno dei grandi assi di sviluppo della politica industriale da qui al 2030. 175 miliardi di investimenti per costruire un sistema più competitivo, garantendo non solo energia a minor costo per cittadini e imprese ma anche lo sviluppo di nuovi mercati e nuova occupazione; più sostenibile attraverso l’efficienza nei consumi, il risparmio energetico e la mobilità elettrica; più sicuro migliorando la sicurezza delle infrastrutture e la flessibilità dell’offerta. 
 
@@ -320,7 +354,10 @@ La Strategia, coerentemente con gli obiettivi ambiziosi e complessi che si prefi
 
 | 
 
+.. _h1d925e4b25e244d114fb2e40486d:
+
 Economia circolare 
+===================
 
 L'economia circolare segna il passaggio da un modello lineare di produzione a un modello circolare e consiste nell'assunzione di tre semplici assiomi: riciclare (scarti non riutilizzabili), ridurre (sprechi di materie prime) riutilizzare (estendendo il ciclo di vita dei prodotti). In un’economia circolare i flussi di materiali sono di due tipi: quelli biologici, in grado di essere reintegrati nella biosfera, e quelli tecnici, destinati ad essere rivalorizzati senza entrare nella biosfera. Per realizzarla serve rispettare tre principi: 
 
@@ -363,7 +400,10 @@ Dopo tre anni di trattative, il Parlamento europeo riunito in plenaria a Strasbu
 
 | 
 
+.. _h3871b5d3e3c22623a3027233b527248:
+
 Sharing Economy 
+================
 
 La \ |STYLE24|\  nel nostro Paese si configura come settore in divenire. I numeri di mercato si riferiscono a piccole realtà locali, o piattaforme verticali su risultati specifici e poco impositivi. Eppure le piattaforme collaborative dovrebbero suscitare interesse nella PA e in particolare negli enti locali, favoriti dalla riforma Delrio che consolida la cultura della condivisione di funzioni e servizi nella pubblica amministrazione.  
 
@@ -391,13 +431,19 @@ In questo momento l’interesse delle piattaforme a operare su scala locale è m
 
 | 
 
+.. _h556d1a2f3b2c211c36d752b777e3162:
+
 4.5 Istruzione e formazione 
+****************************
 
 In Italia rimane tra le più basse in Europa, e sotto la media europea (39%), la percentuale di coloro che hanno un livello di formazione terziario: parliamo del 26% di giovani adulti tra i 30 e i 34 anni. Continua l’allarme circa l’elevata quota (tra il 15% e il 25%) di quindicenni che non raggiunge la soglia minima delle competenze giudicate indispensabili per potersi orientare negli studi, sul lavoro e più in generale nella vita; e continua anche la presenza di crescenti divari di genere nelle materie scientifiche e in matematica (indagini PISA 2015 e TIMSS 2015). Entrambe le questioni sono entrate nell’agenda politica, con l’alternanza scuola-lavoro (ASL) obbligatoria per tutti gli studenti di tutte le scuole superiori (introdotta dalla legge 107/2015) e la recente istituzione del “mese delle STEM" da parte del Miur, in collaborazione con il Dipartimento delle Pari Opportunità, che promuove le discipline STEM (Science, Technology, Engineering e Mathematics) tra le studentesse delle scuole di ogni ordine e grado. A queste si è aggiunto a gennaio 2018 il documento della cabina di regia per la lotta alla dispersione scolastica e alla povertà educativa del Miur. 
 
 | 
 
+.. _h644c63d5a4a4c345622237a436f7a72:
+
 Povertà educativa e inclusione 
+===============================
 
 In Italia solo l’11,6% dei bambini viene preso in carico dal Comune per i servizi della prima infanzia e solo l’1% frequenta servizi integrativi (Istat 2014-2015). E’ ampiamente dimostrato l’impatto positivo dei servizi per la prima infanzia sull’apprendimento, sulla prevenzione della dispersione scolastica e, più in generale, sulla riduzione delle diseguaglianze. Oggi la rete dei servizi per la prima infanzia è debolissima. Un buon inizio è stata l’istituzione, con il il D.lgs n. 65, del Sistema integrato di educazione e di istruzione dalla nascita sino a sei anni. L’impegno è di assicurare servizi di qualità al 33% degli utenti potenziali compresi tra 0 e 3 anni e nel 75% dei comuni. I nodi da affrontare restano il coordinamento delle molteplici competenze (Enti locali, Regioni, Stato) e un riequilibrio della distribuzione territoriale dei servizi offerti. 
 
@@ -409,7 +455,10 @@ In Italia solo l’11,6% dei bambini viene preso in carico dal Comune per i serv
 
 | 
 
+.. _h1d1e15724f257b5344487871b16a41:
+
 Finanziamenti  
+===============
 
 Nell’anno scolastico 2016-17 è stato reso noto l’avviso quadro delle azioni attivate a valere sul PON “Per la Scuola” 2014 – 2020, per complessivi 840 milioni di euro. Le 10 azioni sono state messe a punto e promosse in esplicito raccordo con l’Agenda 2030. Con la Legge di Bilancio 2016 viene istituito il Fondo dedicato al contrasto della povertà educativa minorile dotato di 120 milioni di euro all’anno. Tuttavia il sistema scolastico italiano risulta ancora sottofinanziato: la spesa pubblica per l’istruzione rappresenta solo il 4% del PIL, contro una media europea del 5%.  
 
@@ -428,7 +477,10 @@ Nell’anno scolastico 2016-17 è stato reso noto l’avviso quadro delle azioni
 
 | 
 
+.. _h3a5d305fd5918e227278b49277847:
+
 Governance della scuola  
+=========================
 
 La scuola ha bisogno di un profondo rinnovamento per adeguarsi al nuovo scenario e prepararsi al meglio per le sfide del futuro e nel rispetto delle esperienze passate, deve recuperare il proprio ruolo con nuove idee. Abbiamo bisogno di parole nuove, di dare concretezza ad una nuova visione, ai valori del rigore e della serietà. È necessario recuperare i fili spezzati fra generazioni, la qualità delle azioni contro il successo dei numeri. L’innovazione tecnologica è al centro di un ampio dibattito, al momento più orientato sul potenziale insito nelle tecnologie digitali rispetto all’effettivo uso che se ne fa all’interno del sistema scuola. 
 
