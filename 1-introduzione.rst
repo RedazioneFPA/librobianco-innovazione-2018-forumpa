@@ -1,8 +1,8 @@
 
-.. _h4b5f1e73444b353236353022163d3371:
+.. _h3d3f5946f17f2bd15259421e334f:
 
-Dall'Open Government all'Open Governance
-########################################
+1. Dall'Open Government all'Open Governance
+###########################################
 
 Come abbiamo più volte messo in evidenza nel corso di quest’anno, la PA che ci troviamo davanti nelle sue molteplici espressioni e articolazioni, che vanno dai grandi Ministeri al piccolo Comune montano, dal grande ente nazionale alla piccola USL, è una PA ancora in cerca di paradigmi di innovazione, di un progetto condiviso che informi di sé il lento agire quotidiano. Lo abbiamo ripetuto spesso, appunto. Il cambiamento ci vuole e ci vuole netto. L’innovazione deve investire la parte istituzionale, organizzativa e culturale e trovare nella trasformazione digitale un formidabile alleato.
 
