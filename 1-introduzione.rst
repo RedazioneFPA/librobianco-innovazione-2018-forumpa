@@ -32,11 +32,11 @@ Purtroppo, e questo denota l’approccio verticistico e quindi mistificante al t
 
  
 
-Al contrario, una PA abilitante non può che scaturire dalla collaborazione dei diversi attori coinvolti. È la precondizione per quelle che Goldsmith, nel suo ultimo libro[1], chiama governance distribuita e dove funzionari, cittadini e partner esterni lavorano insieme per ottenere migliori risultati per la comunità. Riprendendo i temi sviluppati precedentemente nel suo Governare con la rete[2], Goldsmith evidenzia che per favorire il cambiamento e combattere la burocrazia è indispensabile il lavoro comune di tutti gli attori locali dell'innovazione. La PA deve fare riferimento a un modello organizzativo che abbandoni la logica verticale a favore di una orizzontale, in grado di coinvolgere i diversi attori pubblici, privati e del non profit, nella progettazione e gestione dei servizi avanzati. Tale obiettivo può essere perseguito attraverso il riconoscimento e la promozione delle reti e delle connessioni sociali, il governo di processi decisionali inclusivi e di progettazione partecipata e l’uso sapiente delle tecnologie andando a configurare una piattaforma, un sistema socio-tecnico in grado di abilitare e sostenere lo sviluppo. Da questa prospettiva la PA abilitante diventa una casa aperta di processi, di informazioni, di dati prodotti dai diversi attori e frutto della collaborazione fra questi.  
+Al contrario, una PA abilitante non può che scaturire dalla collaborazione dei diversi attori coinvolti. È la precondizione per quelle che Goldsmith, nel suo ultimo libro\ |LINK1|\ , chiama governance distribuita e dove funzionari, cittadini e partner esterni lavorano insieme per ottenere migliori risultati per la comunità. Riprendendo i temi sviluppati precedentemente nel suo Governare con la rete\ |LINK2|\ , Goldsmith evidenzia che per favorire il cambiamento e combattere la burocrazia è indispensabile il lavoro comune di tutti gli attori locali dell'innovazione. La PA deve fare riferimento a un modello organizzativo che abbandoni la logica verticale a favore di una orizzontale, in grado di coinvolgere i diversi attori pubblici, privati e del non profit, nella progettazione e gestione dei servizi avanzati. Tale obiettivo può essere perseguito attraverso il riconoscimento e la promozione delle reti e delle connessioni sociali, il governo di processi decisionali inclusivi e di progettazione partecipata e l’uso sapiente delle tecnologie andando a configurare una piattaforma, un sistema socio-tecnico in grado di abilitare e sostenere lo sviluppo. Da questa prospettiva la PA abilitante diventa una casa aperta di processi, di informazioni, di dati prodotti dai diversi attori e frutto della collaborazione fra questi.  
 
  
 
-Dobbiamo passare dalla metafora della macchinetta automatica a quella del bazar. Nel primo caso, la PA viene descritta come un distributore in cui, inserendo le monete (le nostre tasse) riceviamo un prodotto o un servizio. Per quanto moderna ed evoluta (magari in grado di ricevere un feedback del servizio offerto) rimane un servizio esterno, dove solo pochi fornitori sono ammessi a vendere i propri servizi e, spesso, l’unico modo che ci rimane, a fronte di un problema della macchina nell’erogazione, è di scuoterla violentemente. Nella metafora[3] del bazar, al contrario, la comunità dei venditori si scambia beni e servizi[4] in una logica di collaborazione e competizione nell’ambito di uno spazio comune che è il mercato. Le dimensioni moderne del mercato sono le piattaforme come Amazon e Airbnb che hanno rivoluzionato l’economia di questo secolo favorendo l’incontro tra i diversi attori in uno scenario mondiale[5]. Piattaforme abilitanti che, come scrisse Francesco Profumo, devono essere pensate per "la costruzione di un nuovo genere di bene comune, una grande infrastruttura tecnologica e immateriale che faccia dialogare persone e oggetti, integrando informazioni e generando intelligenza, producendo inclusione e migliorando il nostro vivere quotidiano"[6].
+Dobbiamo passare dalla metafora della macchinetta automatica a quella del bazar. Nel primo caso, la PA viene descritta come un distributore in cui, inserendo le monete (le nostre tasse) riceviamo un prodotto o un servizio. Per quanto moderna ed evoluta (magari in grado di ricevere un feedback del servizio offerto) rimane un servizio esterno, dove solo pochi fornitori sono ammessi a vendere i propri servizi e, spesso, l’unico modo che ci rimane, a fronte di un problema della macchina nell’erogazione, è di scuoterla violentemente. Nella metafora\ |LINK3|\  del bazar, al contrario, la comunità dei venditori si scambia beni e servizi\ |LINK4|\  in una logica di collaborazione e competizione nell’ambito di uno spazio comune che è il mercato. Le dimensioni moderne del mercato sono le piattaforme come Amazon e Airbnb che hanno rivoluzionato l’economia di questo secolo favorendo l’incontro tra i diversi attori in uno scenario mondiale\ |LINK5|\ . Piattaforme abilitanti che, come scrisse Francesco Profumo, devono essere pensate per "la costruzione di un nuovo genere di bene comune, una grande infrastruttura tecnologica e immateriale che faccia dialogare persone e oggetti, integrando informazioni e generando intelligenza, producendo inclusione e migliorando il nostro vivere quotidiano"\ |LINK6|\ .
 
  
 
@@ -60,31 +60,72 @@ Questo Libro bianco è una tappa importante di questo percorso che ci auguriamo 
 
  
 
- 
+ \ |STYLE0|\ 
 
 --------
+
+.. _bookmark-id-b9g1t1467a5q:
 
 [1] A New City O/S. The Power of Open, Collaborative, and Distributed Governance.
 
  
 
+.. _bookmark-id-bnppvjxz66ii:
+
 [2] Governare con la rete. Per un nuovo modello di Pubblica amministrazione, IBS, 2010.
 
  
+
+.. _bookmark-id-oxikx2h8nnwc:
 
 [3] Questa metafora venne per prima introdotta da Donald F. Kettle nel suo The Next Government of the United States: Why Our Institutions Fail Us and How to Fix Them, WW Norton & Co, 2008.
 
  
 
+.. _bookmark-id-jqxsn4a5f0zy:
+
 [4] Eric Raymond, The cathedral & Bazar, O’Really, 1999.
 
  
+
+.. _bookmark-id-ar10rx7sxvta:
 
 [5] Geoffrey G. Parker,‎ Marshall W. Van Alstyne,‎ Sangeet Paul Choudary, Platform Revolution: How Networked Markets Are Transforming the Economy and How to Make Them Work for You, W: W. Norton Company, 2016.
 
  
 
+.. _bookmark-id-59gsn3tf9uqe:
+
 [6] Francesco Profumo nella prefazione al libro di Andrea Granelli Città intelligenti? Per una via italiana alle Smart Cities, LibreriaUniversitaria, 2012.
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **Note**
+
+
+.. |LINK1| raw:: html
+
+    <a href="#bookmark-id-b9g1t1467a5q">[1]</a>
+
+.. |LINK2| raw:: html
+
+    <a href="#bookmark-id-bnppvjxz66ii">[2]</a>
+
+.. |LINK3| raw:: html
+
+    <a href="#bookmark-id-oxikx2h8nnwc">[3]</a>
+
+.. |LINK4| raw:: html
+
+    <a href="#bookmark-id-jqxsn4a5f0zy">[4]</a>
+
+.. |LINK5| raw:: html
+
+    <a href="#bookmark-id-ar10rx7sxvta">[5]</a>
+
+.. |LINK6| raw:: html
+
+    <a href="#bookmark-id-59gsn3tf9uqe">[6]</a>
+
