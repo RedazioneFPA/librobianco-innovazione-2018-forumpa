@@ -68,7 +68,7 @@ Come si legge con grande evidenza dai dati, la PA italiana non è troppo numeros
 
 .. admonition:: Raccomandazione 2.1c - Lanciare una grande campagna di reclutamento di giovani leve e nuove professionalità
 
-    Occorre utilizzare al meglio le norme appena varate sul l’analisi dei fabbisogni e sulle assunzioni per lanciare una grande campagna per reclutare giovani a lavorare per lo sviluppo equo e sostenibile della loro comunità nazionale. Una campagna che cerchi i migliori nelle qualifiche oggi indispensabili, ma che immaginiamo importanti anche per la PA dei prossimi trent’anni. Una PA che non sia fonte di autorizzazioni, certificazioni ed adempimenti, né che lavori ancora su un paradigma bipolare che vede da una parte i cittadini e dall’altra le istituzioni, ma che esca dai “palazzi” per essere regia e stimolo delle forze vitali delle comunità territoriali. Una campagna che cerchi quindi registi dello sviluppo, negoziatori, project manager (non solo nel campo del procurement pubblico), analisti e architetti dei dati, e tutte quelle professionalità che si espletano nel paradigma della rete. Per far questo, sarà necessario rafforzare il brand della PA come posto di lavoro dinamico, che rende possibile la crescita professionale e le carriere basate sul merito, che sia definitivamente uscito dal paradigma fordista rappresentato plasticamente dal tornello e dalla maniacale attenzione alla presenza fisica, anche attraverso un’applicazione più spinta del lavoro agile. 
+        Occorre utilizzare al meglio le norme appena varate sul l’analisi dei fabbisogni e sulle assunzioni per lanciare una grande campagna per reclutare giovani a lavorare per lo sviluppo equo e sostenibile della loro comunità nazionale. Una campagna che cerchi i migliori nelle qualifiche oggi indispensabili, ma che immaginiamo importanti anche per la PA dei prossimi trent’anni. Una PA che non sia fonte di autorizzazioni, certificazioni ed adempimenti, né che lavori ancora su un paradigma bipolare che vede da una parte i cittadini e dall’altra le istituzioni, ma che esca dai “palazzi” per essere regia e stimolo delle forze vitali delle comunità territoriali. Una campagna che cerchi quindi registi dello sviluppo, negoziatori, project manager (non solo nel campo del procurement pubblico), analisti e architetti dei dati, e tutte quelle professionalità che si espletano nel paradigma della rete. Per far questo, sarà necessario rafforzare il brand della PA come posto di lavoro dinamico, che rende possibile la crescita professionale e le carriere basate sul merito, che sia definitivamente uscito dal paradigma fordista rappresentato plasticamente dal tornello e dalla maniacale attenzione alla presenza fisica, anche attraverso un’applicazione più spinta del lavoro agile. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -78,7 +78,7 @@ Come si legge con grande evidenza dai dati, la PA italiana non è troppo numeros
 
 .. admonition:: Raccomandazione 2.1d - Rivedere drasticamente il sistema di selezione dei dipendenti pubblici, aggiornando strumenti e criteri di selezione in base ai nuovi fabbisogni
 
-    Curare una revisione drastica degli strumenti di selezione del personale pubblico che, se vogliamo che sia all’altezza dei compiti che oggi ha la PA, non può essere reclutato con strumenti così rozzi come sono ora i concorsi che si pongono come principale obiettivo non la ricerca dei migliori, ma il rafforzamento di automatismi che da una parte deprimono le responsabilità dirigenziali, dall’altra,  privilegiano, per evitare qualsiasi contestazione, strumenti poco raffinati che nessuna organizzazione privata userebbe. Test attitudinali, colloqui approfonditi, esame qualificato dei curricoli e delle esperienze, risultati raggiunti anche in altri campi, ma anche propensioni, passioni, responsabilità assunte devono entrare a far parte, almeno per le figure direttive, di qualsiasi processo di selezione che deve quindi essere affidato a strutture competenti e non a commissioni di funzionari che tendano a riprodurre se stessi. Nessun cambiamento della PA sarà possibile senza un deciso cambiamento nell’attirare e scegliere i migliori, e prospettare loro delle carriere (o meglio: esperienze) motivanti, qualificanti e gratificanti, non soltanto dal punto di vista economico. 
+        Curare una revisione drastica degli strumenti di selezione del personale pubblico che, se vogliamo che sia all’altezza dei compiti che oggi ha la PA, non può essere reclutato con strumenti così rozzi come sono ora i concorsi che si pongono come principale obiettivo non la ricerca dei migliori, ma il rafforzamento di automatismi che da una parte deprimono le responsabilità dirigenziali, dall’altra,  privilegiano, per evitare qualsiasi contestazione, strumenti poco raffinati che nessuna organizzazione privata userebbe. Test attitudinali, colloqui approfonditi, esame qualificato dei curricoli e delle esperienze, risultati raggiunti anche in altri campi, ma anche propensioni, passioni, responsabilità assunte devono entrare a far parte, almeno per le figure direttive, di qualsiasi processo di selezione che deve quindi essere affidato a strutture competenti e non a commissioni di funzionari che tendano a riprodurre se stessi. Nessun cambiamento della PA sarà possibile senza un deciso cambiamento nell’attirare e scegliere i migliori, e prospettare loro delle carriere (o meglio: esperienze) motivanti, qualificanti e gratificanti, non soltanto dal punto di vista economico. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -88,10 +88,10 @@ Come si legge con grande evidenza dai dati, la PA italiana non è troppo numeros
 
 .. admonition:: Raccomandazione 2.1e - Promuovere un nuovo piano di formazione dei dipendenti pubblici, sfruttando le opportunità della Programmazione Europea e le sinergie con le eccellenze universitarie
 
-    Occorre curare un rilancio della formazione dei dipendenti pubblici, che sconta uno sciagurato taglio del 50% deciso con la legge finanziaria per il 2009, e che può contare ora di molto meno di quell’1% della massa salariale che pure era nella legge sin dal Ministro Frattini (2001/2002). Una formazione che sia empowerment delle organizzazioni, costruzione di comunità educanti, nascita di gruppi di miglioramento, ma anche formazione puntuale su temi che sono ora indispensabili per qualsiasi lavoratore pubblico. 
-    Occorre inoltre prevedere corsi ad hoc per i lavoratori over 50, che potrebbero manifestare difficoltà di apprendimento e che più di altri necessitano di una conciliazione dei tempi di vita. 
-    Le risorse della programmazione europea sono indispensabili per questo obiettivo e non vanno disperse in mille rivoli. 
-    Occorre inoltre rilanciare la collaborazione con le eccellenze universitarie italiane per creare una modalità di formazione e aggiornamento non sporadica ma continua per tutto il personale, anche grazie al supporto degli strumenti di e-learning. Pare inoltre opportuno rafforzare l'istituto del diritto allo studio per i dipendenti pubblici, anche attraverso agevolazioni sulle tasse universitarie o la promozione di master ad hoc riservati al personale della PA. 
+        Occorre curare un rilancio della formazione dei dipendenti pubblici, che sconta uno sciagurato taglio del 50% deciso con la legge finanziaria per il 2009, e che può contare ora di molto meno di quell’1% della massa salariale che pure era nella legge sin dal Ministro Frattini (2001/2002). Una formazione che sia empowerment delle organizzazioni, costruzione di comunità educanti, nascita di gruppi di miglioramento, ma anche formazione puntuale su temi che sono ora indispensabili per qualsiasi lavoratore pubblico. 
+        Occorre inoltre prevedere corsi ad hoc per i lavoratori over 50, che potrebbero manifestare difficoltà di apprendimento e che più di altri necessitano di una conciliazione dei tempi di vita. 
+        Le risorse della programmazione europea sono indispensabili per questo obiettivo e non vanno disperse in mille rivoli. 
+        Occorre inoltre rilanciare la collaborazione con le eccellenze universitarie italiane per creare una modalità di formazione e aggiornamento non sporadica ma continua per tutto il personale, anche grazie al supporto degli strumenti di e-learning. Pare inoltre opportuno rafforzare l'istituto del diritto allo studio per i dipendenti pubblici, anche attraverso agevolazioni sulle tasse universitarie o la promozione di master ad hoc riservati al personale della PA. 
 
  
 
@@ -103,7 +103,7 @@ Come si legge con grande evidenza dai dati, la PA italiana non è troppo numeros
 
 .. admonition:: Raccomandazione 2.1f - Garantire la qualità e la funzionalità dei servizi e dei prodotti formativi attraverso un sistema nazionale di governo della formazione per la PA
 
-    Occorre definire indicatori della qualità delle iniziative di formazione e provvedere ad una sorta di accreditamento delle agenzie incaricate della loro progettazione ed erogazione e di valutarne i risultati. L’esigenza di creare un “mercato regolato” della formazione pubblica si pone non tanto per le amministrazioni statali, dove la situazione è presidiata dalla Scuola nazionale dell’amministrazione, quanto per le amministrazioni regionali e soprattutto per quelle locali, dove si registrano interessanti esperienze (come, da ultimo, l'”Accademia per l'autonomia” che l’ANCI e l’UPI hanno gestito, in collaborazione con il Ministero dell'Interno), ma non esiste un sistema organico e strutturato di gestione della formazione, che garantisca adeguati standard qualitativi. 
+        Occorre definire indicatori della qualità delle iniziative di formazione e provvedere ad una sorta di accreditamento delle agenzie incaricate della loro progettazione ed erogazione e di valutarne i risultati. L’esigenza di creare un “mercato regolato” della formazione pubblica si pone non tanto per le amministrazioni statali, dove la situazione è presidiata dalla Scuola nazionale dell’amministrazione, quanto per le amministrazioni regionali e soprattutto per quelle locali, dove si registrano interessanti esperienze (come, da ultimo, l'”Accademia per l'autonomia” che l’ANCI e l’UPI hanno gestito, in collaborazione con il Ministero dell'Interno), ma non esiste un sistema organico e strutturato di gestione della formazione, che garantisca adeguati standard qualitativi. 
 
  
 
@@ -121,8 +121,8 @@ L’altro rischio è quello di una continua confusione tra patologia e fisiologi
 
 .. admonition:: Raccomandazione 2.1g - Rimettere il disegno dell’organizzazione alla responsabilità del management e alla contrattazione con le organizzazioni di rappresentanza dei dipendenti
 
-    Sarà necessario tenere nella massima considerazione la diversità delle amministrazioni e le loro specificità evitando con ogni cura di normare l’organizzazione. Il disegno dell’organizzazione è il precipuo compito del management, che ottiene i risultati proprio combinando le risorse a disposizione in modo ottimale. 
-    Sarà a tal proposito anche necessario lavorare a stretto contatto con le organizzazioni dei lavoratori pubblici, operando soprattutto nel perimetro della contrattazione decentrata che meglio di quella nazionale, può tenere conto delle specificità. Il difficile equilibrio tra la legge, l’autonoma responsabilità della dirigenza e gli strumenti della contrattazione ha visto negli ultimi anni visioni anche completamente diverse. È necessario tornare ad un più equilibrato rapporto che lasci alla legge solo la visione politica e gli obiettivi generale. 
+        Sarà necessario tenere nella massima considerazione la diversità delle amministrazioni e le loro specificità evitando con ogni cura di normare l’organizzazione. Il disegno dell’organizzazione è il precipuo compito del management, che ottiene i risultati proprio combinando le risorse a disposizione in modo ottimale. 
+        Sarà a tal proposito anche necessario lavorare a stretto contatto con le organizzazioni dei lavoratori pubblici, operando soprattutto nel perimetro della contrattazione decentrata che meglio di quella nazionale, può tenere conto delle specificità. Il difficile equilibrio tra la legge, l’autonoma responsabilità della dirigenza e gli strumenti della contrattazione ha visto negli ultimi anni visioni anche completamente diverse. È necessario tornare ad un più equilibrato rapporto che lasci alla legge solo la visione politica e gli obiettivi generale. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -156,8 +156,8 @@ La dicotomia tra chi vorrebbe una dirigenza di carriera, diciamo sul modello fra
 
 .. admonition:: Raccomandazione 2.1h - Superare la contrapposizione tra visioni dicotomiche (spoil system vs indipendenza), individuando diverse tipologie di dirigenza
 
-    Individuare nell’ambito della funzione dirigenziale tipologie diverse per cui sia possibile pensare a diversi incarichi sia fiduciari sia del tutto indipendenti dalla politica. Nel primo caso prevedere strumenti efficaci di \ |STYLE3|\ &\ |STYLE4|\ , nel secondo verificare una ragionevole rotazione degli incarichi, che tenga però opportunamente conto delle competenze specifiche necessario all’esercizio di quell’incarico (in particolare per i ruoli tecnici). 
-    In questa operazione non bisognerebbe perdere il fuoco di quei fattori comuni che differenziano il lavoro dei dirigenti (tutti) da quello degli altri dipendenti pubblici. \ |STYLE5|\ , bisognerebbe analizzare i sistemi di gestione contabile vigenti nei diversi comparti della PA e a quanti dirigenti è attribuita effettivamente un'autonoma responsabilità di spesa. 
+        Individuare nell’ambito della funzione dirigenziale tipologie diverse per cui sia possibile pensare a diversi incarichi sia fiduciari sia del tutto indipendenti dalla politica. Nel primo caso prevedere strumenti efficaci di \ |STYLE3|\ &\ |STYLE4|\ , nel secondo verificare una ragionevole rotazione degli incarichi, che tenga però opportunamente conto delle competenze specifiche necessario all’esercizio di quell’incarico (in particolare per i ruoli tecnici). 
+        In questa operazione non bisognerebbe perdere il fuoco di quei fattori comuni che differenziano il lavoro dei dirigenti (tutti) da quello degli altri dipendenti pubblici. \ |STYLE5|\ , bisognerebbe analizzare i sistemi di gestione contabile vigenti nei diversi comparti della PA e a quanti dirigenti è attribuita effettivamente un'autonoma responsabilità di spesa. 
 
 | 
 
@@ -170,7 +170,7 @@ I dirigenti che sceglieremo oggi saranno quelli che saranno a capo delle amminis
 
 .. admonition:: Raccomandazione 2.1i - Rendere desiderabile e appetibile il lavoro nella PA
 
-    Per reclutare i migliori è necessario attuare azioni di informazione presso le università: tutti gli atenei organizzano per i propri studenti e laureati momenti di incontro con aziende alla ricerca di risorse da inserire in organico. Queste occasioni non vengono mai sfruttare dalle amministrazioni. Occorre passare da un atteggiamento di attesa delle candidature ad un atteggiamento di stimolo verso Ie figure potenzialmente più interessanti (ovviamente occorre agire parallelamente sui concorsi: vedi raccomandazione 2.1d). 
+        Per reclutare i migliori è necessario attuare azioni di informazione presso le università: tutti gli atenei organizzano per i propri studenti e laureati momenti di incontro con aziende alla ricerca di risorse da inserire in organico. Queste occasioni non vengono mai sfruttare dalle amministrazioni. Occorre passare da un atteggiamento di attesa delle candidature ad un atteggiamento di stimolo verso Ie figure potenzialmente più interessanti (ovviamente occorre agire parallelamente sui concorsi: vedi raccomandazione 2.1d). 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -180,14 +180,14 @@ I dirigenti che sceglieremo oggi saranno quelli che saranno a capo delle amminis
 
 .. admonition:: Raccomandazione 2.1l - Favorire la mobilità dei dirigenti, sia tra mondo pubblico e privato, sia a livello Europeo
 
-    Un manager moderno deve poter spaziare su più contesti lavorativi. Deve essere favorita al massimo sia l’osmosi tra il pubblico e il privato che, prevista già dalle riforme Bassanini, non ha trovato applicazione reale nella PA dove la stragrande maggioranza dei dirigenti apicali proviene da una carriera solo pubblica. 
-    Altrettanto deve essere considerata determinante un’esperienza in un contesto europeo, meglio se presso le strutture dell’Unione. Ovviamente deve essere considerata condicio sine qua non la conoscenza di una o meglio due lingue comunitarie e una cultura almeno di base della trasformazione digitale, cosa del tutto diversa dal saper usare gli strumenti. 
+        Un manager moderno deve poter spaziare su più contesti lavorativi. Deve essere favorita al massimo sia l’osmosi tra il pubblico e il privato che, prevista già dalle riforme Bassanini, non ha trovato applicazione reale nella PA dove la stragrande maggioranza dei dirigenti apicali proviene da una carriera solo pubblica. 
+        Altrettanto deve essere considerata determinante un’esperienza in un contesto europeo, meglio se presso le strutture dell’Unione. Ovviamente deve essere considerata condicio sine qua non la conoscenza di una o meglio due lingue comunitarie e una cultura almeno di base della trasformazione digitale, cosa del tutto diversa dal saper usare gli strumenti. 
 
  
 
 .. admonition:: Raccomandazione 2.1m - Prevedere nuove forme di lifelong learning per i dirigenti
 
-    È necessario prevedere per tutta la dirigenza una formazione continua (sulla falsariga della ECM in sanità) che sia basata però non tanto su momenti frontali, quanto sulla costruzione di comunità di pratica trasversali, organizzati anche con le professionalità di soggetti terzi, e su momenti di \ |STYLE6|\ . 
+        È necessario prevedere per tutta la dirigenza una formazione continua (sulla falsariga della ECM in sanità) che sia basata però non tanto su momenti frontali, quanto sulla costruzione di comunità di pratica trasversali, organizzati anche con le professionalità di soggetti terzi, e su momenti di \ |STYLE6|\ . 
 
 | 
 
@@ -286,14 +286,14 @@ Il d.lgs. n. 74/2017 di riforma del d.lgs. n. 150/2009, interviene modificando i
 
 .. admonition:: Raccomandazione 2.1s - Adottare un modello valutativo a 360°, con l'MBO focalizzato su progetti innovativi, di natura qualitativa e quantitativa, realizzati
 
-    Prevedere nella parte variabile del premio al dirigente, una quota significativa di premio legato ai suoi risultati in tema di innovazione, di progettualità sia tecnica che organizzativa. Sempre ai fini del premio annuo ai dirigenti ed alle PO, introdurre meccanismi valutativi dal basso, in termini di feed-back dai collaboratori, mediante indagini di customer continui e ripetuti nel tempo. 
+        Prevedere nella parte variabile del premio al dirigente, una quota significativa di premio legato ai suoi risultati in tema di innovazione, di progettualità sia tecnica che organizzativa. Sempre ai fini del premio annuo ai dirigenti ed alle PO, introdurre meccanismi valutativi dal basso, in termini di feed-back dai collaboratori, mediante indagini di customer continui e ripetuti nel tempo. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
  
 #
 
-| 
+|
 
 .. _h48781c574f296922801a51625d59763a:
 
@@ -317,9 +317,7 @@ Pur se normato più volte è previsto esplicitamente sia nella Riforma Brunetta 
 
     Tipicamente, le amministrazioni centrali rifuggono dall'obbligo relativo alla valutazione da parte dell’utenza, affermando di non erogare servizi diretti ai cittadini. Va invece affermato il principio secondo cui ogni ufficio pubblico - inteso non soltanto come PA, ma come singola struttura con a capo un responsabile - deve necessariamente avere un'utenza (interna o esterna), pena la sua inutilità (e dunque l'eventualità che sia soppresso). Bisogna affermare con forza che per ottenere una valutazione della performance davvero efficace, ciascun ufficio pubblico deve prima esplicitare qual è la propria utenza e poi deve attivarsi per ascoltarla, sia ai fini della programmazione che a scopi valutativi (ovviamente senza attribuirle alcuna esclusività). 
 
- 
-
-| 
+|
 
 .. _h5e254c325c7c56d81621f782f7158:
 
@@ -334,6 +332,8 @@ Il progresso amministrativo non potrà che allontanarsi sempre di più dal mero 
 
 #. Completare il processo di crescita digitale dei dipendenti pubblici. 
 
+|
+
 .. _h4310365b27525e3b6275382841c1675:
 
 Impatti organizzativi della Digital Transformation 
@@ -343,22 +343,22 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
 
 .. admonition:: Raccomandazione 2.2a - Promuovere nuovi modelli di interazione tra direzione IT e strutture di business, improntati alla collaborazione e al concetto di rete
 
-    Molte delle strategie di trasformazione digitale adottate dalle amministrazioni vengono considerate e relegate ad argomento di esclusiva competenza della funzione IT. Il risultato è rappresentato dall’elaborazione di piani isolati, tecnologi che non costituiscono espressione di una \ |STYLE11|\  pianificata, trasversale a tutte le funzioni, che rimangono quindi mere destinatarie del piano, con una conseguente scarsa probabilità di effettiva attuazione. 
+        Molte delle strategie di trasformazione digitale adottate dalle amministrazioni vengono considerate e relegate ad argomento di esclusiva competenza della funzione IT. Il risultato è rappresentato dall’elaborazione di piani isolati, tecnologi che non costituiscono espressione di una \ |STYLE11|\  pianificata, trasversale a tutte le funzioni, che rimangono quindi mere destinatarie del piano, con una conseguente scarsa probabilità di effettiva attuazione. 
     
-    Una strategia di change management, coerente e di largo respiro, richiederebbe invece un coinvolgimento delle diverse funzioni dell’organizzazione, chiamate a diventare vere protagoniste dei processi di cambiamento. In concreto, occorrerebbe istituire, all’interno di ogni PA centrale e locale, una rete-team permanente di innovatori, con un ruolo, per la direzione IT, sia di pivot catalizzatore della domanda di innovazione che di ponte, facilitatore del complessivo processo di trasformazione organizzativa e tecnologica. 
+        Una strategia di change management, coerente e di largo respiro, richiederebbe invece un coinvolgimento delle diverse funzioni dell’organizzazione, chiamate a diventare vere protagoniste dei processi di cambiamento. In concreto, occorrerebbe istituire, all’interno di ogni PA centrale e locale, una rete-team permanente di innovatori, con un ruolo, per la direzione IT, sia di pivot catalizzatore della domanda di innovazione che di ponte, facilitatore del complessivo processo di trasformazione organizzativa e tecnologica. 
     
-    Le modalità di interazione potranno poi variare a seconda delle specificità dell’ente, prevedendo comunque il coinvolgimento dei referenti delle diverse strutture di business nello sviluppo dei progetti strategici in materia di ICT, unitamente alla presenza e collaborazione stabile dei responsabili-referenti già individuati dal legislatore in materie strettamente connesse alla trasformazione digitale. Vale a dire coinvolgere stabilmente, oltre alla direzione e referenti ICT, anche i referenti-responsabili già individuati dal legislatore per materie-aree che nel tempo si sono rivelate tra loro collegate, trasversali e comunque coinvolte dalla trasformazione digitale in relazione al patrimonio di documenti e dati trattati: Protezione dei dati personali, Sicurezza, Pianificazione e controllo di gestione, Performance, Trasparenza e anticorruzione, dell’accesso, Gestione e conservazione documentale, Comunicazione. 
+        Le modalità di interazione potranno poi variare a seconda delle specificità dell’ente, prevedendo comunque il coinvolgimento dei referenti delle diverse strutture di business nello sviluppo dei progetti strategici in materia di ICT, unitamente alla presenza e collaborazione stabile dei responsabili-referenti già individuati dal legislatore in materie strettamente connesse alla trasformazione digitale. Vale a dire coinvolgere stabilmente, oltre alla direzione e referenti ICT, anche i referenti-responsabili già individuati dal legislatore per materie-aree che nel tempo si sono rivelate tra loro collegate, trasversali e comunque coinvolte dalla trasformazione digitale in relazione al patrimonio di documenti e dati trattati: Protezione dei dati personali, Sicurezza, Pianificazione e controllo di gestione, Performance, Trasparenza e anticorruzione, dell’accesso, Gestione e conservazione documentale, Comunicazione. 
 
  
 
 .. admonition:: Raccomandazione 2.2b - Ripensare il ruolo della direzione IT nelle PA, abbandonando il modello dei silos verticali a favore di strutture per l'innovazione multidisciplinari e trasversali alle diverse funzioni
 
-    Nuovi modelli di interazione necessitano di trasformazioni strutturali delle attuali direzioni IT. In un modello di innovazione a rete, il cambiamento non può essere guidato da un soggetto confinato in una direzione a sé stante, parallela alle altre nell’ottica dell’organizzazione per silos verticali. 
+        Nuovi modelli di interazione necessitano di trasformazioni strutturali delle attuali direzioni IT. In un modello di innovazione a rete, il cambiamento non può essere guidato da un soggetto confinato in una direzione a sé stante, parallela alle altre nell’ottica dell’organizzazione per silos verticali. 
     
-    Occorre valorizzare l’esperienza di alcuni enti pionieri, che hanno aggregato la funzione organizzazione con quella IT o improntato la loro strategia di change management sulla sinergia tra sistemi informativi, organizzazione, risorse umane e comunicazione. 
-    Una possibile linea evolutiva delle direzioni IT della PA, almeno di quelle più grandi, potrebbe essere rappresentata dall’esperienza del Team Digitale. L’idea sarebbe quella di proiettare il modello di una unit per la trasformazione digitale dal livello centrale a livello di singolo ente, trasformando la tradizionale direzione per i sistemi informativi in un vero e proprio team per l’innovazione, composto in parte dalle stesse persone della precedente struttura, ma connotato da un’elevata trasversalità e da un mandato completamente differente: guidare la trasformazione dell’organizzazione applicando la digitalizzazione.  
+        Occorre valorizzare l’esperienza di alcuni enti pionieri, che hanno aggregato la funzione organizzazione con quella IT o improntato la loro strategia di change management sulla sinergia tra sistemi informativi, organizzazione, risorse umane e comunicazione. 
+        Una possibile linea evolutiva delle direzioni IT della PA, almeno di quelle più grandi, potrebbe essere rappresentata dall’esperienza del Team Digitale. L’idea sarebbe quella di proiettare il modello di una unit per la trasformazione digitale dal livello centrale a livello di singolo ente, trasformando la tradizionale direzione per i sistemi informativi in un vero e proprio team per l’innovazione, composto in parte dalle stesse persone della precedente struttura, ma connotato da un’elevata trasversalità e da un mandato completamente differente: guidare la trasformazione dell’organizzazione applicando la digitalizzazione.  
     
-    Per gli enti più piccoli, i team per l’innovazione potrebbero essere creati e gestiti in forma associata, aggregando le strutture per dominio tematico o comparto territoriale, e mettendo in comune risorse, persone e competenze. 
+        Per gli enti più piccoli, i team per l’innovazione potrebbero essere creati e gestiti in forma associata, aggregando le strutture per dominio tematico o comparto territoriale, e mettendo in comune risorse, persone e competenze. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -368,9 +368,9 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
 
 .. admonition:: Raccomandazione 2.2c - Ripensare il ruolo del CIO negli enti pubblici, valorizzandone il carattere strategico nel complessivo percorso di ammodernamento della PA
 
-    L’evoluzione della direzione IT porta con sé l’evoluzione del suo vertice, il CIO, chiamato a combinare le necessarie competenze tecnico-informatiche con una profonda conoscenza delle attività core dell’ente, un’elevata capacità di gestione delle relazioni con i clienti interni (\ |STYLE12|\ ) ed adeguate competenze gestionali e manageriali. Tale evoluzione è stata in qualche modo riconosciuta anche in ambito pubblico, attraverso l’introduzione della figura del responsabile della transizione al digitale, disciplinata dalla nuova versione dell’art. 17 del CAD. 
-    La \ |LINK2|\  della \ |LINK3|\  della PA ha evidenziato il grave ritardo delle PA nel rispetto di tale adempimento. Nella prossima legislatura sarà fondamentale monitorare e promuovere l’attuazione alla previsione dell’\ |LINK4|\ , almeno nelle amministrazioni più grandi. 
-    Nelle amministrazioni più piccole, dove questo modello pare inapplicabile a causa della carenza di competenze e risorse, bisognerà invece promuovere la forma associata per lo svolgimento delle funzioni del responsabile per la transizione al digitale, come previsto dallo stesso art. 17 del CAD. 
+        L’evoluzione della direzione IT porta con sé l’evoluzione del suo vertice, il CIO, chiamato a combinare le necessarie competenze tecnico-informatiche con una profonda conoscenza delle attività core dell’ente, un’elevata capacità di gestione delle relazioni con i clienti interni (\ |STYLE12|\ ) ed adeguate competenze gestionali e manageriali. Tale evoluzione è stata in qualche modo riconosciuta anche in ambito pubblico, attraverso l’introduzione della figura del responsabile della transizione al digitale, disciplinata dalla nuova versione dell’art. 17 del CAD. 
+        La \ |LINK2|\  della \ |LINK3|\  della PA ha evidenziato il grave ritardo delle PA nel rispetto di tale adempimento. Nella prossima legislatura sarà fondamentale monitorare e promuovere l’attuazione alla previsione dell’\ |LINK4|\ , almeno nelle amministrazioni più grandi. 
+        Nelle amministrazioni più piccole, dove questo modello pare inapplicabile a causa della carenza di competenze e risorse, bisognerà invece promuovere la forma associata per lo svolgimento delle funzioni del responsabile per la transizione al digitale, come previsto dallo stesso art. 17 del CAD. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -380,9 +380,9 @@ La transizione della PA verso modelli organizzativi adeguati alle sfide dell’i
 
 .. admonition:: Raccomandazione 2.2d - Promuovere la consapevolezza dei benefici legati alla transizione al digitale
 
-    Il successo dei processi di trasformazione della PA necessita dell’\ |STYLE13|\  dei dipendenti pubblici. Un aspetto ancora molto complesso, a causa di diffidenze culturali, di un timore diffuso verso il cambiamento e da una \ |STYLE14|\  ormai radicata orientata a procedure e adempimenti formali. 
-    Per rompere questo circolo vizioso è necessario innanzitutto infondere fiducia, attraverso meccanismi di condivisione interna in cui il dipendente si senta attore del processo decisionale, non solo un muto destinatario di decisioni altrui, siano esse assunte dalla direzione IT o dal proprio diretto responsabile. 
-    Occorre poi promuovere la consapevolezza dei benefici legati all’avvento della modalità operativa digitale, aumentando in questo modo il grado di partecipazione e coinvolgimento dei dipendenti nei processi di cambiamento e facilitando così il lavoro dei responsabili di tali processi. In questo senso, lo \ |STYLE15|\  può rappresentare un volano fondamentale per aumentare la percezione dei vantaggi legati al digitale. 
+        Il successo dei processi di trasformazione della PA necessita dell’\ |STYLE13|\  dei dipendenti pubblici. Un aspetto ancora molto complesso, a causa di diffidenze culturali, di un timore diffuso verso il cambiamento e da una \ |STYLE14|\  ormai radicata orientata a procedure e adempimenti formali. 
+        Per rompere questo circolo vizioso è necessario innanzitutto infondere fiducia, attraverso meccanismi di condivisione interna in cui il dipendente si senta attore del processo decisionale, non solo un muto destinatario di decisioni altrui, siano esse assunte dalla direzione IT o dal proprio diretto responsabile. 
+        Occorre poi promuovere la consapevolezza dei benefici legati all’avvento della modalità operativa digitale, aumentando in questo modo il grado di partecipazione e coinvolgimento dei dipendenti nei processi di cambiamento e facilitando così il lavoro dei responsabili di tali processi. In questo senso, lo \ |STYLE15|\  può rappresentare un volano fondamentale per aumentare la percezione dei vantaggi legati al digitale. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -413,9 +413,9 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
 
 .. admonition:: Raccomandazione 2.2f - Limitare le conseguenze negative che la burocrazia difensiva può avere sullo smart working
 
-    È opportuno salvaguardare senza appesantire l’attuale quadro normativo esistente, proteggendo la discrezionalità degli Enti pubblici nel declinare la flessibilità organizzativa sulle caratteristiche delle proprie attività lavorative e assicura un’ampia applicabilità. È importante favorire un processo in atto che risulterebbe fortemente rallentato in caso di introduzione di adempimenti o vincoli burocratici che ne limiterebbero l’adozione.  
+        È opportuno salvaguardare senza appesantire l’attuale quadro normativo esistente, proteggendo la discrezionalità degli Enti pubblici nel declinare la flessibilità organizzativa sulle caratteristiche delle proprie attività lavorative e assicura un’ampia applicabilità. È importante favorire un processo in atto che risulterebbe fortemente rallentato in caso di introduzione di adempimenti o vincoli burocratici che ne limiterebbero l’adozione.  
     
-    L’aspetto critico che rallenta l’implementazione di questo strumento è il contesto culturale della pubblica amministrazione italiana, che si presenta come impreparata ad adottare un approccio strutturato e graduale che consenta di sperimentare, misurare e personalizzare il modello sulle specificità delle diverse realtà organizzative. 
+        L’aspetto critico che rallenta l’implementazione di questo strumento è il contesto culturale della pubblica amministrazione italiana, che si presenta come impreparata ad adottare un approccio strutturato e graduale che consenta di sperimentare, misurare e personalizzare il modello sulle specificità delle diverse realtà organizzative. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -425,7 +425,7 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
 
 .. admonition:: Raccomandazione 2.2g - Innescare un processo culturale di accettazione dello smart working
 
-    L’introduzione dell’istituto, che non si configura come telelavoro o forma di conciliazione, risulta prioritario per i seguenti motivi: 
+        L’introduzione dell’istituto, che non si configura come telelavoro o forma di conciliazione, risulta prioritario per i seguenti motivi: 
     
     #. valorizzare il potenziale della riforma della PA in termini di meritocrazia e valutazione degli obiettivi e migliorare la qualità del \ |STYLE20|\ ; 
     
@@ -445,8 +445,8 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
 
 .. admonition:: Raccomandazione 2.2h - Favorire e promuovere occasioni di confronto e conoscenza dei vantaggi dello smart working
 
-    Per agire sul cambiamento culturale sarebbe utile e necessario favorire la diffusione delle buone pratiche presenti nelle amministrazioni e della conoscenza della materia, incrementando le occasioni di incontro e scambio. Si potrebbe pensare all’istituzionalizzazione della settimana del Lavoro Agile su tutto il territorio nazionale o degli "SmartWorking days", come giornate pre-autorizzate in cui lavoratori e gestori possano sperimentare i benefici del lavoro agile. 
-    Al fine di diffondere l’adozione della pratica, si potrebbe inoltre definire una “anagrafe di progetti di SmartWorking della PA” accentrata a livello di Ministero della Funzione Pubblica o di Presidenza del Consiglio dei Ministri per censire le prassi adottate e favorirne il riuso tra le amministrazioni. 
+        Per agire sul cambiamento culturale sarebbe utile e necessario favorire la diffusione delle buone pratiche presenti nelle amministrazioni e della conoscenza della materia, incrementando le occasioni di incontro e scambio. Si potrebbe pensare all’istituzionalizzazione della settimana del Lavoro Agile su tutto il territorio nazionale o degli "SmartWorking days", come giornate pre-autorizzate in cui lavoratori e gestori possano sperimentare i benefici del lavoro agile. 
+        Al fine di diffondere l’adozione della pratica, si potrebbe inoltre definire una “anagrafe di progetti di SmartWorking della PA” accentrata a livello di Ministero della Funzione Pubblica o di Presidenza del Consiglio dei Ministri per censire le prassi adottate e favorirne il riuso tra le amministrazioni. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -456,7 +456,7 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
 
 .. admonition:: Raccomandazione 2.2i - Accelerare il processo di aggiornamento delle competenze in ambito IT per rendere adottabile la pratica da parte di una vasta platea di dipendenti
 
-    Lo \ |STYLE22|\  è strettamente collegato all’utilizzo di tecnologie. L’età media dei dipendenti pubblici è molto alta e le competenze in ambito digitali spesso non sono adeguate a sostenere e supportare i processi di cambiamento in atto. Puntare su attività di formazione e strumenti di aggiornamento snelli permetterebbe di abbattere le resistenze all’utilizzo della pratica legate alla scarsa conoscenza degli strumenti IT. 
+        Lo \ |STYLE22|\  è strettamente collegato all’utilizzo di tecnologie. L’età media dei dipendenti pubblici è molto alta e le competenze in ambito digitali spesso non sono adeguate a sostenere e supportare i processi di cambiamento in atto. Puntare su attività di formazione e strumenti di aggiornamento snelli permetterebbe di abbattere le resistenze all’utilizzo della pratica legate alla scarsa conoscenza degli strumenti IT. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -466,7 +466,7 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
 
 .. admonition:: Raccomandazione 2.2l - Aumentare gli investimenti in innovazione tecnologica per favorire gli investimenti in innovazione organizzativa ed istituzionale
 
-    Quando si parla di \ |STYLE23|\  è necessario fare i conti con il gap di  innovazione e con il ritardo nel processo di digitalizzazione che il nostro paese ancora vive. Senza investimenti in innovazione tecnologica è difficile realizzare innovazione organizzativa e istituzionale. 
+        Quando si parla di \ |STYLE23|\  è necessario fare i conti con il gap di  innovazione e con il ritardo nel processo di digitalizzazione che il nostro paese ancora vive. Senza investimenti in innovazione tecnologica è difficile realizzare innovazione organizzativa e istituzionale. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -476,7 +476,7 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
 
 .. admonition:: Raccomandazione 2.2m - Dare spazio alle sperimentazioni
 
-    Dopo più di un anno dalla legge sul lavoro agile nella PA, lo smart working è ora partito. È importante in questa fase dare spazio alle sperimentazioni di innovazione organizzativa, senza aggiungere altre norme che potrebbero sminuire o snaturare il percorso. Solo così, lavorando e sperimentando, lo smart working svelerà il potenziale di grande occasione in grado di avviare il cambiamento culturale che stiamo cercando. 
+        Dopo più di un anno dalla legge sul lavoro agile nella PA, lo smart working è ora partito. È importante in questa fase dare spazio alle sperimentazioni di innovazione organizzativa, senza aggiungere altre norme che potrebbero sminuire o snaturare il percorso. Solo così, lavorando e sperimentando, lo smart working svelerà il potenziale di grande occasione in grado di avviare il cambiamento culturale che stiamo cercando. 
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -486,17 +486,17 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
 
 .. admonition:: Raccomandazione 2.2n - Partire dalla Dirigenza per favorire un’applicazione pratica efficace e consapevole
 
-    Lo smart working agisce sulle persone, su tutte le persone dell’organizzazione, dal funzionario al dirigente. È importante formare adeguatamente i Dirigenti affinché diventino parte integrante del processo e dei cambiamenti che porta con sé in termini di pianificazione e valutazione dei risultati, coordinamento dei gruppi di lavoro, flussi e dinamiche attivate. Solo così si potrà puntare su una vera valorizzazione delle competenze e sul riorientamento della mission del lavoro pubblico -  dall’adempimento al servizio – che lo smart working è in grado di abilitare. 
+        Lo smart working agisce sulle persone, su tutte le persone dell’organizzazione, dal funzionario al dirigente. È importante formare adeguatamente i Dirigenti affinché diventino parte integrante del processo e dei cambiamenti che porta con sé in termini di pianificazione e valutazione dei risultati, coordinamento dei gruppi di lavoro, flussi e dinamiche attivate. Solo così si potrà puntare su una vera valorizzazione delle competenze e sul riorientamento della mission del lavoro pubblico -  dall’adempimento al servizio – che lo smart working è in grado di abilitare. 
 
-.. _h721512647d633e292e6e1a401867145f:
+.. _h2c1d74277104e41780968148427e:
 
- 
+
+
+
+.. _h476834441945532458b3a21604f4747:
+
+|
 #
-
-.. _h3b1b704d667b2580282b1748612e367:
-
-    . 
-######
 
 .. _h584c28440a7a94f707f726f495a:
 
@@ -576,6 +576,11 @@ Dal punto di vista della trasparenza e del rilascio dei dati in formato aperto, 
 Talvolta questa tripartizione genera l’impasse nelle stesse pubbliche amministrazioni, responsabili della messa a disposizione dei dati. A questo si aggiunge la \ |STYLE33|\  al di là delle prescrizioni di legge, che favorisca l’emergere di nuove opportunità per conoscere se stesse in relazione ad altre.  
 
 Sul fronte dell’attivismo civico, fa fede il concetto di Onlife, \ |STYLE34|\ . Siamo in un reale ibrido, dove il digitale è solo una parte del tangibile\ |STYLE35|\ .  
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 .. _hc2d16464a7351292d703b112c5e204b:
 
@@ -754,6 +759,8 @@ La conservazione digitale è stata in questi anni al centro di molte iniziative 
  
 #
 
+|
+
 .. _h3794676237219a784af5657103b:
 
 Soluzioni per la gestione documentale 
@@ -823,6 +830,11 @@ I ritardi nel raggiungimento di obiettivi strategici sono riconducibili anche al
 
 Circa il 14% del PIL dell’Unione Europea passa per il procurement pubblico (cfr. Commissione Europea del 3.10.2017 (COM)2017 572 final “\ |LINK20|\ ”). In Italia i valori sembrerebbero essere leggermente più contenuti, entro il 10% del PIL. Si tratta, evidentemente, di un settore in grado di incidere in modo estremamente significativo sull’economia del nostro Paese. Nel 2016 è entrata in vigore una riforma profonda della materia degli appalti pubblici, in parte sulla scia dell’evoluzione normativa determinata dalle Direttive europee del 2014 (23, 24 e 25), in parte rispondente ad esigenze e strategie di carattere nazionale.  Il nuovo approccio promosso dal \ |LINK21|\  dovrebbe costituire la regolamentazione fondamentale della materia, su provvedimenti attuativi in senso proprio e su una regolamentazione flessibile di supporto alle stazioni appaltanti, che in parte specifichi meglio i precetti normativi, in parte funga da strumento per la diffusione delle buone pratiche.  
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _hc2d16464a7351292d703b112c5e204b:
 
 | 
@@ -864,6 +876,8 @@ Uno dei pilastri del Nuovo Codice, forse il più importante, è costituito dalla
  
 #
 
+|
+
 .. _h1352473316614471c384d753371295e:
 
 Valutazione offerta 
@@ -884,6 +898,16 @@ Lo spostamento netto dell’ago della bilancia verso la valorizzazione degli asp
 .. admonition:: Raccomandazione 2.6e - Garantire maggiore trasparenza nel processo di valutazione
 
     Tale processo dovrebbe essere pubblico in tutti i suoi aspetti, al limite anonimizzando i dati riservati, per permettere la valutazione della correttezza di tale processo. Sarebbe anche utile avere dei sistemi di supporto alle decisioni che si stanno sempre più affinando con le tecniche di intelligenza artificiale. 
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+.. _h476834441945532458b3a21604f4747:
+
+|
+#
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -912,6 +936,8 @@ Si è fatta forte l’esigenza di un monitoraggio costante dell’andamento  del
     L’introduzione di audit interni permetterebbe di: rivitalizzare i controlli di legalità nell’ambito di un’attività di prevenzione di impronta collaborativa e consulenziale, volta a fronteggiare i rischi di illegalità e cattivo uso di risorse; stimolare i dirigenti a prevenire violazioni e sprechi; dare l’allarme laddove si registrino i rischi maggiori, di cattiva gestione o fatti illeciti; A chi svolge questa attività va garantita l’autonomia necessaria a conservare neutralità. Le norme anticorruzione introdotte negli ultimi anni contengono elementi che vanno nella giusta direzione (analisi dei rischi e piani di prevenzione della corruzione), ma in modo generico e globalmente parziale. È inoltre illusorio confidare nell’efficacia della sanzione, o repressione penale, per contrastare efficacemente comportamenti illeciti nella pubblica amministrazione. 
 
  
+
+|
 
 .. _h343f3616131e675f523373872675d:
 
