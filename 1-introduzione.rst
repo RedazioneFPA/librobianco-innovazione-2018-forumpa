@@ -60,8 +60,6 @@ Questo Libro bianco è una tappa importante di questo percorso che ci auguriamo 
 
  
 
- \ |STYLE0|\ 
-
 --------
 
 .. _bookmark-id-b9g1t1467a5q:
@@ -100,9 +98,6 @@ Questo Libro bianco è una tappa importante di questo percorso che ci auguriamo 
 
 
 .. bottom of content
-
-
-.. |STYLE0| replace:: **Note**
 
 
 .. |LINK1| raw:: html
