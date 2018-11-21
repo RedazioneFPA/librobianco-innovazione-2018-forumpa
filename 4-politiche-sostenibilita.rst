@@ -419,13 +419,13 @@ In questo momento l’interesse delle piattaforme a operare su scala locale è m
 
 .. admonition:: Raccomandazione 4.4m - Riprendere e accelerare il processo di valutazione del ddl sulle piattaforme collaborative basate sull’economia della condivisione
 
-    In particolar modo, rispetto alle disposizioni in materia di semplificazione della fiscalità, relativamente ad un’aliquota fissa per i redditi più bassi, e all’utilizzo del dispositivo del sostituto d'imposta\ |STYLE26|\ .  
+    In particolar modo, rispetto alle disposizioni in materia di semplificazione della fiscalità, relativamente ad un’aliquota fissa per i redditi più bassi, e all’utilizzo del dispositivo del sostituto d'imposta.  
 
  
 
 .. admonition:: Raccomandazione 4.4n - Implementare business model sostenibili e strumenti finanziari ad hoc
 
-    C’è un intervento da fare sulla costruzione di strumenti ad hoc per le imprese che realmente stanno cercando di crescere, quindi strumenti di \ |STYLE27|\ . Ci sono interventi di tipo culturale da approntare, preparando le persone e avvicinandole al fenomeno. Il nostro resta, comunque, un paese che sta subendo un processo repentino di invecchiamento. Sono tanti gli interventi da fare e che andrebbero fatti, la strada è piuttosto lunga anche dal punto di vista digitale. 
+    C’è un intervento da fare sulla costruzione di strumenti ad hoc per le imprese che realmente stanno cercando di crescere, quindi strumenti di \ |STYLE26|\ . Ci sono interventi di tipo culturale da approntare, preparando le persone e avvicinandole al fenomeno. Il nostro resta, comunque, un paese che sta subendo un processo repentino di invecchiamento. Sono tanti gli interventi da fare e che andrebbero fatti, la strada è piuttosto lunga anche dal punto di vista digitale. 
 
  
 
@@ -471,7 +471,7 @@ Nell’anno scolastico 2016-17 è stato reso noto l’avviso quadro delle azioni
     * sulle modalità con cui ricevere, ricercare e rendicontare fondi;  
     
     * nel rapporto con il territorio e con le aziende anche per progetti (sviluppare l’imprenditorialità giovanile).  
-    Si mostra fondamentale supportare le scuole con una piattaforma regionale di \ |STYLE28|\  per promuovere i propri progetti, prevedere delle figure di sistema per la progettazione (vedi la scarsa richiesta che vi è dei PON, solo il 30% circa sul finanziabile: la non conoscenza e la eccessiva burocratizzazione delle procedure amministrative di rendicontazione rischiano di far collassare le segreterie e il personale docente delle scuole che ottengono i finanziamenti). 
+    Si mostra fondamentale supportare le scuole con una piattaforma regionale di \ |STYLE27|\  per promuovere i propri progetti, prevedere delle figure di sistema per la progettazione (vedi la scarsa richiesta che vi è dei PON, solo il 30% circa sul finanziabile: la non conoscenza e la eccessiva burocratizzazione delle procedure amministrative di rendicontazione rischiano di far collassare le segreterie e il personale docente delle scuole che ottengono i finanziamenti). 
 
  
 
@@ -564,11 +564,9 @@ Quando l’istituzione scolastica fa sistema con il contesto territoriale, le fa
 
 .. |STYLE25| replace:: *sharing economy*
 
-.. |STYLE26| replace:: :sup:`12`
+.. |STYLE26| replace:: *venture capital*
 
-.. |STYLE27| replace:: *venture capital*
-
-.. |STYLE28| replace:: *fundraising*
+.. |STYLE27| replace:: *fundraising*
 
 
 .. |LINK1| raw:: html
