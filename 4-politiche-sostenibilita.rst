@@ -419,7 +419,8 @@ In questo momento l’interesse delle piattaforme a operare su scala locale è m
 
 .. admonition:: Raccomandazione 4.4m - Riprendere e accelerare il processo di valutazione del ddl sulle piattaforme collaborative basate sull’economia della condivisione
 
-    In particolar modo, rispetto alle disposizioni in materia di semplificazione della fiscalità, relativamente ad un’aliquota fissa per i redditi più bassi, e all’utilizzo del dispositivo del sostituto d'imposta.  
+    In particolar modo, rispetto alle disposizioni in materia di semplificazione della fiscalità, relativamente ad un’aliquota fissa per i redditi più bassi, e all’utilizzo del dispositivo del sostituto d'imposta\ [#F1]_\ \ [#F2]_\ 
+    .  
 
  
 
@@ -625,6 +626,12 @@ Quando l’istituzione scolastica fa sistema con il contesto territoriale, le fa
 
     <a href="http://www.camera.it/leg17/995?sezione=documenti&tipoDoc=lavori_testo_pdl&idLegislatura=17&codice=17PDL0039770&back_to=http://www.camera.it/leg17/126?tab=2-e-leg=17-e-idDocumento=3564-e-sede=-e-tipo" target="_blank">ddl proposto da alcuni parlamentari all’Intergruppo Innovazione</a>
 
+
+
+.. rubric:: Footnotes
+
+.. [#f1]  L’Art. 5 del ddl prevede un’imposta del 10% fino a 10 mila euro di reddito per le piattaforme collaborative, e stabilisce che queste agiscano come sostituto d’imposta. L’articolo 5 disciplina anche i redditi eccedenti tale soglia, che saranno invece cumulati con i redditi da lavoro dipendente o da lavoro autonomo, applicando a questi ultimi l’aliquota corrispondene.
+.. [#f2]  Su questo punto, in data 20 giugno è stata inviata dalla Presidenza della Regione Lazio una proposta di legge al Ministero del Lavoro sulla gig economy.
 
 .. |IMG1| image:: static/4-politiche-sostenibilita_1.png
    :height: 304 px
