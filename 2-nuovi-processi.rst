@@ -656,10 +656,7 @@ Una chiara distinzione tra indirizzi politici e operatività tecnica di alto liv
 
     Limitare gli interventi normativi e gestire con un approccio basato sulla cooperazione inter-istituzionale e aperto agli stakeholder i passaggi necessari a completare il quadro regolamentare, inclusa la stesura delle Linee Guida previste dal D. Lgs. 217/2017 che ha modificato il CAD. Servono strumenti e contesti di cooperazione istituzionale che favoriscano la collaborazione e il confronto. 
 
-.. _h721512647d633e292e6e1a401867145f:
-
  
-#
 
 I ritardi nel raggiungimento di obiettivi strategici sono riconducibili anche alla mancanza di personale tecnico da dedicare alla trasformazione digitale nelle diverse componenti, su cui il legislatore è peraltro intervenuto da tempo e a più riprese. Si pensi all’obbligo di affidare la funzione di gestione documentale a personale dotato di adeguate competenze archivistiche stabilito dall’articolo 61 del dpr 445/2000 e richiamato dalle regole tecniche sul protocollo informatico approvate con dpcm 3 dicembre 2013. In quante amministrazioni tale indicazione non è stata applicata? Anche le indicazioni di AgID sulla necessità di disporre di responsabili archivistici della conservazione presso i conservatori accreditati, hanno riscontrato difficoltà nell’applicazione.  
 
@@ -740,17 +737,14 @@ Si è fatta forte l’esigenza di un monitoraggio costante dell’andamento  del
 
 .. admonition:: Raccomandazione 2.6f - Riqualificare la spesa pubblica con l’adozione di soluzioni innovative che ne permettano il monitoraggio
 
-        Puntare sull’innovazione, ovvero su moderne soluzioni oggi disponibili sul mercato, come strumento di evoluzione del procurement pubblico e di riqualificazione della spesa pubblica, anche in ottica della riduzione nel medio-lungo termine degli sprechi. 
-
-.. _h721512647d633e292e6e1a401867145f:
+    Puntare sull’innovazione, ovvero su moderne soluzioni oggi disponibili sul mercato, come strumento di evoluzione del procurement pubblico e di riqualificazione della spesa pubblica, anche in ottica della riduzione nel medio-lungo termine degli sprechi. 
 
  
-#
 
 
 .. admonition:: Raccomandazione 2.6g -Introdurre attività di internal audit per lotta alla corruzione
 
-        L’introduzione di audit interni permetterebbe di: rivitalizzare i controlli di legalità nell’ambito di un’attività di prevenzione di impronta collaborativa e consulenziale, volta a fronteggiare i rischi di illegalità e cattivo uso di risorse; stimolare i dirigenti a prevenire violazioni e sprechi; dare l’allarme laddove si registrino i rischi maggiori, di cattiva gestione o fatti illeciti; A chi svolge questa attività va garantita l’autonomia necessaria a conservare neutralità. Le norme anticorruzione introdotte negli ultimi anni contengono elementi che vanno nella giusta direzione (analisi dei rischi e piani di prevenzione della corruzione), ma in modo generico e globalmente parziale. È inoltre illusorio confidare nell’efficacia della sanzione, o repressione penale, per contrastare efficacemente comportamenti illeciti nella pubblica amministrazione. 
+    L’introduzione di audit interni permetterebbe di: rivitalizzare i controlli di legalità nell’ambito di un’attività di prevenzione di impronta collaborativa e consulenziale, volta a fronteggiare i rischi di illegalità e cattivo uso di risorse; stimolare i dirigenti a prevenire violazioni e sprechi; dare l’allarme laddove si registrino i rischi maggiori, di cattiva gestione o fatti illeciti; A chi svolge questa attività va garantita l’autonomia necessaria a conservare neutralità. Le norme anticorruzione introdotte negli ultimi anni contengono elementi che vanno nella giusta direzione (analisi dei rischi e piani di prevenzione della corruzione), ma in modo generico e globalmente parziale. È inoltre illusorio confidare nell’efficacia della sanzione, o repressione penale, per contrastare efficacemente comportamenti illeciti nella pubblica amministrazione. 
 
  
 
@@ -789,13 +783,6 @@ Il DPCM del 9 maggio 2017 introduce in Italia, ai sensi dell’Art. 22 del D. Lg
 .. admonition:: Raccomandazione 2.6l - Dato un primo coinvolgimento degli stakeholders del territorio al dibattito, aprire a un numero maggiore di cittadini nelle fasi successive del dibattito stesso
 
     La normativa nazionale dovrebbe prevedere la possibilità di richiedere l’apertura a dibattito pubblico per almeno lo 0,50 per cento dei cittadini, degli stranieri o degli apolidi, che hanno compiuto sedici anni e regolarmente residenti nella Regione, anche su iniziativa di associazioni e comitati. Come, ad esempio, previsto all’art. 8, comma 1.b, della \ |LINK22|\ . 
-
-.. _h721512647d633e292e6e1a401867145f:
-
- 
-#
-
- 
 
 
 .. bottom of content
