@@ -349,7 +349,7 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
 
  
 
-.. admonition:: Raccomandazione 2.2f - Limitare le conseguenze negative che la burocrazia difensiva può avere sullo smart working
+.. admonition:: Raccomandazione 2.2e - Limitare le conseguenze negative che la burocrazia difensiva può avere sullo smart working
 
         È opportuno salvaguardare senza appesantire l’attuale quadro normativo esistente, proteggendo la discrezionalità degli Enti pubblici nel declinare la flessibilità organizzativa sulle caratteristiche delle proprie attività lavorative e assicura un’ampia applicabilità. È importante favorire un processo in atto che risulterebbe fortemente rallentato in caso di introduzione di adempimenti o vincoli burocratici che ne limiterebbero l’adozione.  
         L’aspetto critico che rallenta l’implementazione di questo strumento è il contesto culturale della pubblica amministrazione italiana, che si presenta come impreparata ad adottare un approccio strutturato e graduale che consenta di sperimentare, misurare e personalizzare il modello sulle specificità delle diverse realtà organizzative. 
@@ -357,7 +357,7 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
  
 
 
-.. admonition:: Raccomandazione 2.2g - Innescare un processo culturale di accettazione dello smart working
+.. admonition:: Raccomandazione 2.2f - Innescare un processo culturale di accettazione dello smart working
 
         L’introduzione dell’istituto, che non si configura come telelavoro o forma di conciliazione, risulta prioritario per i seguenti motivi: 
     
@@ -374,7 +374,7 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
  
 
 
-.. admonition:: Raccomandazione 2.2h - Favorire e promuovere occasioni di confronto e conoscenza dei vantaggi dello smart working
+.. admonition:: Raccomandazione 2.2g - Favorire e promuovere occasioni di confronto e conoscenza dei vantaggi dello smart working
 
     Per agire sul cambiamento culturale sarebbe utile e necessario favorire la diffusione delle buone pratiche presenti nelle amministrazioni e della conoscenza della materia, incrementando le occasioni di incontro e scambio. Si potrebbe pensare all’istituzionalizzazione della settimana del Lavoro Agile su tutto il territorio nazionale o degli "SmartWorking days", come giornate pre-autorizzate in cui lavoratori e gestori possano sperimentare i benefici del lavoro agile. 
     Al fine di diffondere l’adozione della pratica, si potrebbe inoltre definire una “anagrafe di progetti di SmartWorking della PA” accentrata a livello di Ministero della Funzione Pubblica o di Presidenza del Consiglio dei Ministri per censire le prassi adottate e favorirne il riuso tra le amministrazioni. 
@@ -382,28 +382,28 @@ Dal punto di vista normativo, la legge sul Lavoro Agile rappresenta un framework
  
 
 
-.. admonition:: Raccomandazione 2.2i - Accelerare il processo di aggiornamento delle competenze in ambito IT per rendere adottabile la pratica da parte di una vasta platea di dipendenti
+.. admonition:: Raccomandazione 2.2h - Accelerare il processo di aggiornamento delle competenze in ambito IT per rendere adottabile la pratica da parte di una vasta platea di dipendenti
 
     Lo smart working è strettamente collegato all’utilizzo di tecnologie. L’età media dei dipendenti pubblici è molto alta e le competenze in ambito digitali spesso non sono adeguate a sostenere e supportare i processi di cambiamento in atto. Puntare su attività di formazione e strumenti di aggiornamento snelli permetterebbe di abbattere le resistenze all’utilizzo della pratica legate alla scarsa conoscenza degli strumenti IT. 
 
  
 
 
-.. admonition:: Raccomandazione 2.2l - Aumentare gli investimenti in innovazione tecnologica per favorire gli investimenti in innovazione organizzativa ed istituzionale
+.. admonition:: Raccomandazione 2.2i - Aumentare gli investimenti in innovazione tecnologica per favorire gli investimenti in innovazione organizzativa ed istituzionale
 
     Quando si parla di smart working è necessario fare i conti con il gap di  innovazione e con il ritardo nel processo di digitalizzazione che il nostro paese ancora vive. Senza investimenti in innovazione tecnologica è difficile realizzare innovazione organizzativa e istituzionale. 
 
  
 
 
-.. admonition:: Raccomandazione 2.2m - Dare spazio alle sperimentazioni
+.. admonition:: Raccomandazione 2.2l - Dare spazio alle sperimentazioni
 
     Dopo più di un anno dalla legge sul lavoro agile nella PA, lo smart working è ora partito. È importante in questa fase dare spazio alle sperimentazioni di innovazione organizzativa, senza aggiungere altre norme che potrebbero sminuire o snaturare il percorso. Solo così, lavorando e sperimentando, lo smart working svelerà il potenziale di grande occasione in grado di avviare il cambiamento culturale che stiamo cercando. 
 
  
 
 
-.. admonition:: Raccomandazione 2.2n - Partire dalla Dirigenza per favorire un’applicazione pratica efficace e consapevole
+.. admonition:: Raccomandazione 2.2m - Partire dalla Dirigenza per favorire un’applicazione pratica efficace e consapevole
 
     Lo smart working agisce sulle persone, su tutte le persone dell’organizzazione, dal funzionario al dirigente. È importante formare adeguatamente i Dirigenti affinché diventino parte integrante del processo e dei cambiamenti che porta con sé in termini di pianificazione e valutazione dei risultati, coordinamento dei gruppi di lavoro, flussi e dinamiche attivate. Solo così si potrà puntare su una vera valorizzazione delle competenze e sul riorientamento della mission del lavoro pubblico -  dall’adempimento al servizio – che lo smart working è in grado di abilitare. 
 
@@ -433,7 +433,7 @@ Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |ST
 #. \ |STYLE16|\ , dirigenti-manager in grado di accompagnare i propri collaboratori nella transizione digitale. 
 
 
-.. admonition:: Raccomandazione 2.2o - Creare un coordinamento tra i soggetti chiamati alla realizzazione della strategia nazionale
+.. admonition:: Raccomandazione 2.2n - Creare un coordinamento tra i soggetti chiamati alla realizzazione della strategia nazionale
 
         Nel capitolo sulla \ |LINK7|\  è stata ribadita la necessità di coordinamento tra soggetti diversi nel ruolo, nella funzione e nell’organizzazione. A fare da raccordo tra questi l’Agenzia per l’Italia digitale, che ha il compito di guidare le attività relative all’evoluzione strategica del sistema informativo della pubblica amministrazione. 
          AgID, infatti, promuove la diffusione delle competenze digitali per imprese, cittadini e pubblica amministrazione, e supporta la crescita delle competenze digitali nei diversi ambiti, con iniziative specifiche che coinvolgono: 
@@ -448,7 +448,7 @@ Per il superamento del gap, una possibile soluzione è da ritrovarsi negli \ |ST
  
 
 
-.. admonition:: Raccomandazione 2.2p - Colmare le lacune esistenti tra l’assessment e il piano della formazione
+.. admonition:: Raccomandazione 2.2o - Colmare le lacune esistenti tra l’assessment e il piano della formazione
 
     Ciò che rimane oscuro è come si passi dal problema alla soluzione, per cui sarebbe prioritario definire una strategia univoca che traduca i risultati dell’assessment iniziale in un piano di formazione immediatamente implementabile.  
 
@@ -533,7 +533,7 @@ Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra l
  
 
 
-.. admonition:: Raccomandazione 2.3f - Potenziare e valorizzare l’adesione italiana all’Open Government Partnership
+.. admonition:: Raccomandazione 2.3e - Potenziare e valorizzare l’adesione italiana all’Open Government Partnership
 
     Sulla spinta del FOIA, l’adesione italiana all’Open Government Partnership, iniziativa internazionale che punta a ottenere impegni concreti in termini di promozione della trasparenza e di sostegno alla partecipazione civica, ha visto un sempre maggiore coinvolgimento e investimento in questo percorso. Con il nuovo approccio, diverse amministrazioni e associazioni hanno partecipato ai tavoli, con un miglioramento del livello di confronto e partecipazione pur in presenza di alcuni limiti. Ad esempio, i tavoli talvolta non sembrano essere stati utilizzati per far incontrare domanda e offerta di dati, ma per lo più è stato chiesto alla società civile di confrontarsi con obiettivi già definitivi dalle amministrazioni e con decisioni già assunte.  
     Il processo, in tutti  i casi, sebbene sia da aggiornare, ha presentato già qualche buon risultato in termini di comunicazione e avvicinamento tra istituzioni e cittadini.  
