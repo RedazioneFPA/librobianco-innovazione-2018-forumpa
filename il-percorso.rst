@@ -10,10 +10,7 @@ Il \ |STYLE0|\  rappresenta il contributo della community di innovatori di FPA a
 
 | 
 
-.. _h11587d483a27667a37727c47311894d:
-
 Ascolto della community 
-************************
 
  
 
