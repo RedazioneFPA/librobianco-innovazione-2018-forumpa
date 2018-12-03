@@ -82,7 +82,7 @@ Questo Libro bianco è una tappa importante di questo percorso che ci auguriamo 
 
 .. _bookmark-id-jqxsn4a5f0zy:
 
-[4] Eric Raymond, The cathedral & Bazar, O’Really, 1999.
+[4] Eric Raymond, The cathedral and the Bazar, O’Reilly, 1999. (http://www.catb.org/esr/writings/cathedral-bazaar/)
 
  
 
