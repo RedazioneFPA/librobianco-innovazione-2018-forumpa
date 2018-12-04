@@ -1,8 +1,4 @@
-
-.. _h1653582f2692b3d531166791b64774:
-
 Chi ha contribuito 
-###################
 
 Il Libro bianco sull’innovazione della PA è un’opera collettiva, frutto della rielaborazione dei contenuti offerti dagli oltre 300 contributori, tra relatori di FORUM PA 2018, autori della rubrica “Caro governo” e commentatori della prima versione del documento su ReadTheDocs.
 
