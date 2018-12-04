@@ -1,161 +1,646 @@
 
-.. _h4c627b4b7731570491e1ae1dc5b5d:
+.. _h1653582f2692b3d531166791b64774:
 
-Libro bianco sull’innovazione della PA
-######################################
+Chi ha contribuito 
+###################
 
-Il \ |STYLE0|\  è il risultato di un percorso collaborativo promosso da \ |LINK1|\  con l’obiettivo di costruire un’agenda dell’innovazione per la nuova legislatura. 
+Il Libro bianco sull’innovazione della PA è un’opera collettiva, frutto della rielaborazione dei contenuti offerti dagli oltre 300 contributori, tra relatori di FORUM PA 2018, autori della rubrica “Caro governo” e commentatori della prima versione del documento su ReadTheDocs.
 
-Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e sono stati registrati oltre 200 commenti.
+ 
 
-
-|REPLACE1|
-
-.. toctree::
-  :maxdepth: 2
-
-  Home <https://librobianco-innovazione-pa2018-final.readthedocs.io>
-
-
-.. toctree::  
-    :maxdepth: 2
-    :caption: Introduzione
-
-    perche-questo-libro-bianco
-    il-percorso
-    la-struttura
-
-
-.. toctree::  
-    :maxdepth: 2
-    :caption: Contenuti
-
-    1-introduzione
-    2-nuovi-processi
-    3-trasformazione-digitale
-    4-politiche-sostenibilita
-
-
-.. toctree::  
-    :maxdepth: 2
-    :caption: Team
-
-    chi-ha-contribuito
-
-
-.. admonition:: Licenza
-
-    I contenuti del libro bianco sono rilasciati da \ |LINK3|\  con licenza Creative Commons \ |LINK4|\ .
-    
-    (Attribuzione all'autore dei contenuti - contenuti non riusabili per scopi commerciali - se riusi i contenuti devi utilizzare la stessa licenza del materiale originario)
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-
-.. admonition:: Team per la redazione del libro bianco partecipato 2018
-
-    \ |STYLE1|\ 
-    
-    * Carlo Mochi Sismondi (FPA)
-    
-    * Gianni Dominici (FPA)
-    
-    * Andrea Ivan Baldassarre (FPA)
-    
-    * Marina Bassi (FPA)
-    
-    * Eleonora Bove (FPA)
-    
-    * Patrizia Fortunato (FPA)
-    
-    * Paola Musollino (FPA)
-    
-    * Massimiliano Roma (FPA)
-    
-    * Luigi Rosati (FPA)
-    
-    * Giovanna Stagno (FPA)
-    
-    * Michela Stentella (FPA)
-    
-    * Antonio Veraldi (FPA)
-    \ |STYLE2|\  ``Read the Docs``  \ |STYLE3|\  \ |STYLE4|\  ``Github``\ |STYLE5|\ 
-    
-    * \ |LINK5|\  (Comune di Palermo, OpendataSicilia)
-
-|
-
-
-|REPLACE2|
-
-\ |LINK6|\  è la società del Gruppo Digital 360, che da 29 anni favorisce l’incontro e la collaborazione tra Pubblica Amministrazione, Imprese, mondo della Ricerca e Società civile. \ |STYLE6|\ : 
-
-* \ |STYLE7|\ , per favorire relazioni e partnership tra amministratori, referenti politici, aziende, cittadinanza organizzata;
-
-* \ |STYLE8|\  delle amministrazioni e dei soggetti coinvolti nei processi di modernizzazione della PA: imprese, soggetti intermedi, cittadini;
-
-* \ |STYLE9|\  emergenti per individuare, studiare e promuovere l’applicazione di nuovi modelli di governance;
-
-* \ |STYLE10|\  sviluppate da imprese e amministrazioni, con lo scopo di favorirne la diffusione e il riuso.
++------------------+----------------+
+|Caterina          |Acquarone       |
++------------------+----------------+
+|Adriana           |Agrimi          |
++------------------+----------------+
+|Stefano           |Aiello          |
++------------------+----------------+
+|Filomena          |Albano          |
++------------------+----------------+
+|Marta             |Almela Salvador |
++------------------+----------------+
+|Marco             |Alongi          |
++------------------+----------------+
+|Vittorio          |Alvino          |
++------------------+----------------+
+|Giacomo           |Angeloni        |
++------------------+----------------+
+|Federico          |Anghelè         |
++------------------+----------------+
+|Cristiano         |Annovi          |
++------------------+----------------+
+|Gaetano           |Armao           |
++------------------+----------------+
+|Carlo Maria       |Arpaia          |
++------------------+----------------+
+|Luca              |Attias          |
++------------------+----------------+
+|Francesca         |Bagni Cipriani  |
++------------------+----------------+
+|Giovanni          |Bajo            |
++------------------+----------------+
+|Marco             |Baldi           |
++------------------+----------------+
+|Irene             |Baldriga        |
++------------------+----------------+
+|Marco             |Bani            |
++------------------+----------------+
+|Dianora           |Bardi           |
++------------------+----------------+
+|Stefano           |Battini         |
++------------------+----------------+
+|Antonio           |Battistini      |
++------------------+----------------+
+|Chiara            |Battistoni      |
++------------------+----------------+
+|Sara              |Belli           |
++------------------+----------------+
+|Mauro             |Bellini         |
++------------------+----------------+
+|Alessio           |Beltrame        |
++------------------+----------------+
+|Padre Paolo       |Benanti         |
++------------------+----------------+
+|Michele           |Benedetti       |
++------------------+----------------+
+|Roberto           |Benedetti       |
++------------------+----------------+
+|Rosina            |Bentivenga      |
++------------------+----------------+
+|Marco             |Bentivogli      |
++------------------+----------------+
+|Fulvio Oscar      |Benussi         |
++------------------+----------------+
+|Michele           |Bertola         |
++------------------+----------------+
+|Francesco         |Bevere          |
++------------------+----------------+
+|Claudio           |Biancalana      |
++------------------+----------------+
+|Giovanni          |Biondi          |
++------------------+----------------+
+|Vittorio          |Bitteleri       |
++------------------+----------------+
+|Maria Claudia     |Bodino          |
++------------------+----------------+
+|Nicoletta         |Boldrini        |
++------------------+----------------+
+|Emanuele          |Bompan          |
++------------------+----------------+
+|Mauro             |Bonaretti       |
++------------------+----------------+
+|Alessandra        |Bonetti         |
++------------------+----------------+
+|Antonio           |Bosio           |
++------------------+----------------+
+|Renato            |Botti           |
++------------------+----------------+
+|Giorgio           |Brandi          |
++------------------+----------------+
+|Matteo            |Brunati         |
++------------------+----------------+
+|Dimitri           |Brunetti        |
++------------------+----------------+
+|Enza              |Bruno Bossio    |
++------------------+----------------+
+|Andrea            |Buttol          |
++------------------+----------------+
+|Fabrizio          |Caccavello      |
++------------------+----------------+
+|Mirko             |Calvaresi       |
++------------------+----------------+
+|Leonardo          |Cannavò         |
++------------------+----------------+
+|Daniela           |Carlà           |
++------------------+----------------+
+|Gabriele          |Carones         |
++------------------+----------------+
+|Paolo             |Cascione        |
++------------------+----------------+
+|Laura             |Castellani      |
++------------------+----------------+
+|Silvia            |Castellanza     |
++------------------+----------------+
+|Elio              |Catania         |
++------------------+----------------+
+|Luca              |Cellesi         |
++------------------+----------------+
+|Sabrina           |Chibbaro        |
++------------------+----------------+
+|Dante             |Ciantra         |
++------------------+----------------+
+|Pietro            |Citarella       |
++------------------+----------------+
+|Marco             |Ciurcina        |
++------------------+----------------+
+|Pina              |Civitella       |
++------------------+----------------+
+|Fabrizio          |Cobis           |
++------------------+----------------+
+|Angela            |Cocchiarella    |
++------------------+----------------+
+|Roberta           |Cocco           |
++------------------+----------------+
+|Gianluigi         |Cogo            |
++------------------+----------------+
+|Mario             |Collevecchio    |
++------------------+----------------+
+|Paolo             |Colli Franzone  |
++------------------+----------------+
+|Claudio           |Contardi        |
++------------------+----------------+
+|Ilaria            |Coppa           |
++------------------+----------------+
+|Pierluigi         |Coppola         |
++------------------+----------------+
+|Stefano           |Corrado         |
++------------------+----------------+
+|Mariano           |Corso           |
++------------------+----------------+
+|Beatrice          |Costa           |
++------------------+----------------+
+|Palma             |Costi           |
++------------------+----------------+
+|Fiorella          |Crespi          |
++------------------+----------------+
+|Daniele           |Crespi          |
++------------------+----------------+
+|Gianfranco        |D'Alessio       |
++------------------+----------------+
+|Vincenzo          |Damato          |
++------------------+----------------+
+|Simone            |D'Antonio       |
++------------------+----------------+
+|Romolo            |de Camillis     |
++------------------+----------------+
+|Francesca         |De Chiara       |
++------------------+----------------+
+|Marco             |De Giorgi       |
++------------------+----------------+
+|Fabio             |De Luigi        |
++------------------+----------------+
+|Alessandra        |De Marco        |
++------------------+----------------+
+|Elena             |De Nictolis     |
++------------------+----------------+
+|Marco             |De Ponte        |
++------------------+----------------+
+|Paolo             |De Rosa         |
++------------------+----------------+
+|Matteo            |De Santi        |
++------------------+----------------+
+|Maria Giovanna    |De Vivo         |
++------------------+----------------+
+|Enrico            |Deidda Gagliardo|
++------------------+----------------+
+|Maurizio Ferruccio|Del Conte       |
++------------------+----------------+
+|Giulio            |Del Federico    |
++------------------+----------------+
+|Alessandro        |Delli Noci      |
++------------------+----------------+
+|Enrico            |Desideri        |
++------------------+----------------+
+|Ettore            |Di Cesare       |
++------------------+----------------+
+|Marco             |Di Ciano        |
++------------------+----------------+
+|Francesco         |Di Costanzo     |
++------------------+----------------+
+|Luigi             |Di Matteo       |
++------------------+----------------+
+|Antongiulio       |Donà            |
++------------------+----------------+
+|Paolo             |Donzelli        |
++------------------+----------------+
+|Mauro             |Draoli          |
++------------------+----------------+
+|Sergio            |Duretti         |
++------------------+----------------+
+|Lorenzo           |Fabbri          |
++------------------+----------------+
+|Simona            |Faccioli        |
++------------------+----------------+
+|Paola Maria       |Fantini         |
++------------------+----------------+
+|Valeria           |Fascione        |
++------------------+----------------+
+|Marieva           |Favoino         |
++------------------+----------------+
+|Linda             |Fedele          |
++------------------+----------------+
+|Massimo           |Fedeli          |
++------------------+----------------+
+|Alfredo           |Ferrante        |
++------------------+----------------+
+|Luigi             |Ferrara         |
++------------------+----------------+
+|Ludovica Carla    |Ferrari         |
++------------------+----------------+
+|Claudio           |Fini            |
++------------------+----------------+
+|Luca              |Flecchia        |
++------------------+----------------+
+|Francesco         |Frieri          |
++------------------+----------------+
+|Stefano           |Fuligni         |
++------------------+----------------+
+|Massimo           |Fustini         |
++------------------+----------------+
+|Luisa             |Gabbi           |
++------------------+----------------+
+|Monica            |Gabrielli       |
++------------------+----------------+
+|Francesca         |Gagliarducci    |
++------------------+----------------+
+|Luca              |Galandra        |
++------------------+----------------+
+|Marina            |Galluzzo        |
++------------------+----------------+
+|Roberto           |Garavaglia      |
++------------------+----------------+
+|Raffaele          |Gareri          |
++------------------+----------------+
+|Gianluca          |Garro           |
++------------------+----------------+
+|Luca              |Gastaldi        |
++------------------+----------------+
+|Leandro           |Gelasi          |
++------------------+----------------+
+|Michele           |Gentile         |
++------------------+----------------+
+|Giovanni          |Gentili         |
++------------------+----------------+
+|Patrizia          |Gentili         |
++------------------+----------------+
+|Manuela           |Gianni          |
++------------------+----------------+
+|Maria Carmela     |Giarratano      |
++------------------+----------------+
+|Annamaria         |Gillone         |
++------------------+----------------+
+|Marco             |Giorgi          |
++------------------+----------------+
+|Maria Pia         |Giovannini      |
++------------------+----------------+
+|Claudio           |Gnessi          |
++------------------+----------------+
+|Cristina          |Grieco          |
++------------------+----------------+
+|Mariella          |Guercio         |
++------------------+----------------+
+|Caterina          |Guercio         |
++------------------+----------------+
+|Caterina          |Guercio         |
++------------------+----------------+
+|Elio              |Gullo           |
++------------------+----------------+
+|Salvatore         |Iaconesi        |
++------------------+----------------+
+|Giuseppe          |Iacono          |
++------------------+----------------+
+|Christian         |Iaione          |
++------------------+----------------+
+|Marco             |Icardi          |
++------------------+----------------+
+|Daniela           |Intravaia       |
++------------------+----------------+
+|Lorenzo           |Ivaldi          |
++------------------+----------------+
+|Hu                |Kun             |
++------------------+----------------+
+|Francesco         |La Camera       |
++------------------+----------------+
+|Stefano           |Laporta         |
++------------------+----------------+
+|Marco             |Laudonio        |
++------------------+----------------+
+|Sebastiano        |Leo             |
++------------------+----------------+
+|Nicoletta         |Levi            |
++------------------+----------------+
+|David             |Licursi         |
++------------------+----------------+
+|Raffaele          |Lillo           |
++------------------+----------------+
+|Lorenzo           |Lipparini       |
++------------------+----------------+
+|Andrea            |Lisi            |
++------------------+----------------+
+|Giorgia           |Lodi            |
++------------------+----------------+
+|Alessandro        |Longo           |
++------------------+----------------+
+|Valentina         |Lostorto        |
++------------------+----------------+
+|Fabrizio          |Lucci           |
++------------------+----------------+
+|Sara              |Luisa Mintrone  |
++------------------+----------------+
+|Emanuele          |Madini          |
++------------------+----------------+
+|Piera             |Magnatti        |
++------------------+----------------+
+|Alessandro        |Magnino         |
++------------------+----------------+
+|Fabio             |Malagnino       |
++------------------+----------------+
+|Gianmatteo        |Manghi          |
++------------------+----------------+
+|Maurizio          |Manzi           |
++------------------+----------------+
+|Gabriele          |Marchese        |
++------------------+----------------+
+|Pietro            |Marchionni      |
++------------------+----------------+
+|Pia               |Marconi         |
++------------------+----------------+
+|Flavia            |Marzano         |
++------------------+----------------+
+|Cristina          |Masella         |
++------------------+----------------+
+|Carlo             |Mauceli         |
++------------------+----------------+
+|Michele           |Melchionda      |
++------------------+----------------+
+|Giovanni          |Mellini         |
++------------------+----------------+
+|Marco             |Meneguzzo       |
++------------------+----------------+
+|Paolo             |Menesatti       |
++------------------+----------------+
+|Antonio           |Menghini        |
++------------------+----------------+
+|Alessandro        |Menna           |
++------------------+----------------+
+|Antonio           |Meola           |
++------------------+----------------+
+|Federica          |Meta            |
++------------------+----------------+
+|Mirta             |Michilli        |
++------------------+----------------+
+|Raffaella         |Milano          |
++------------------+----------------+
+|Mauro             |Minenna         |
++------------------+----------------+
+|Serenella         |Molendini       |
++------------------+----------------+
+|Roberto           |Monaco          |
++------------------+----------------+
+|Sonia             |Montegiove      |
++------------------+----------------+
+|Danilo            |Moriero         |
++------------------+----------------+
+|Andrea            |Morniroli       |
++------------------+----------------+
+|Giorgio           |Mosca           |
++------------------+----------------+
+|Michele           |Munafò          |
++------------------+----------------+
+|Antonio           |Naddeo          |
++------------------+----------------+
+|Giovanni          |Napoli          |
++------------------+----------------+
+|Giuseppe          |Navanteri       |
++------------------+----------------+
+|Lidia             |Nazzaro         |
++------------------+----------------+
+|Andrea            |Nicolini        |
++------------------+----------------+
+|Antonella         |Ninci           |
++------------------+----------------+
+|Mario             |Nobile          |
++------------------+----------------+
+|Giuliano          |Noci            |
++------------------+----------------+
+|Alfredo           |Nulli           |
++------------------+----------------+
+|Paolo             |Olimpieri       |
++------------------+----------------+
+|Emiliano          |Palermo         |
++------------------+----------------+
+|Massimiliano      |Pampaloni       |
++------------------+----------------+
+|Vincenzo          |Panella         |
++------------------+----------------+
+|Paolo             |Paoloni         |
++------------------+----------------+
+|Domenico          |Paolucci        |
++------------------+----------------+
+|Danilo            |Papa            |
++------------------+----------------+
+|Marco             |Paparella       |
++------------------+----------------+
+|Christian         |Parmigiani      |
++------------------+----------------+
+|Monica            |Parrella        |
++------------------+----------------+
+|Francesco         |Pasquali        |
++------------------+----------------+
+|Vincenzo          |Patruno         |
++------------------+----------------+
+|Mariagrazia       |Pedrana         |
++------------------+----------------+
+|Piero             |Pelizzaro       |
++------------------+----------------+
+|Davide            |Pellegrini      |
++------------------+----------------+
+|Antonello         |Pellegrino      |
++------------------+----------------+
+|Alessio           |Pennasilico     |
++------------------+----------------+
+|Vincenzo          |Pensa           |
++------------------+----------------+
+|Guido             |Pera            |
++------------------+----------------+
+|Caterina          |Perniconi       |
++------------------+----------------+
+|Simona            |Piacenti        |
++------------------+----------------+
+|Andrea            |Piccoli         |
++------------------+----------------+
+|Stefania          |Piersanti       |
++------------------+----------------+
+|Giuliano          |Pierucci        |
++------------------+----------------+
+|Emma              |Pietrafesa      |
++------------------+----------------+
+|Giulia            |Pietroletti     |
++------------------+----------------+
+|Andrea            |Pillon          |
++------------------+----------------+
+|Marco             |Piredda         |
++------------------+----------------+
+|Livio             |Pisciotta       |
++------------------+----------------+
+|Paolo             |Pisetta         |
++------------------+----------------+
+|Simone            |Piunno          |
++------------------+----------------+
+|Stefano           |Pizzicannella   |
++------------------+----------------+
+|Marco             |Planzi          |
++------------------+----------------+
+|Piero             |Poccianti       |
++------------------+----------------+
+|Alessandra        |Poggiani        |
++------------------+----------------+
+|Irene             |Priolo          |
++------------------+----------------+
+|Simone            |Puksic          |
++------------------+----------------+
+|Gianluca          |Qualano         |
++------------------+----------------+
+|Stefano           |Quintarelli     |
++------------------+----------------+
+|Morena            |Ragone          |
++------------------+----------------+
+|Alessandro        |Ramazza         |
++------------------+----------------+
+|Andrea            |Rangone         |
++------------------+----------------+
+|Giorgio           |Rapari          |
++------------------+----------------+
+|Giovanni          |Rellini Lerz    |
++------------------+----------------+
+|Raffaele          |Resta           |
++------------------+----------------+
+|Stefania          |Ricci           |
++------------------+----------------+
+|Luca              |Rizzi           |
++------------------+----------------+
+|Marco             |Romagnoli       |
++------------------+----------------+
+|Iolanda           |Romano          |
++------------------+----------------+
+|Eugenia           |Rossi di Schio  |
++------------------+----------------+
+|Alfonso           |Rubinacci       |
++------------------+----------------+
+|Maurizio          |Sacconi         |
++------------------+----------------+
+|Antonio           |Samaritani      |
++------------------+----------------+
+|Andrea            |Sammarco        |
++------------------+----------------+
+|Marzia            |Sandroni        |
++------------------+----------------+
+|Francesca         |Sanesi          |
++------------------+----------------+
+|Andrea            |Sassetti        |
++------------------+----------------+
+|Fulvio            |Sbroiavacca     |
++------------------+----------------+
+|Alberto           |Scaduto         |
++------------------+----------------+
+|Adriano           |Scaletta        |
++------------------+----------------+
+|Riccardo          |Scquizzato      |
++------------------+----------------+
+|Giuseppe          |Sindoni         |
++------------------+----------------+
+|Ermenegilda       |Siniscalchi     |
++------------------+----------------+
+|Michele           |Slocovich       |
++------------------+----------------+
+|Giuseppe          |Sorgente        |
++------------------+----------------+
+|Serena            |Sorrentino      |
++------------------+----------------+
+|Nicola            |Sotira          |
++------------------+----------------+
+|Roberto           |Spagnolo        |
++------------------+----------------+
+|Gianluca          |Spitella        |
++------------------+----------------+
+|Sara              |Stabile         |
++------------------+----------------+
+|Grazia            |Strano          |
++------------------+----------------+
+|Maurizio          |Stumbo          |
++------------------+----------------+
+|Sergio            |Talamo          |
++------------------+----------------+
+|Andrea            |Tardiola        |
++------------------+----------------+
+|Dimitri           |Tartari         |
++------------------+----------------+
+|Armando           |Tomasi          |
++------------------+----------------+
+|Stefano           |Tomasini        |
++------------------+----------------+
+|Daniele           |Tumietto        |
++------------------+----------------+
+|Stefano           |Uberti Foppa    |
++------------------+----------------+
+|Grazia            |Ugolini         |
++------------------+----------------+
+|Giovanni          |Urbani          |
++------------------+----------------+
+|Giovanni          |Valotti         |
++------------------+----------------+
+|Gianluca          |Vannuccini      |
++------------------+----------------+
+|Enzo              |Veiluva         |
++------------------+----------------+
+|Paolo             |Venturi         |
++------------------+----------------+
+|Guido             |Vetere          |
++------------------+----------------+
+|Marco             |Vezzoli         |
++------------------+----------------+
+|Luigi Maria       |Vignali         |
++------------------+----------------+
+|Giuseppe          |Virgone         |
++------------------+----------------+
+|Walter            |Vitali          |
++------------------+----------------+
+|Alberto           |Zito            |
++------------------+----------------+
+|Alessandro        |Zucchini        |
++------------------+----------------+
+|ste.sto           |                |
++------------------+----------------+
+|tonyfede          |                |
++------------------+----------------+
+|AleFornacci       |                |
++------------------+----------------+
+|Ste3182           |                |
++------------------+----------------+
+|CUG_ENEA          |                |
++------------------+----------------+
+|matt_toso         |                |
++------------------+----------------+
+|bitwatt           |                |
++------------------+----------------+
+|fmin              |                |
++------------------+----------------+
+|FeelGood          |                |
++------------------+----------------+
+|LyLilly           |                |
++------------------+----------------+
+|massimocasa       |                |
++------------------+----------------+
+|ccar              |                |
++------------------+----------------+
+|niclaus76         |                |
++------------------+----------------+
+|lbuoncristiani    |                |
++------------------+----------------+
+|LUIS52            |                |
++------------------+----------------+
+|Dzjivas           |                |
++------------------+----------------+
+|michelac          |                |
++------------------+----------------+
+|loredana          |                |
++------------------+----------------+
+|emanuela          |                |
++------------------+----------------+
+|valefa            |                |
++------------------+----------------+
+|gentili           |                |
++------------------+----------------+
 
 
 .. bottom of content
-
-
-.. |STYLE0| replace:: **libro bianco sull'innovazione della Pubblica Amministrazione**
-
-.. |STYLE1| replace:: **Raccolta dei contenuti, dei commenti, editing dei testi, architettura del documento:**
-
-.. |STYLE2| replace:: **Elaborazione per la visualizzazione dei testi su**
-
-.. |STYLE3| replace:: **e**
-
-.. |STYLE4| replace:: **gestione del progetto su**
-
-.. |STYLE5| replace:: **:**
-
-.. |STYLE6| replace:: **FPA svolge il suo ruolo di accompagnamento all’innovazione tecnologica, istituzionale e organizzativa attraverso**
-
-.. |STYLE7| replace:: **Networking**
-
-.. |STYLE8| replace:: **Capacity building**
-
-.. |STYLE9| replace:: **Rappresentazione dei fenomeni**
-
-.. |STYLE10| replace:: **Valorizzazione delle best practice**
-
-
-.. |REPLACE1| raw:: html
-
-    <strong><span style="background-color: #1f67c6; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Questa è la versione finale partecipata del libro bianco, edizione 2018</span></strong>
-.. |REPLACE2| raw:: html
-
-    <img src="http://www.forumpa.it/assets/site/brand-forum-pa.jpg"/>
-
-.. |LINK1| raw:: html
-
-    <a href="http://www.forumpa.it/" target="_blank">FPA</a>
-
-.. |LINK2| raw:: html
-
-    <a href="https://forumpa-librobianco-innovazione-2018.readthedocs.io/" target="_blank">libro bianco, nella sua prima stesura</a>
-
-.. |LINK3| raw:: html
-
-    <a href="http://www.forumpa.it/" target="_blank">FPA</a>
-
-.. |LINK4| raw:: html
-
-    <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">CC BY NC SA</a>
-
-.. |LINK5| raw:: html
-
-    <a href="http://cirospat.readthedocs.io" target="_blank">Ciro Spataro</a>
-
-.. |LINK6| raw:: html
-
-    <a href="http://www.forumpa.it/" target="_blank">FPA</a>
-
