@@ -43,6 +43,13 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
     chi-ha-contribuito
 
 
+.. toctree::  
+    :maxdepth: 2
+    :caption: Informativa privacy
+
+    privacy
+
+
 .. admonition:: Licenza
 
     I contenuti del libro bianco sono rilasciati da \ |LINK3|\  con licenza Creative Commons \ |LINK4|\ .
