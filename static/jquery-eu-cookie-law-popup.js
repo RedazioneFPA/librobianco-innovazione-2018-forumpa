@@ -28,7 +28,7 @@ $.fn.euCookieLawPopup = (function() {
 	///////////////////////////////////////////////////////////////////////////////////////////////
 	// PARAMETERS (MODIFY THIS PART) //////////////////////////////////////////////////////////////
 	_self.params = {
-		cookiePolicyUrl : 'https://cirospat.readthedocs.io/it/latest/privacy.html',
+		cookiePolicyUrl : 'https://librobianco-innovazione-pa2018-final.readthedocs.io/it/latest/privacy.html',
 		popupPosition : 'top',
 		colorStyle : 'default',
 		compactStyle : false,
