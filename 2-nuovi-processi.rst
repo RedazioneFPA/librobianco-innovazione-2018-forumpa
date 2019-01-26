@@ -524,7 +524,7 @@ Il concetto di cittadinanza è mutato sia da un punto di vista strumentale (ades
 Trasparenza 
 ============
 
-Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra la concezione teorica della messa a disposizione dei dati,e quanto accade nella realtà locali e centrali. Se da un punto di vista normativo il quadro è saturo di indicazioni sulle finalità e obiettivi del rilascio in formato aperto dei dati (dalla legge sul Procedimento Amministrativo al FOIA), \ |STYLE24|\ .  
+Sul tema della trasparenza, appare piuttosto critica la distanza esistente tra la concezione teorica della messa a disposizione dei dati, e quanto accade nella realtà locali e centrali. Se da un punto di vista normativo il quadro è saturo di indicazioni sulle finalità e obiettivi del rilascio in formato aperto dei dati (dalla legge sul Procedimento Amministrativo al FOIA), \ |STYLE24|\ .  
 
 .. admonition:: Raccomandazione 2.3d - Diffondere e monitorare l’effettiva applicazione del diritto di accesso civico
 
@@ -555,7 +555,7 @@ Negli ultimi anni molto è cambiato in positivo, oggi la maggioranza delle istit
 
 Sul lato della quantità e della presenza delle PA sulle nuove piattaforme di comunicazione sono stati fatti molti passi avanti e oggi l’Italia è la prima a livello internazionale ad avere una rete nazionale della nuova comunicazione, fatta di tanti professionisti e di buone pratiche modello anche per altri Paesi. Il lavoro di oggi e anche per il futuro è sulla qualità: come offrire servizi e informazioni, come dialogare e interagire con i cittadini, quali social media policy, quali linguaggi, come riconoscere e dare spazio alle nuove professionalità, come organizzare al meglio la comunicazione pubblica, quale modello organizzativo. La rivoluzione in corso ha bisogno del contributo e della professionalità di tutti i principali attori: giornalisti, comunicatori, nuove professioni (social media manager, strategist, community organizer, data journalism, visual design etc.), università. 
 
-Passando per un riconoscimento formale di molte di queste professioni, è importante che il Ministro per la Pubblica Amministrazione sostenga il processo verso la definizione di un nuovo Ufficio unitario che comprenda: informazione, tradizionale e social; trasparenza totale e rapporti con il cittadino; gestione eventi; consultazioni pubbliche e citizen satisfaction; comunicazione interna. 
+Passando per un riconoscimento formale di molte di queste professioni, è importante che il Ministro per la Pubblica Amministrazione sostenga il processo verso la definizione di un nuovo *Ufficio Unitario* che comprenda: informazione, tradizionale e social; trasparenza totale e rapporti con il cittadino; gestione eventi; consultazioni pubbliche e citizen satisfaction; comunicazione interna. 
 
 In conformità ai principi della normativa “FOIA” (D. Lgs. 97/2016), che conferma molte delle norme del D Lgs. 33/2013, è suggeribile l’uso sistematico e professionale dei \ |STYLE25|\  con conoscenza specifica di meccanismi e linguaggi, nonché sempre previa predisposizione di policy e procedure. In tal modo, i professionisti possono proficuamente contribuire al dibattito pubblico, necessario presupposto dell'esercizio dei diritti di cittadinanza. Assicurare l’accesso a internet per i pubblici dipendenti e utilizzare i \ |STYLE26|\  per la trasparenza sono indicazioni entrate anche a far parte di documenti strategici quali il \ |LINK13|\  e il Piano triennale per l’Informatizzazione delle PA.  
 
@@ -563,7 +563,7 @@ Il lavoro sulla qualità dei servizi e delle informazioni e sulla qualità del r
 
 Diverse sono le iniziative recenti, come quella della Federazione nazionale della Stampa italiana e dell’Ordine dei Giornalisti che hanno rilanciato le attività e le professionalità comunicative nei quattro contratti del pubblico impiego, firmati tra dicembre e febbraio scorsi: funzioni centrali, funzioni locali, sanità e istruzione e ricerca. Sono stati inseriti in appositi articoli i nuovi profili della comunicazione e dell'informazione. È stata introdotta per la prima volta la dimensione professionale del giornalismo pubblico che dovrà, naturalmente, diventare unificante delle funzioni comunicative all'interno di un ufficio unico.  
 
-Essenziale, in tale quadro, la presenza al tavolo Aran (Agenzia per la Rappresentanza Negoziale delle Pubbliche Amministrazioni) della  FNSI (Federazione nazionale della Stampa italiana) che, sia pure con 18 anni di ritardo, è chiamata, secondo la recente Dichiarazione congiunta, sia a ridefinire i profili comunicativi (che nei CCNL del pubblico impiego recentemente firmati sono esposti in modo piuttosto confuso) che a stabilire le forme di adesione dei Giornalisti pubblici agli istituti previdenziali e assistenziali della professione giornalistica. Un’indicazione già contenuta nella legge 150/2000 e che trova ora attuazione. 
+Essenziale, in tale quadro, la presenza al tavolo Aran (Agenzia per la Rappresentanza Negoziale delle Pubbliche Amministrazioni) della  FNSI (Federazione nazionale della Stampa italiana) che, sia pure con 18 anni di ritardo, è chiamata, secondo la recente *Dichiarazione Congiunta*, sia a ridefinire i profili comunicativi (che nei CCNL del pubblico impiego recentemente firmati sono esposti in modo piuttosto confuso) che a stabilire le forme di adesione dei Giornalisti pubblici agli istituti previdenziali e assistenziali della professione giornalistica. Un’indicazione già contenuta nella legge 150/2000 e che trova ora attuazione. 
 
 Costituisce un ottimo supporto per tutti i professionisti della comunicazione, che lavorano all'interno della pubblica amministrazione, anche il progetto \ |LINK15|\  del Team per la trasformazione digitale. Si tratta di un kit di strumenti disponibili, contenente \ |STYLE27|\ , test usabilità, \ |LINK16|\ . 
 
@@ -618,7 +618,7 @@ La conservazione digitale è stata in questi anni al centro di molte iniziative 
 
 .. admonition:: Raccomandazione 2.5a - Definire con maggior chiarezza i modelli organizzativi dell’archiviazione
 
-    In particolare va definito il modello organizzativo che riguarda l’archiviazione e la conservazione a norma, su cui il Piano Triennale è intervenuto riconoscendo il ruolo dell’Archivio centrale dello Stato, ma lasciando parzialmente irrisolto il sistema delle responsabilità istituzionali in tema di vigilanza e la complessità di gestione degli archivi ibridi. 
+    In particolare va definito il modello organizzativo che riguarda l’archiviazione e la conservazione a norma, su cui il Piano Triennale è intervenuto riconoscendo il ruolo dell’*Archivio Centrale dello Stato*, ma lasciando parzialmente irrisolto il sistema delle responsabilità istituzionali in tema di vigilanza e la complessità di gestione degli archivi ibridi. 
 
  
 
@@ -629,7 +629,7 @@ La conservazione digitale è stata in questi anni al centro di molte iniziative 
 Soluzioni per la gestione documentale 
 ======================================
 
-La questione delle piattaforme è un problema di qualità in relazione sia a quelle esistenti, sia alla normativa in materia di riuso del software. Le soluzioni informatiche per la gestione informatica dei documenti e, soprattutto, per la conservazione digitale devono garantire livelli di qualità che permettano la formazione e la tenuta a medio e a lungo termine dei nostri patrimoni di memoria documentaria richiedono. 
+La questione delle piattaforme è un problema di qualità in relazione sia a quelle esistenti, sia alla normativa in materia di riuso del software. Le soluzioni informatiche per la gestione informatica dei documenti e, soprattutto, per la conservazione digitale devono garantire livelli di qualità che permettano la formazione e la tenuta a medio e a lungo termine dei nostri patrimoni di memoria documentaria. 
 
 .. admonition:: Raccomandazione 2.5b - Migliorare gli strumenti di controllo della qualità delle piattaforme, attraverso la definizione di requisiti funzionali
 
@@ -654,7 +654,7 @@ Una chiara distinzione tra indirizzi politici e operatività tecnica di alto liv
 
 .. admonition:: Raccomandazione 2.5d - Meno norme, più collaborazione per completare il quadro regolamentare
 
-    Limitare gli interventi normativi e gestire con un approccio basato sulla cooperazione inter-istituzionale e aperto agli stakeholder i passaggi necessari a completare il quadro regolamentare, inclusa la stesura delle Linee Guida previste dal D. Lgs. 217/2017 che ha modificato il CAD. Servono strumenti e contesti di cooperazione istituzionale che favoriscano la collaborazione e il confronto. 
+    Limitare gli interventi normativi e gestire con un approccio basato sulla cooperazione inter-istituzionale e aperto agli stakeholder, i passaggi necessari a completare il quadro regolamentare, inclusa la stesura delle Linee Guida previste dal D. Lgs. 217/2017 che ha modificato il CAD. Servono strumenti e contesti di cooperazione istituzionale che favoriscano la collaborazione e il confronto. 
 
  
 
