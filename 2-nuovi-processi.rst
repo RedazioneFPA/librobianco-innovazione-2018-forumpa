@@ -501,11 +501,11 @@ Il concetto di cittadinanza è mutato sia da un punto di vista strumentale (ades
 
     Nella progettazione, ad esempio, di una smart city, i dati forniti dai cittadini come produttori è necessario che diventino beni comuni digitali (digital commons) utili attraverso: 
     
-    * Normazione a livello centrale dei processi di profilazione dell’utente. 
+    * Normazione a livello centrale dei processi di profilazione dell’utente 
     
-    * Mappatura e analisi contestuale delle buone pratiche esistenti. 
+    * Mappatura e analisi contestuale delle buone pratiche esistenti 
     
-    * Standardizzazione di una cultura civica digitale condivisa.   
+    * Standardizzazione di una cultura civica digitale condivisa   
 
  
 
