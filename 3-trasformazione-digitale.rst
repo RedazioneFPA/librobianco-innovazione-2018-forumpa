@@ -253,7 +253,7 @@ Una delle principali barriere allo sviluppo di servizi di qualità al cittadino 
 
 \ |STYLE31|\  sancisce la transizione a un \ |LINK15|\  basato sull’approccio \ |STYLE32|\  e sull’uso di diversi standard (oltre al consolidato SOAP, si aggiungono il REST\ |STYLE33|\  in particolare OpenAPI, ed altri standard), al fine di garantire la corretta interazione tra cittadini, imprese e PA e favorire la condivisione trasparente di dati, informazioni, piattaforme e servizi. 
 
-In attuazione del Piano, sono state emanate le \ |LINK16|\ , per il progressivo superamento del precedente modello di SPCoop (Sistema Pubblico di Cooperazione), basato su standard SOAP, e la dismissione dei relativi strumenti (Porte di dominio, Buste eGov, Registro SICA), nonché i primi due capitoli delle \ |LINK17|\ , attualmente in consultazione (i restanti 3 saranno pubblicati entro l’estate). 
+In attuazione del Piano, sono state emanate le \ |LINK16|\ , per il progressivo superamento del precedente modello di SPCoop (Sistema Pubblico di Cooperazione), basato su standard SOAP, e la dismissione dei relativi strumenti (Porte di dominio, Buste eGov, Registro SICA), nonché i primi due capitoli delle \ |LINK17|\.
 
 Le linee guida introducono alcuni importanti elementi di novità, con l’esplicita finalità di superare le difficoltà che hanno limitato la diffusione del modello SPCoop (a fine 2017 le PA aderenti al vecchio sistema erano solo poco più di 200, principalmente del livello centrale e del livello di Regioni e Province autonome). Tra queste: 
 
@@ -286,7 +286,7 @@ Per garantire il successo del nuovo modello sarà tuttavia necessario intraprend
     
     * quello delle \ |STYLE36|\ , poiché il passaggio a un modello fondato su API e micro-servizi richiede investimenti non banali. 
     Sarà quindi fondamentale promuovere forme di condivisione degli investimenti e di \ |STYLE37|\ , attraverso cui ridurre la spesa in capo alla singola amministrazione e mettere a fattor comune le diverse competenze delle amministrazioni, con un vantaggio reciproco.  
-    Sarebbe inoltre opportuno rendere obbligatoria la pubblicazione delle soluzioni implementate per favorire la pratica del riuso e abbattere tutti i costi di progettazione specifica che graverebbero soprattutto sugli enti più piccoli 
+    Sarebbe inoltre opportuno rendere obbligatoria la pubblicazione delle soluzioni implementate per favorire la pratica del riuso e abbattere tutti i costi di progettazione specifica che graverebbero soprattutto sugli enti più piccoli. 
 
  
 
@@ -309,7 +309,7 @@ Il \ |LINK19|\  si articola lungo due direttrici strategiche, strettamente conne
 
 L’attuazione del Cloud della PA è invece fondamentale non solo per una questione di inadeguatezza tecnologica e razionalizzazione, ma anche perché con il rapido evolvere della tecnologia, la gestione IT totalmente interna diventerà insostenibile da un punto di vista di costi e competenze, soprattutto per gli enti locali, inibendo la capacità delle amministrazioni di fare innovazione. 
 
-Alcuni importanti passi sono già stati compiuti: è il caso delle circolari sui criteri per la \ |LINK21|\  per la PA e per la \ |LINK22|\  per il Cloud della PA. Molti altri dovranno essere completati al più presto, in primis il completamento del complesso processo di individuazione, qualificazione e costituzione dei \ |STYLE40|\  (PSN). 
+Alcuni importanti passi sono già stati compiuti: è il caso delle circolari sui criteri per la \ |LINK21|\  per la PA e per la \ |LINK22|\  per il Cloud della PA. Molti altri dovranno essere portati avanti al più presto, in primis il completamento del complesso processo di individuazione, qualificazione e costituzione dei \ |STYLE40|\  (PSN). 
 
 Sebbene la strada sia ormai tracciata, il percorso di attuazione dovrà tener conto di alcune criticità da affrontare in maniera prioritaria. 
 
@@ -320,7 +320,7 @@ Sebbene la strada sia ormai tracciata, il percorso di attuazione dovrà tener co
 Migrazione delle applicazioni in cloud 
 =======================================
 
-Il consolidamento dei data center senza il quello delle applicazioni genera scarso valore e, in certi casi, rischia di avere un effetto netto di crescita dei costi (anche assumendo l’adozione di ambienti fortemente virtualizzati). 
+Il consolidamento dei data center senza quello delle applicazioni genera scarso valore e, in certi casi, rischia di avere un effetto netto di crescita dei costi (anche assumendo l’adozione di ambienti fortemente virtualizzati). 
 
 Il percorso attuativo del processo di razionalizzazione del patrimonio informativo della PA deve tener conto della possibilità di dover riscrivere e migrare tutte le applicazioni, attualmente in esercizio nella pubblica amministrazione, che non siano compliant rispetto a un modello di cloud centralizzato. Da un lato l’AgID sta facendo in modo di far convergere in modo cloud centrico, tramite i cosiddetti Poli Strategici Nazionali, una serie di centri elaborazione dati (CED) che non sono strategici. Dall’altra parte, affinché questo abbia successo, le piccole amministrazioni vanno accompagnate nel riscrivere il proprio sistema; non tutti i software sono \ |STYLE41|\  e, prima che possano essere migrati in un cloud, la pubblica amministrazione deve sostenere un costo. 
 
