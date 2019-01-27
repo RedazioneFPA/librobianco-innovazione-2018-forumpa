@@ -173,7 +173,7 @@ Assumono quindi grande importanza sia le azioni di comunicazione quanto le inizi
 
 .. admonition:: Raccomandazione 3.2d - Promuovere i servizi online attraverso attività di comunicazione che mettano in evidenza i benefici concreti derivanti dal loro utilizzo
 
-    In alcuni casi, lo scarso utilizzo dei servizi online della PA è da ricondurre anche alla mancata o errata comunicazione verso il cittadino. Promuovere i servizi online della PA vuol dire innanzitutto evidenziare i vantaggi pratici connessi al loro utilizzo, traducibili principalmente in risparmio di tempo\ [#F6]_\ e di costi
+    In alcuni casi, lo scarso utilizzo dei servizi online della PA è da ricondurre anche alla mancata o errata comunicazione verso il cittadino. Promuovere i servizi online della PA vuol dire innanzitutto evidenziare i vantaggi pratici connessi al loro utilizzo, traducibili principalmente in risparmio di tempo\ [#F6]_\ e di costi.
 
  
 
@@ -238,7 +238,7 @@ ANPR
 
 .. admonition:: Raccomandazione 3.2i - Accelerare l’avvio del domicilio digitale attraverso il completamento dell’infrastruttura nazionale per gli avvisi e le notifiche di cortesia
 
-    Il disaccoppiamento tra \ |STYLE27|\  previsto dall’ultima modifica del CAD ha posto le basi accelerare la diffusione del primo, in attesa del completamento del secondo. Occorre ora garantire la possibilità al cittadino di comunicare il proprio domicilio digitale, principale strumento di interlocuzione digitale con il cittadino, accelerando la realizzazione dell’\ |STYLE28|\  da inviare ai cittadini, sui diversi canali digitali, per un pieno utilizzo dello strumento. 
+    Il disaccoppiamento tra \ |STYLE27|\  previsto dall’ultima modifica del CAD ha posto le basi per accelerare la diffusione del primo, in attesa del completamento del secondo. Occorre ora garantire la possibilità al cittadino di comunicare il proprio domicilio digitale, principale strumento di interlocuzione digitale con il cittadino, accelerando la realizzazione dell’\ |STYLE28|\  da inviare ai cittadini, sui diversi canali digitali, per un pieno utilizzo dello strumento. 
 
  
 
