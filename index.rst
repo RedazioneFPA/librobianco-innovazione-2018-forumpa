@@ -140,7 +140,7 @@ Il \ |LINK2|\ , è stato in consultazione dal 28 giugno al 15 settembre 2018 e s
     <strong><span style="background-color: #1f67c6; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Questa è la versione finale partecipata del libro bianco, edizione 2018</span></strong>
 .. |REPLACE2| raw:: html
 
-    <img src="http://www.forumpa.it/assets/site/brand-forum-pa.jpg"/>
+    <img src="https://d2edgil1b4pqdw.cloudfront.net/wp-content/uploads/2019/01/fpa_d360_pos-353x216.png" width=350 />
 
 .. |LINK1| raw:: html
 
