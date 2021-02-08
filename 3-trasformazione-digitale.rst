@@ -526,7 +526,7 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 
 .. admonition:: Raccomandazione 3.6c - Attivare un monitoraggio continuo dell’impatto del valore economico e sociale dei dati liberati
 
-        Gli studi di impatto assumono un ruolo fondamentale. Il monitoraggio dell’impatto dal punto di vista economico e sociale dei dataset liberati deve essere parte integrante del processo di apertura. I benefici e l’impatto degli Open Data a livello economico e sociale risultato ancora poco conosciuti e soprattutto ancora difficili da misurare. Quello che emerge dagli studi presenti è un ecosistema ancora in via di sviluppo. 
+        Gli studi di impatto assumono un ruolo fondamentale. Il monitoraggio dell’impatto dal punto di vista economico e sociale dei dataset liberati deve essere parte integrante del processo di apertura. I benefici e l’impatto degli Open Data a livello economico e sociale risultano ancora poco conosciuti e soprattutto ancora difficili da misurare. Quello che emerge dagli studi presenti è un ecosistema ancora in via di sviluppo. 
     
         L’aspetto del monitoraggio è fondamentale sia dal punto di vista dell’analisi dell’offerta di Open Data che di domanda. I dati infatti vengono liberati, ma non è facile conoscere chi li riutilizza e cosa genera dal riuso. La misurazione dell’effettivo riuso e la conoscenza della platea di riutilizzatori sono dimensioni fondamentali del monitoraggio. 
 
@@ -604,7 +604,7 @@ Il DAF è parte integrante del Piano triennale e con l’ultima riforma del CAD,
 
 I principi alla base di questo strumento sono: 
 
-* l’\ |LINK39|\ , ovvero il superamento della logica dei silos i dati; 
+* l’\ |LINK39|\ , ovvero il superamento della logica dei silos di dati; 
 
 * la standardizzazione, ovvero la possibilità di far dialogare basi di dati; 
 
