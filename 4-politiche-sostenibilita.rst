@@ -90,9 +90,7 @@ Sussiste la necessità di definire criteri, standard, indicatori che assicurino 
     
     * realizzare un Osservatorio nazionale dei prezzi; 
     
-    * sviluppare competenze all’interno delle Centrali acquisti (ma anche all’interno di 
-    
-    * regioni, ASL, AO, AOU) e favorire l’integrazione tra le figure preposte nelle organizzazioni all’innovazione con la funzione acquisti; 
+    * sviluppare competenze all’interno delle Centrali acquisti (ma anche all’interno di regioni, ASL, AO, AOU) e favorire l’integrazione tra le figure preposte nelle organizzazioni all’innovazione con la funzione acquisti; 
     
     * redigere manuali operativi per indicare come si utilizzano gli strumenti di \ |STYLE10|\  innovativo (sottoporre proposta ad ANAC e Corte dei Conti). 
 
@@ -305,9 +303,7 @@ Con il procedere della implementazione delle infrastrutture di comunicazione (ba
 4.4 Energia e ambiente 
 ***********************
 
-Negli ultimi anni è aumentato il livello di priorità attribuito alle politiche ambientali, si rilevano diverse iniziative intraprese a livello globale e nazionale per favorire politiche territoriali e inglobare azioni di mitigazione e di adattamento ai cambiamenti climatici nella pianificazione. Nel corso degli ultimi due anni, in Italia, sono state messe in campo una serie di iniziative che traducono in atti concreti l’Accordo di Parigi sui 
-
-cambiamenti climatici, sottoscritto da 175 Paesi ed entrato in vigore il 4 novembre del 2016.  
+Negli ultimi anni è aumentato il livello di priorità attribuito alle politiche ambientali, si rilevano diverse iniziative intraprese a livello globale e nazionale per favorire politiche territoriali e inglobare azioni di mitigazione e di adattamento ai cambiamenti climatici nella pianificazione. Nel corso degli ultimi due anni, in Italia, sono state messe in campo una serie di iniziative che traducono in atti concreti l’Accordo di Parigi sui cambiamenti climatici, sottoscritto da 175 Paesi ed entrato in vigore il 4 novembre del 2016.  
 
 La priorità per il futuro è quindi l’attuazione dell’Accordo di Parigi nell’ambito del quadro sovraordinato della Strategia Nazionale per lo Sviluppo Sostenibile (SNSvS). A livello europeo, molte sono state le novità intercorse nell’ultimo anno. Il 18 aprile scorso  è stato approvato dal Parlamento Europeo il pacchetto legislativo sull’Economia Circolare. La normativa è stata pubblicata nella Gazzetta Ufficiale e dovrà essere recepita dagli Stati membri nei propri ordinamenti, entro il 5 luglio 2020. 
 
