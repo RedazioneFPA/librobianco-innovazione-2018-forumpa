@@ -510,7 +510,7 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 
     Si rendono sempre più necessari sia l’apertura di dati pubblici di alto valore commerciale che la collaborazione con creativi, soggetti competenti, università e startup. Una volta definito questo, interventi come il \ |STYLE64|\  diventano tecnicismi necessari di una strategia più complessiva. 
     Da questo punto di vista le proposte sono diverse. Tra queste quella di creare un organismo a partecipazione pubblico-privato, e che riconosca nei privati, che utilizzano i dati pubblici e che ne fanno profitto, i soggetti con cui individuare modelli di business e proposte di soluzioni e prodotti da sviluppare con i dati liberati. 
-    All’interno di queste riflessioni si colloca anche quella sul compenso economico alla PA a seguito della liberazione dei dati a sua disposizione. I modelli possibili sono diversi, da quello che fissa delle soglie quantitative di accesso gratuito ai dataset oltre le quali si stabiliscono delle commissioni, a quello che distingue le tipologie di soggetti che possono accedere ai dataset gratuitamente da quelli che devono pagare una \ |STYLE65|\ . 
+    All’interno di queste riflessioni si colloca anche quella sul compenso economico alla PA a seguito della liberazione dei dati a sua disposizione. I modelli possibili sono diversi, da quello che fissa delle soglie quantitative di accesso gratuito ai dataset oltre le quali si stabiliscono delle commissioni, a quello che distingue le tipologie di soggetti che possono accedere ai dataset gratuitamente, da quelli che devono pagare una \ |STYLE65|\ . 
 
  
 
@@ -596,7 +596,7 @@ Nel tentativo di un sempre crescente coordinamento nazionale, attuando i princip
 Data & Analytics Framework 
 ===========================
 
-Il \ |LINK38|\  \ |STYLE76|\  è il grande progetto di coordinamento a livello nazionale della gestione dei dati delle pubbliche amministrazioni. Il DAF disegna una strada comune per le amministrazioni e vuole essere la strumento per tradurre concretamente la strategia di valorizzazione del patrimonio dati del nostro Paese.
+Il \ |LINK38|\  \ |STYLE76|\  è il grande progetto di coordinamento a livello nazionale della gestione dei dati delle pubbliche amministrazioni. Il DAF (Data & Analytics Framework) disegna una strada comune per le amministrazioni e vuole essere la strumento per tradurre concretamente la strategia di valorizzazione del patrimonio dati del nostro Paese.
 
  
 
