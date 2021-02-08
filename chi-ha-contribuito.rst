@@ -641,6 +641,7 @@ Il Libro bianco sull’innovazione della PA è un’opera collettiva, frutto del
 +------------------+----------------+
 |gentili           |                |
 +------------------+----------------+
-
+|Andrea            | Tironi         |
++------------------+----------------+
 
 .. bottom of content
