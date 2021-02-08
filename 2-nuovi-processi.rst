@@ -136,7 +136,7 @@ La dicotomia tra chi vorrebbe una dirigenza di carriera, diciamo sul modello fra
 
 .. admonition:: Raccomandazione 2.1h - Superare la contrapposizione tra visioni dicotomiche (spoil system vs indipendenza), individuando diverse tipologie di dirigenza
 
-    Individuare nell’ambito della funzione dirigenziale tipologie diverse per cui sia possibile pensare a diversi incarichi sia fiduciari sia del tutto indipendenti dalla politica. Nel primo caso prevedere strumenti efficaci di check&balance, nel secondo verificare una ragionevole rotazione degli incarichi, che tenga però opportunamente conto delle competenze specifiche necessario all’esercizio di quell’incarico (in particolare per i ruoli tecnici). 
+    Individuare nell’ambito della funzione dirigenziale tipologie diverse per cui sia possibile pensare a diversi incarichi sia fiduciari sia del tutto indipendenti dalla politica. Nel primo caso prevedere strumenti efficaci di check&balance, nel secondo verificare una ragionevole rotazione degli incarichi, che tenga però opportunamente conto delle competenze specifiche necessarie all’esercizio di quell’incarico (in particolare per i ruoli tecnici). 
     In questa operazione non bisognerebbe perdere il fuoco di quei fattori comuni che differenziano il lavoro dei dirigenti (tutti) da quello degli altri dipendenti pubblici. In primis, bisognerebbe analizzare i sistemi di gestione contabile vigenti nei diversi comparti della PA e a quanti dirigenti è attribuita effettivamente un'autonoma responsabilità di spesa. 
 
 | 
@@ -158,7 +158,7 @@ I dirigenti che sceglieremo oggi saranno quelli che saranno a capo delle amminis
 .. admonition:: Raccomandazione 2.1l - Favorire la mobilità dei dirigenti, sia tra mondo pubblico e privato, sia a livello Europeo
 
         Un manager moderno deve poter spaziare su più contesti lavorativi. Deve essere favorita al massimo sia l’osmosi tra il pubblico e il privato che, prevista già dalle riforme Bassanini, non ha trovato applicazione reale nella PA dove la stragrande maggioranza dei dirigenti apicali proviene da una carriera solo pubblica. 
-        Altrettanto deve essere considerata determinante un’esperienza in un contesto europeo, meglio se presso le strutture dell’Unione. Ovviamente deve essere considerata condicio sine qua non la conoscenza di una o meglio due lingue comunitarie e una cultura almeno di base della trasformazione digitale, cosa del tutto diversa dal saper usare gli strumenti. 
+        Altrettanto deve essere considerata determinante un’esperienza in un contesto europeo, meglio se presso le strutture dell’Unione. Ovviamente deve essere considerata *condicio sine qua non* la conoscenza di una o meglio due lingue comunitarie e una cultura almeno di base della trasformazione digitale, cosa del tutto diversa dal saper usare gli strumenti. 
 
  
 
@@ -193,7 +193,7 @@ Il ruolo della valutazione
 
 La valutazione è stata oggetto di numerose e diverse riforme nell’ultimo ventennio, tutte probabilmente giustificate, ma che non sono riuscite a far uscire tale pratica dal novero degli adempimenti e delle carte da riempire.  
 
-Opinione diffusa tra gli addetti ai lavori è che in Italia la valutazione delle performance venga fatta spesso male, per ‘Amministrazioni distratte’ che la percepiscono come dovere quando va bene, e come strumento retorico quando va male. 
+Opinione diffusa tra gli addetti ai lavori è che in Italia la valutazione delle performance venga fatta spesso male, per *Amministrazioni distratte* che la percepiscono come dovere quando va bene, e come strumento retorico quando va male. 
 
 Fondamentale per la crescita del paese diventa pertanto la diffusione di una \ |STYLE4|\ , che non può essere lasciata né alla legge, né tantomeno ad una classe di tecnocrati, ma che dovrebbe ispirare tutta la programmazione sia da parte della politica che individua gli obiettivi, sia da parte dell’amministrazione che definisce i modi dell’attuazione. 
 
@@ -230,7 +230,7 @@ Fondamentale per la crescita del paese diventa pertanto la diffusione di una \ |
 Gli Organismi Indipendenti di Valutazione 
 ------------------------------------------
 
-Il d.lgs. n. 74/2017 di riforma del d.lgs. n. 150/2009, interviene modificando il sistema di misurazione delle performance, attribuendo agli OIV nuovi poteri e capacità di iniziativa per il miglioramento della valutazione, con riflessi sull’organizzazione amministrativa, inserendo alcune novità all’interno del processo valutativo con la partecipazione diretta dei cittadini e degli utenti in grado di poter segnalare le proprie osservazioni, incrementando la trasparenza nell’attività pubblica. Tale decreto non sembra aver sortito ancora gli sperati effetti nemmeno nella sua formale esecuzione, se è vero che il monitoraggio del Dipartimento della Funzione Pubblica rileva decine di ritardo e di inadempimenti. 
+Il d.lgs. n. 74/2017 di riforma del d.lgs. n. 150/2009, interviene modificando il sistema di misurazione delle performance, attribuendo agli OIV (Organismo Indipendente di Valutazione) nuovi poteri e capacità di iniziativa per il miglioramento della valutazione, con riflessi sull’organizzazione amministrativa, inserendo alcune novità all’interno del processo valutativo con la partecipazione diretta dei cittadini e degli utenti in grado di poter segnalare le proprie osservazioni, incrementando la trasparenza nell’attività pubblica. Tale decreto non sembra aver sortito ancora gli sperati effetti nemmeno nella sua formale esecuzione, se è vero che il monitoraggio del Dipartimento della Funzione Pubblica rileva decine di ritardi e di inadempimenti. 
 
 
 .. admonition:: Raccomandazione 2.1q - Rivedere criteri di selezione, ruolo e status dei componenti degli OIV
@@ -249,7 +249,7 @@ Il d.lgs. n. 74/2017 di riforma del d.lgs. n. 150/2009, interviene modificando i
 
 .. admonition:: Raccomandazione 2.1s - Adottare un modello valutativo a 360°, con l'MBO focalizzato su progetti innovativi, di natura qualitativa e quantitativa, realizzati
 
-    Prevedere nella parte variabile del premio al dirigente, una quota significativa di premio legato ai suoi risultati in tema di innovazione, di progettualità sia tecnica che organizzativa. Sempre ai fini del premio annuo ai dirigenti ed alle PO, introdurre meccanismi valutativi dal basso, in termini di feed-back dai collaboratori, mediante indagini di customer continui e ripetuti nel tempo. 
+    Prevedere nella parte variabile del premio al dirigente, una quota significativa di premio legato ai suoi risultati in tema di innovazione, di progettualità sia tecnica che organizzativa. Sempre ai fini del premio annuo ai dirigenti ed alle PO (Posizione Organizzative), introdurre meccanismi valutativi dal basso, in termini di feed-back dai collaboratori, mediante indagini di customer continui e ripetuti nel tempo. 
 
  
 
@@ -272,7 +272,7 @@ Pur se normato più volte è previsto esplicitamente sia nella Riforma Brunetta 
 
 .. admonition:: Raccomandazione 2.1u - Spingere ogni ufficio pubblico a esplicitare la propria utenza, interna ed esterna
 
-    Tipicamente, le amministrazioni centrali rifuggono dall'obbligo relativo alla valutazione da parte dell’utenza, affermando di non erogare servizi diretti ai cittadini. Va invece affermato il principio secondo cui ogni ufficio pubblico - inteso non soltanto come PA, ma come singola struttura con a capo un responsabile - deve necessariamente avere un'utenza (interna o esterna), pena la sua inutilità (e dunque l'eventualità che sia soppresso). Bisogna affermare con forza che per ottenere una valutazione della performance davvero efficace, ciascun ufficio pubblico deve prima esplicitare qual è la propria utenza e poi deve attivarsi per ascoltarla, sia ai fini della programmazione che a scopi valutativi (ovviamente senza attribuirle alcuna esclusività). 
+    Tipicamente, le amministrazioni centrali rifuggono dall'obbligo relativo alla valutazione da parte dell’utenza, affermando di non erogare servizi diretti ai cittadini. Va invece affermato il principio secondo cui ogni ufficio pubblico - inteso non soltanto come PA, ma come singola struttura con a capo un responsabile - deve necessariamente avere un'utenza (interna o esterna o persone o aziende o altre pa), pena la sua inutilità (e dunque l'eventualità che sia soppresso). Bisogna affermare con forza che per ottenere una valutazione della performance davvero efficace, ciascun ufficio pubblico deve prima esplicitare qual è la propria utenza e poi deve attivarsi per ascoltarla, sia ai fini della programmazione che a scopi valutativi (ovviamente senza attribuirle alcuna esclusività). 
 
 |
 
